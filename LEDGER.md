@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 24) | **OS version:** 2.2
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 26) | **OS version:** 2.3
 
 ---
 
@@ -72,6 +72,118 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 26 — GENERATE: new hunting ground (anti-tunnel) · EXPAND-1 · May 30, 2026
+**Why generation is now sanctioned** (anti-loop was active): Cycle 25 demoted the FI engine 🔬→🟡, so no
+🔬 idea has un-sent gating conversations *that the board waits on*. The CONCENTRATION CHECK (new v2.3) +
+operator directive both demand diversification into a NEW hunting ground that deploys a different moat.
+
+**MOAT-DEPLOYMENT SWEEP (new v2.3 / L10):** edge-map TRUE MOATs = (a) KR liability entity [used by the
+parked FI engine], (b) data-byproduct-of-a-service [generic], (c) **David's site-selection IP — UNUSED for
+24 cycles.** → bias the axis to deploy (c). **AXIS-B asset-pair: David's site-IP × Ace's full-stack+AI.**
+
+### EXPAND-1 — one-sentence (GENERATE output)
+> **KR multi-unit & franchise operators (본사 expansion teams, 10–300 stores)** pay for **"where do we open
+> the next store, and how much will it make?"** today via **외주 컨설팅 (맥세스·유재은·한국경영시스템즈) + gut +
+> free 소상공인/나이스비즈맵 tools**; we do **brand-specific AI store-revenue forecasting + site scoring trained
+> on the chain's OWN store performance + KR commercial-geo data**; defensible because **David's proprietary
+> site-selection IP encodes the model + each client's siloed store-performance↔location data is an L4 service-
+> byproduct that compounds per brand**; fits **MODE-MOAT (with a MODE-CASH per-site-report leg)**; first revenue
+> in **~60–90 days (paid pilot / per-site report)** within **~10–13 hr/wk (Ace builds, David sells the domain)**.
+
+### COMP-SCAN (new v2.3 — evidence before gating)
+- **Global analog exists & is PAID** → category is real, WTP proven: SiteZeus & Buxton (franchise/multi-unit
+  predictive site selection, custom-quote enterprise), Placer.ai (foot-traffic, ~$30K+/yr), GrowthFactor
+  (from ~$200/mo). The differentiated value the comps converge on = **brand-specific *revenue* forecasting**
+  ("how much will THIS site make for MY brand"), not generic foot-traffic. (Sources logged in chat.)
+- **Local substitute** → KR 소상공인 상권분석 is commoditized/FREE (소상공인진흥공단 상권정보, 서울 골목상권,
+  나이스비즈맵) — so the *solo 소상공인* segment is T1 commodity. The PAID gap is the **multi-unit 본사** that
+  evaluates many sites/yr and currently buys *consulting* (proven, enforcement-independent WTP).
+
+### SYMMETRIC GATE
+- KILL-SEARCH: incumbents have data scale (Buxton since 1994, NICE owns KR 상권 data); generic 상권분석 is free;
+  "IP" might be tacit consulting skill, not productizable; forecast errors destroy trust fast.
+- WIN-SEARCH: KR mid-size chains too small for Buxton/SiteZeus enterprise pricing + underserved by free DIY
+  tools + consultants don't leave a compounding model behind → a brand-tuned, consultant-grade-but-software-
+  priced forecaster, sold via David's domain relationships, can take the mid-market slice.
+| Gate | Verdict | Note |
+|---|---|---|
+| G0 foreigner-proof | ✅ | KR commercial geography + KR franchise relationships + Korean 상권 data |
+| G1a budget exists | ✅ | 본사 already pay 출점 consultants (맥세스 등) — proven, recurring spend |
+| G1b budget winnable | 🟡 | must beat consultant + free tools on brand-specific forecast value |
+| G2 named TRUE-MOAT | ✅✅ | **David's site-selection IP — the first idea in 24 cycles with a real, non-SEED moat** |
+| G3 moat type | 🟡 | IP + per-client siloed data (L4-clean) — NOT data-scale; BUT watch incumbents' scale (harden A2/A4) |
+| G4 disconfirm survived | ✅ (narrowed) | survives by narrowing to mid-market multi-unit 본사 (not free-served solos, not enterprise Buxton turf) |
+| G5 distribution <90d | 🟡 | rides **David's** network (his domain) — load-bearing unknown = which 본사 he can reach |
+| G6 ceiling (MODE-MOAT) | 🟡→✅ | SiteZeus/Buxton are $XXM+ co's; KR franchise mkt is huge; clears $30M IF it becomes the brand-forecast standard + data network. Anti-gaming: mid-market slice alone may be MODE-CASH-sized — moat leg needs multi-brand expansion. |
+| G7 why-now | 🟡 | **softer than a regreg deadline** — AI makes brand-specific forecasting cheap now (vs Buxton's heavy-data 1994 model); post-COVID 출점 risk-aversion. Honestly logged as the weakest gate. |
+| G8 bandwidth-fit | ✅ | MVP = forecasting model + thin UI fed by a chain's store data + public geo; async-buildable |
+| **G9 WTP-TRIGGER (new)** | ✅ **PULL** | a bad 출점 = a failed store = quantified $ loss → ROI/loss-PULL, **enforcement-INDEPENDENT.** The exact opposite of the FI engine's T7 problem. This is why EXPAND-1 is structurally healthier. |
+**Gate result:** SURVIVES (contingent on G5 distribution + the David-IP unknown). No kill-type.
+
+### HARDEN — bull/bear adversary (built-in)
+- **#1 limitation:** forecast *credibility* — one wrong revenue prediction on a real lease and trust dies;
+  and David's "IP" may be tacit (a productizability risk). MUTATE: ship as **decision-support + confidence
+  bands + "compare to your existing stores"**, not a single magic number; price the *pilot* on back-testing
+  against the chain's OWN historical openings (cheap proof, no lease risk). Regression-check: still bandwidth-fit ✅.
+- **BULL:** finally deploys the dormant TRUE MOAT; enforcement-independent ROI-WTP; a proven consulting market
+  to displace with software margin; data compounds per brand (L4); perfect Ace/David division of labor.
+- **BEAR (logged as permanent watch-risk):** incumbents' data-scale + NICE's ownership of KR 상권 data could
+  commoditize the inputs; mid-size KR chains may not evaluate enough sites/yr to sustain recurring SaaS (→ may
+  be per-report MODE-CASH, not subscription); **David's IP may not productize** (tacit expertise ≠ model).
+- **Resolution:** promote to validate. Watch-risks carried: forecast-accuracy-trust, IP-productizability, recurring-vs-per-report.
+
+### VALIDATE-OR-DIE (for the discovery David must run)
+1. **(WTP / recurring)** Will a KR 본사 pay for brand-specific AI forecasting *instead of / on top of* their
+   current consultant — recurring, or only per-site? *(ask what they DID on the last 출점 + what it cost.)*
+2. **(moat productizability)** Is David's site-selection IP encodable into a model, or is it tacit judgment?
+
+**Status:** 🟢 **NEW LEAD / 🌱→⚙️ HARDENING→🔬 VALIDATE.** 0/3 buyer signals (cannot exceed YELLOW on desk
+research — §5). Validation channel = **David's network** (his domain), NOT Ace's dad/Coxwave (that was the FI
+channel). Decision date for EXPAND-1 = **2026-07-15**.
+**Seeded for next cycle (funnel refill, de-concentration):** EXPAND-2 (post-opening 부진점 turnaround analytics,
+same buyer — expansion SKU, do NOT split focus) + 1 deliberately NON-retail axis TBD (needs David's network map).
+
+---
+
+## CYCLE 25 — META-LOOP (operator-triggered): reject the FI proactive-SaaS hypothesis · May 30, 2026
+**Trigger:** operator (Ace) stress-tested the board's load-bearing assumption — *"mid-tier firms (small/mid
+asset managers, regional savings banks, small fintechs) will proactively pay a recurring SaaS subscription
+out of good hygiene BEFORE a regulatory forcing function."* Correct instinct → ran the META-LOOP on it.
+
+### FALSE-POSITIVE HUNT (the assumption the board over-trusted)
+Desk EVIDENCE gathered this cycle (sources logged in chat):
+1. **책무구조도 제재 운영지침**: a **2-year 한시(限時) 운영** grace period per cohort, and sanctions apply **only to
+   violations AFTER submission** (지배구조법 부칙 §4). Mid-tier files Jul-2026 → **effectively no teeth until ~2028.**
+2. **실증 behavior**: securities firms that already implemented 책무구조도 call it a **공시 부담** (a cost to
+   minimize), not a capability to invest in.
+3. **Category pattern**: compliance software globally is bought on **enforcement-PULL** ("an OFAC solution costs
+   <20% of the fine"); proactive/hygiene WTP appears only under *continuous* audit pressure (SOC 2 etc.), which
+   the KR mid-tier FI does NOT face for 2 more years.
+**VERDICT: hypothesis REJECTED.** The pure recurring-SaaS cash leg is **T7 (pure hygiene-PUSH, no forcing
+function)** for the 2026–2028 window. Symmetric WIN-SEARCH: only the **L9 managed-service** framing survives
+(rides proven *consulting*-WTP) — a lumpy services business, NOT the venture the board over-weighted.
+
+### PORTFOLIO VERDICT (CONCENTRATION CHECK, new v2.3)
+Cycles 17→24 produced 5 survivors (CASH-D1, LEAD-1, MOAT-D1, MOAT-A1, DATA-C1) = **same engine, one shared
+bear (L6 software-WTP).** That shared bear is now confirmed fatal for the near term → it's a PORTFOLIO risk,
+not a per-idea watch-risk. **Action: DEMOTE the entire FI engine 🔬→🟡 PARK** with revive-trigger = (a) a real
+buyer signal from the (cheap, still-valid) DISCOVERY_KIT, OR (b) ~2028 grace-expiry / an actual exam wave, OR
+(c) discovery Q0 proves software-WTP. The discovery kit stays usable opportunistically; **the board no longer
+waits on it.**
+
+### METHODOLOGY FIXES (the valuable output) → OS v2.2 → v2.3
+1. **G9 WTP-TRIGGER gate** + **kill-type T7**: classify revenue as enforcement/ROI-**PULL** vs hygiene-**PUSH**;
+   PUSH without a forcing function is presumed ABSENT (max YELLOW, desk research can't grant it). *This gate would
+   have flagged the FI engine at Cycle 17 instead of Cycle 25.*
+2. **L6 sharpened**: grace-period / 시범·한시운영 / no-teeth-yet = PUSH; a why-now built on a teeth-less deadline is a MIRAGE.
+3. **L10 (new)**: an unused named TRUE-MOAT is a generation failure → mandatory moat-deployment sweep each GENERATE.
+   (David's site-IP sat idle 24 cycles → directly produced Cycle 26's EXPAND-1.)
+4. **CONCENTRATION CHECK** (§7): ≥3 survivors sharing one bear ⇒ stop same-engine generation, diversify.
+5. **COMP-SCAN** (§3, mandatory): evidence (global analog + local substitute) before gating, not armchair.
+**No new idea generated this cycle (this is a meta/audit cycle); EXPAND-1 generated next, in Cycle 26.**
 
 ---
 

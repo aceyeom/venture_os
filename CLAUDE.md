@@ -1,4 +1,4 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.2)
+# THE FOUNDER'S OPERATING SYSTEM (v2.3)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 ### v2.0 changelog: added forcing function, symmetric judgment, buyer-signal-as-input, anti-gaming check,
@@ -7,6 +7,15 @@
 ### (customer-handed, siloed), NOT scale-aggregated data (owned by 캐시노트-type incumbents).
 ### v2.2 changelog (cycle 22): added L9 (service-wrapped-software entry for enforcement-gated markets with
 ### unproven software-WTP) after a re-stress-test found the whole FI board shares ONE bear (L6 software-WTP).
+### v2.3 changelog (cycle 25, OPERATOR-TRIGGERED): the bear in v2.2 was treated as "validate later" instead
+### of gated — so 5 cycles over-concentrated on one engine while a documented TRUE MOAT (David's site-IP) sat
+### unused. Fixes: (1) NEW GATE G9 WTP-TRIGGER (enforcement-PULL vs hygiene-PUSH; push-WTP w/o a forcing
+### function is presumed ABSENT, max YELLOW); (2) refined L6 (grace-period/시범운영/한시운영 = no teeth = PUSH,
+### why-now is a mirage); (3) NEW L10 (an unused named TRUE-MOAT = a generation failure; rotate an axis to
+### deploy each moat); (4) CONCENTRATION CHECK in §7 (≥3 survivors sharing one bear ⇒ that bear is a PORTFOLIO
+### risk ⇒ STOP same-engine generation, diversify); (5) mandatory COMP-SCAN in GENERATE/GATE (find the global
+### analog + local substitute as EVIDENCE before gating). Evidence that the FI 책무구조도 cash leg is PUSH/no-
+### teeth-til-2028 → entire FI engine demoted 🔬→🟡 PARK; lead is now EXPAND-1 (site-selection, MODE-MOAT).
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -52,23 +61,34 @@ AXIS-C data-byproduct (service that generates uncopyable data) · AXIS-D buyer-b
 buyer, find what they overpay for/do in spreadsheets) · AXIS-E enforcement-shock watch (standing task).
 OUTPUT = one sentence: "[BUYER] pays for [JOB] today via [SUBSTITUTE]; we do [WEDGE]; defensible because
 [MOAT SENTENCE]; fits [MODE]; first revenue in [TIME] within [BANDWIDTH]." Can't write it → not ready.
+**MOAT-DEPLOYMENT SWEEP (v2.3, L10): before picking the axis, list every named TRUE-MOAT asset (edge map)
+and check which are UNUSED across recent cycles. An unused moat is a generation failure — bias the axis to
+deploy it (e.g., David's site-IP → AXIS-B asset-pair). Don't keep mining a hunting ground where the moat is
+weak while a strong moat sits idle.**
 
 ═══════════════════════════════════════════════════════════════
 ## 3. GATE — SYMMETRIC (fixes "biased toward killing" + "gameable")
 ═══════════════════════════════════════════════════════════════
-For EACH idea run BOTH searches, equal effort:
+For EACH idea run BOTH searches, equal effort. **COMP-SCAN FIRST (v2.3, mandatory, EVIDENCE not armchair):
+find (i) the GLOBAL analog — does this category exist & get paid for elsewhere? what's the price band &
+proven WTP trigger? and (ii) the LOCAL incumbent / free substitute. No comp-scan → gating is just opinion.**
   (a) KILL-SEARCH: who owns this / why does it fail?
   (b) WIN-SEARCH: under what real, specific conditions could a 2-person team take a profitable slice?
 KILL ONLY IF win-conditions are ALSO absent. Then check gates in order; one fail = stop + log kill-type.
   G0 hunting-ground (foreigner-proof?) · G1a budget exists · G1b budget winnable ·
   G2 named TRUE-MOAT asset (not "relationships") · G3 moat type (not data-scale/GPU/capital wall) ·
   G4 disconfirm survived · G5 distribution <90-day test path · G6 ceiling (per MODE) ·
-  G7 why-now catalyst · G8 BANDWIDTH-FIT (path to revenue fits ~10-13 hr/wk now?).
+  G7 why-now catalyst · G8 BANDWIDTH-FIT (path to revenue fits ~10-13 hr/wk now?) ·
+  **G9 WTP-TRIGGER (v2.3): is revenue enforcement/ROI-PULL (a live fine, exam-with-teeth, deadline-with-teeth,
+   or a quantified loss-event compels the buy) or hygiene-PUSH (buyer pays proactively for good practice)?
+   PUSH-WTP without a forcing function is PRESUMED ABSENT → cap at YELLOW + flag high-risk; desk research
+   CANNOT grant it (only a buyer signal can). Grace-period / 시범운영 / 한시운영 / no-teeth-yet = PUSH, not
+   PULL — the why-now is a mirage. Kill-type for a pure-PUSH idea with no signal = T7.**
 ANTI-GAMING CHECK (mandatory after any segment-narrowing): "Does the narrowed segment that saved G4
 still pass G6 (ceiling) ON ITS OWN?" If narrowing to dodge competitors breaks the ceiling, the idea is
 GAMED — mark it and either widen (and re-face competitors) or accept it as MODE-CASH/niche only.
 KILL-TYPES: T1 commodity · T2 incumbent-owns-wedge · T3 capital/license/data wall · T4 ceiling-low ·
-  T5 wrong-team/no-distribution · T6 bandwidth-incompatible-now.
+  T5 wrong-team/no-distribution · T6 bandwidth-incompatible-now · T7 pure-hygiene-PUSH-WTP-no-forcing-function.
 
 ═══════════════════════════════════════════════════════════════
 ## 4. HARDEN (make survivors stronger; same loop, now adversarial)
@@ -110,6 +130,11 @@ STATUSES: 🟢 BUILD · 🔬 VALIDATE · 🟡 PARK(+revive-trigger) · 🔴 KILL
 LEDGER row per idea: name · one-sentence · mode · axis · gate(+kill-type) · harden-shape · bull/bear ·
   buyer-signals(n) · money/exec · status · validate-or-die · revive-trigger.
 CROSS-IDEA SYNTHESIS every 3-4 ideas: same-buyer? same-moat-shape? convergence? repeatable-edge?
+**CONCENTRATION CHECK (v2.3): if ≥3 surviving ideas share the SAME load-bearing bear, that bear is now a
+PORTFOLIO risk, not a per-idea watch-risk. STOP generating same-engine ideas → either (a) VALIDATE the bear
+cheaply, or (b) DIVERSIFY into a new hunting ground (rotate axis + deploy a different moat). "Convergence on
+one engine" can be a strength signal OR a single-point-of-failure — distinguish them by asking: is the shared
+moat strong (converge) or is the shared BEAR fatal (diversify)? (Cycle 17→24 failed this: 5 survivors, 1 bear.)**
 
 **META-LOOP (the framework improves itself — run every 8 ideas or monthly):**
   1. HIT-RATE AUDIT: which gates did the actual killing? Which NEVER fired (dead weight → cut them)?
@@ -121,17 +146,22 @@ CROSS-IDEA SYNTHESIS every 3-4 ideas: same-buyer? same-moat-shape? convergence? 
   The methods are NOT fixed. This loop is how they change. Nothing here is sacred except the Prime Directive.
 
 ═══════════════════════════════════════════════════════════════
-## 8. THE 8 LAWS (current best; the META-LOOP may rewrite any of them)
+## 8. THE 10 LAWS (current best; the META-LOOP may rewrite any of them)
 ═══════════════════════════════════════════════════════════════
 L1 build the accountability layer, not the commodity primitive · L2 loud pain in a mature market = served ·
 L3 warm channel ≠ winnable without buildable product · L4 durable moat = liability-entity + data-byproduct-
 of-a-regulated-SERVICE (customer-handed/siloed, NOT scale-aggregated — refined v2.1) · L5 own the unglamorous
-workflow regulation creates, not the headline tool · L6 no teeth/grace
-period = no WTP yet; need enforcement-sensitive buyer · L7 SEED≠MOAT; write the moat sentence · L8
-hardware/build skill = capability, not moat · L9 (provisional, v2.2; calibrated c23) enforcement-gated market +
-unproven software-WTP but proven service-WTP → enter as service-wrapped-software (managed service). Precedent:
-KR FIs already buy MSSP/RegTech on subscription. Boundary: managed service triggers 업무위탁 규정 + cannot
-replace the internal 준법감시인 (it supports, not replaces); ACV still buyer-unvalidated.
+workflow regulation creates, not the headline tool · **L6 (sharpened v2.3) no teeth / grace period / 시범·한시
+운영 = no PULL-WTP yet → revenue would rest on hygiene-PUSH, which is presumed ABSENT (see G9); a why-now built
+on a teeth-less deadline is a MIRAGE. Need an enforcement-sensitive buyer with a LIVE forcing function.** ·
+L7 SEED≠MOAT; write the moat sentence · L8 hardware/build skill = capability, not moat · L9 (provisional,
+v2.2; calibrated c23) enforcement-gated market + unproven software-WTP but proven service-WTP → enter as
+service-wrapped-software (managed service). Precedent: KR FIs already buy MSSP/RegTech on subscription.
+Boundary: managed service triggers 업무위탁 규정 + cannot replace the internal 준법감시인 (it supports, not
+replaces); ACV still buyer-unvalidated. · **L10 (new v2.3) a documented TRUE-MOAT asset left UNUSED across
+cycles is a generation failure, not neutral: every cycle's GENERATE must run the moat-deployment sweep and
+bias an axis toward deploying an idle moat. (Trigger: David's site-selection IP sat unused 24 cycles while
+the board mined a moat-less FI hunting ground.)**
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
 
 ═══════════════════════════════════════════════════════════════
@@ -141,7 +171,21 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 23 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 26 — May 30 2026; full detail in LEDGER.md)
+🧭 CYCLE 26 = GENERATE (new hunting ground, anti-tunnel). NEW LEAD: **EXPAND-1** — AI store-revenue forecasting
+   & next-site selection for KR multi-unit / franchise operators. Axis-B (asset-pair: David's site-selection IP
+   × Ace's AI/full-stack), MODE-MOAT w/ a MODE-CASH per-site-report leg. WHY IT'S HEALTHIER THAN THE FI ENGINE:
+   G2 finally has a real moat (David's site-IP); G9 passes as ROI/loss-PULL (a bad 출점 = real $ lost, enforcement-
+   independent); proven WTP (KR franchises already pay 맥세스/유재은-type consultants; global comps SiteZeus/Buxton/
+   Placer.ai = paid category, $200/mo→$30K+/yr). Survives gate (contingent). Validate-or-die: (1) will a KR 본사 pay
+   for brand-specific AI forecasting vs their consultant? (2) is David's IP productizable or tacit? 0/3 signals.
+🔴 CYCLE 25 = META-LOOP (operator-triggered). REJECTED the FI engine's load-bearing hypothesis ("mid-tier FIs
+   proactively pay recurring SaaS pre-enforcement") on EVIDENCE: 책무구조도 제재 has a 2-yr 한시-운영 grace + sanctions
+   only post-submission ⇒ no teeth til ~2028; 증권사 call it 공시 부담; compliance SaaS globally is fine-PULL not
+   hygiene-PUSH. → ENTIRE FI ENGINE (CASH-D1/LEAD-1/MOAT-A1/MOAT-D1/DATA-C1) demoted 🔬→🟡 PARK. Revive-trigger:
+   a real buyer signal from the (cheap, still-valid) discovery kit, OR ~2028 grace-expiry/exam-wave, OR Q0 proves
+   software-WTP. Methodology fixes → OS v2.3: G9 WTP-TRIGGER gate, T7 kill-type, refined L6, new L10, CONCENTRATION
+   CHECK, mandatory COMP-SCAN. The framework's own blind spot (24 cycles ignoring David's site-IP) is now gated.
 🔁 CYCLE 23 = META-LOOP. Pressure-tested L9 before it hardened: CONFIRMED via MSSP/RegTech subscription
    precedent (FIs do buy managed services); REFINED with the 업무위탁-규정 + internal-준법감시인 boundary;
    ACV (₩100-300M) left buyer-unvalidated. No version bump (calibration, not a new rule). New watch-risk:
@@ -171,22 +215,19 @@ buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
    governance 소명 is the #1 pain. Watch-risk = vendor-risk paradox.
 🔴 CYCLE-18 KILL: 중대재해처벌법 5-49인 SME safety SaaS (K17, T1/T5) — anti-tunnel test confirmed leaving the
    FI buyer forfeits both moat (G2) and distribution (G5). 3 laws now converge on the same FI shape.
-⚠️ STANDING CONSTRAINT: bottleneck is VALIDATION, not idea supply — 3 surviving FI ideas, 0 buyer signals.
-🔬 LEAD-1 AI-compliance execution layer → consolidated compliance ops, mid-tier KR FIs. NOW DUAL-CLASSED.
-   ANTI-GAMING FLAG → RESOLVED (cycle 17): confirmed GAMED. Mid-tier-FI-AI-compliance ALONE ≈ $4-8M ARR
-   (does NOT clear $30M). Fix = SPLIT LEGS: (a) WEDGE → MODE-CASH (fast, profitable, passes lowered
-   ceiling); (b) $30M MODE-MOAT thesis now rests only on same-buyer expansion + the cross-client
-   FSS-exam BENCHMARK data product (MOAT-D1) — both UNVALIDATED. Two validate-or-die questions now.
-   0 buyer signals → CANNOT exceed YELLOW until validated.
-🔬 CASH-D1 책무구조도 (Responsibilities-Map) maintenance SaaS for mid-tier KR FIs. MODE-CASH, Axis-D.
-   Survived all gates; YELLOW; FASTEST/HOTTEST path on the board — statutory mid-tier deadline Jul 2 2026
-   (33 days out), untooled, CEO personal liability. → LEADS LEAD-1's discovery as the concrete hook.
-⚙️ MOAT-D1 FSS-exam-readiness BENCHMARK / consolidated-compliance data layer. MODE-MOAT, Axis-D.
-   Survived (contingent); folded into LEAD-1 as its resolved MOAT leg. Load-bearing risk = cross-client
-   data CONSENT. Not a separate 21st idea (respects anti-loop + synthesis).
-🟡 PARK: TAAMS-service · David's algorithm · NuvoVet (GTM-blocked).
-🔴 KILL: 18 ideas (see ledger).
-NEXT ACTION (per Prime Directive — ANTI-LOOP active: do NOT generate new ideas): VALIDATE. Send 3-5
-   discovery messages via Ace's dad + Coxwave led by the 책무구조도 Jul-2 deadline. Ask what they DID.
-   Listen for both validate-or-die signals (subscription WTP; vendor-consolidation + data-consent).
-   Decision date = 2026-07-02.
+🟢 EXPAND-1 (NEW LEAD, cycle 26) AI store-revenue forecasting + next-site selection for KR multi-unit/franchise
+   operators. Axis-B (David site-IP × Ace AI), MODE-MOAT + MODE-CASH per-site-report leg. Passes G2 (real moat)
+   + G9 (ROI/loss-PULL, enforcement-free) + proven WTP comps (SiteZeus/Buxton/Placer.ai; KR 맥세스/유재은 consult).
+   Validate-or-die: (1) KR 본사 pay for brand-specific AI forecast vs consultant? (2) David's IP productizable? 0/3.
+🟡 PARK — FI ACCOUNTABILITY ENGINE (demoted 🔬→🟡 cycle 25, hypothesis rejected, G9/L6 fail, no teeth til ~2028):
+   CASH-D1 (책무구조도 maint) · LEAD-1 (AI-compliance ops) · MOAT-D1 (FSS benchmark) · MOAT-A1 (보안 소명) · DATA-C1
+   (민원). Revive-trigger: a real buyer signal from the (cheap, still-valid) DISCOVERY_KIT, OR ~2028 grace-expiry /
+   exam wave, OR discovery Q0 proves software-WTP. The discovery kit can still be sent opportunistically — but the
+   board NO LONGER WAITS on it. Only the L9 managed-service framing has a near-term (lumpy, services) cash path.
+🟡 PARK (other): TAAMS-service · David's algorithm · NuvoVet (GTM-blocked).
+🔴 KILL: 19 ideas (see ledger; +책무구조도-proactive-SaaS-hypothesis T7).
+NEXT ACTION (per Prime Directive): (1) HARDEN EXPAND-1 (bull/bear + attack vectors) — partly done cycle 26.
+   (2) VALIDATE EXPAND-1 via DAVID'S network (his domain) — ask a 본사/multi-unit operator what they DID on their
+   last 출점 decision, what it cost, how often they regret a site. (3) Keep generating 1 more NON-retail axis to
+   refill the funnel + de-concentrate. GATING UNKNOWNS for the founders: David's site-IP specifics (domain +
+   productizable?) + which expansion buyers he can reach. Decision date for EXPAND-1 validation = 2026-07-15.
