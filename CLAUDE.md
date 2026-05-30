@@ -1,4 +1,4 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.3)
+# THE FOUNDER'S OPERATING SYSTEM (v3.0)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 ### v2.0 changelog: added forcing function, symmetric judgment, buyer-signal-as-input, anti-gaming check,
@@ -16,12 +16,34 @@
 ### risk ⇒ STOP same-engine generation, diversify); (5) mandatory COMP-SCAN in GENERATE/GATE (find the global
 ### analog + local substitute as EVIDENCE before gating). Evidence that the FI 책무구조도 cash leg is PUSH/no-
 ### teeth-til-2028 → entire FI engine demoted 🔬→🟡 PARK; lead is now EXPAND-1 (site-selection, MODE-MOAT).
+### v3.0 changelog (cycle 27, OPERATOR-TRIGGERED — MAJOR, philosophy shift): operator found the OS was still a
+### KILL-MACHINE that over-researches the death case, under-researches the path THROUGH, and worships unicorns —
+### proof: it killed David's site-IP 3× (K4/5/6 "incumbents exist") then re-generated it as the lead (EXPAND-1).
+### CORE RESET — "CAPTURABLE > BIG": a small, profitable, capturable slice is a terminal WIN, not a consolation;
+### no idea is a flawless unicorn (they don't exist); competition/challenges are EXPECTED and ACCEPTABLE; we do
+### NOT need to capture a whole market — just a paying slice that clears our bandwidth. Fixes: (1) RESCUE-BEFORE-
+### KILL (a gate fail triggers a mandatory mutation attempt, not a kill); (2) WALL-vs-SPEED-BUMP (kill ONLY behind
+### a structural WALL — capital/license/winner-take-all/true-commodity-no-edge; a mere incumbent = SPEED-BUMP →
+### needs an overcome-strategy, not a tombstone); T2 retired → T2-WALL (much higher bar); (3) DEEP COMP-SCAN with
+### research-depth ∝ irreversibility (kills demand the DEEPEST, KR-specific research — never kill on one shallow
+### US-centric search); (4) CAPTURABLE-SLICE reframes G6 (cash: "enough revenue for 10-13 hr/wk?" not "$30M?");
+### narrowing to a winnable niche is FOCUS, not gaming; (5) WIN-TYPES taxonomy (W1-W6) for true symmetry; (6)
+### STANDING OVER-KILL RE-AUDIT with teeth. New laws L11 (capturable>big) · L12 (kill walls not speed-bumps) ·
+### L13 (research depth ∝ irreversibility). The Prime Directive is unchanged; everything else served the kill bias.
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
 ═══════════════════════════════════════════════════════════════
 The goal is NOT to avoid bad ideas. It is to COMMIT to the best available idea by a deadline and produce
 a buyer-validated BUILD PLAN. Killing is a means, not the product.
+**★ CAPTURABLE > BIG (v3.0 prime frame — read before every gate):** the win condition is a CAPTURABLE,
+  PROFITABLE slice that clears our bandwidth — even small revenue (~₩100-500M/yr) is a WIN, not a consolation
+  prize. We do NOT need to dominate or capture a whole market. NO IDEA IS A FLAWLESS UNICORN — they do not
+  exist; every real idea has competitors and challenges, and that is ACCEPTABLE. The question is NEVER "is this
+  uncontested / could this be a $30M venture?" — it is "can THIS 2-person team take a paying, defensible-enough
+  slice and ship revenue?" Kill an idea only when it cannot make MEANINGFUL revenue for US behind a STRUCTURAL
+  WALL — never because a competitor exists or because it won't be huge. (This frame overrides any gate that
+  smuggles unicorn-bias back in. MODE-MOAT still chases ceiling; MODE-CASH does NOT.)
 - FORCING FUNCTION: set a DECISION DATE at the start. On that date, the highest-scoring surviving idea
   is PROMOTED to BUILD PLAN even if imperfect. "Best by [date]" > "perfect, never."
 - BUILD QUOTA: at most 3 generate→gate→harden cycles before one idea MUST advance to buyer-validation.
@@ -67,28 +89,54 @@ deploy it (e.g., David's site-IP → AXIS-B asset-pair). Don't keep mining a hun
 weak while a strong moat sits idle.**
 
 ═══════════════════════════════════════════════════════════════
-## 3. GATE — SYMMETRIC (fixes "biased toward killing" + "gameable")
+## 3. GATE — SYMMETRIC + RESCUE-FIRST (v3.0 rebuild: kills the kill-machine)
 ═══════════════════════════════════════════════════════════════
-For EACH idea run BOTH searches, equal effort. **COMP-SCAN FIRST (v2.3, mandatory, EVIDENCE not armchair):
-find (i) the GLOBAL analog — does this category exist & get paid for elsewhere? what's the price band &
-proven WTP trigger? and (ii) the LOCAL incumbent / free substitute. No comp-scan → gating is just opinion.**
-  (a) KILL-SEARCH: who owns this / why does it fail?
-  (b) WIN-SEARCH: under what real, specific conditions could a 2-person team take a profitable slice?
-KILL ONLY IF win-conditions are ALSO absent. Then check gates in order; one fail = stop + log kill-type.
-  G0 hunting-ground (foreigner-proof?) · G1a budget exists · G1b budget winnable ·
-  G2 named TRUE-MOAT asset (not "relationships") · G3 moat type (not data-scale/GPU/capital wall) ·
-  G4 disconfirm survived · G5 distribution <90-day test path · G6 ceiling (per MODE) ·
-  G7 why-now catalyst · G8 BANDWIDTH-FIT (path to revenue fits ~10-13 hr/wk now?) ·
-  **G9 WTP-TRIGGER (v2.3): is revenue enforcement/ROI-PULL (a live fine, exam-with-teeth, deadline-with-teeth,
-   or a quantified loss-event compels the buy) or hygiene-PUSH (buyer pays proactively for good practice)?
-   PUSH-WTP without a forcing function is PRESUMED ABSENT → cap at YELLOW + flag high-risk; desk research
-   CANNOT grant it (only a buyer signal can). Grace-period / 시범운영 / 한시운영 / no-teeth-yet = PUSH, not
-   PULL — the why-now is a mirage. Kill-type for a pure-PUSH idea with no signal = T7.**
-ANTI-GAMING CHECK (mandatory after any segment-narrowing): "Does the narrowed segment that saved G4
-still pass G6 (ceiling) ON ITS OWN?" If narrowing to dodge competitors breaks the ceiling, the idea is
-GAMED — mark it and either widen (and re-face competitors) or accept it as MODE-CASH/niche only.
-KILL-TYPES: T1 commodity · T2 incumbent-owns-wedge · T3 capital/license/data wall · T4 ceiling-low ·
-  T5 wrong-team/no-distribution · T6 bandwidth-incompatible-now · T7 pure-hygiene-PUSH-WTP-no-forcing-function.
+**STEP 1 — DEEP COMP-SCAN (mandatory, EVIDENCE not armchair; research-depth ∝ irreversibility, L13).**
+Because a KILL is near-irreversible (we stop thinking about it), competitor research for a kill must be the
+DEEPEST work in the cycle — never kill on one shallow or US-centric search. Produce a COMPETITOR MAP:
+  • the GLOBAL analog (does this category get paid for elsewhere? price band? proven WTP trigger?) AND
+  • the LOCAL (KR) incumbents BY NAME — what they ACTUALLY do, who they actually serve, their pricing, and —
+    most important — their SPECIFIC GAP (segment they ignore, job they don't do, price tier they're too heavy
+    for). "An incumbent exists in the category" is NOT a finding; "incumbent X serves segment Y at price Z and
+    is absent from slice W" is.
+
+**STEP 2 — CLASSIFY EACH OBSTACLE: WALL or SPEED-BUMP (the core anti-overkill rule, L12).**
+  • WALL (structural, justifies a kill): capital wall · license/regulatory monopoly · genuine winner-take-all
+    network effect · true commodity where WE have zero edge · mass-market with no founder distribution.
+  • SPEED-BUMP (does NOT justify a kill): a competitor exists but serves a different/larger segment, is too
+    expensive/heavy for the slice, has a product gap, or can be undercut / unbundled / partnered / service-
+    wrapped. A SPEED-BUMP requires an OVERCOME-STRATEGY, not a tombstone. Most "T2 incumbent" kills were
+    really speed-bumps (proof: K4/5/6 site-selection killed, then revived as EXPAND-1).
+
+**STEP 3 — SYMMETRIC SEARCH, equal effort:**
+  (a) KILL-SEARCH: what's the WALL (not just "who exists")? (b) WIN-SEARCH: what's the smallest CAPTURABLE,
+  PAYING slice a 2-person team could take, and the overcome-strategy + WIN-TYPE for it?
+
+**STEP 4 — GATES (check in order). A gate FAIL does NOT kill → it triggers STEP 5 (RESCUE).**
+  G0 hunting-ground (foreigner-proof?) · G1a budget exists (someone pays for this job today) · G1b budget
+  winnable (is there a slice below/beside the incumbent?) · G2 edge (MODE-MOAT: a named TRUE-MOAT; **MODE-CASH:
+  a 12-month head-start / founder-domain edge / service-leverage is ENOUGH — a durable moat is NOT required**) ·
+  G3 edge-type (not behind a WALL) · G4 disconfirm survived · G5 distribution <90-day test path · G6
+  **CAPTURABLE-SLICE (replaces ceiling-worship): MODE-CASH asks "is the reachable revenue worth ~10-13 hr/wk?
+  (small is fine)"; MODE-MOAT asks "ceiling $30M+?". Narrowing to a winnable niche is FOCUS, not gaming** ·
+  G7 why-now (or "evergreen pain" — absence of a catalyst is not fatal for MODE-CASH) · G8 BANDWIDTH-FIT ·
+  **G9 WTP-TRIGGER: enforcement/ROI-PULL vs hygiene-PUSH. PUSH-WTP without a forcing function is presumed
+  ABSENT (max YELLOW); grace-period/시범·한시운영/no-teeth = PUSH, why-now is a mirage. Desk research can't
+  grant PULL — only a buyer signal can.**
+
+**STEP 5 — RESCUE-BEFORE-KILL (mandatory; this is the kill-machine fix).** Before logging ANY kill, attempt
+to mutate past the failing gate with the operators: narrow · change-buyer · change-wedge · re-price ·
+service-wrap (L9) · bundle · partner-with-the-incumbent · pick-a-smaller-but-paying-slice. KILL ONLY IF:
+  (i) no mutation clears the gate, AND (ii) WIN-SEARCH finds NO capturable paying slice, AND (iii) the failure
+  is a true WALL (Step 2). Otherwise the idea SURVIVES (possibly re-scoped/MODE-switched) → HARDEN.
+
+WIN-TYPES (name one on every survival — true symmetry vs kill-types): W1 underserved-slice-below-incumbent-
+  pricing · W2 unbundle-one-painful-job · W3 service-wrap-with-software-leverage · W4 partner/channel-with-
+  incumbent · W5 founder-domain-edge-in-a-niche-incumbents-ignore · W6 AI/speed cost-advantage-over-legacy.
+KILL-TYPES (all now require a WALL, not mere competition): T1 true-commodity-no-edge · T3 capital/license/
+  data-SCALE wall · T4 revenue-too-small-EVEN-as-a-niche (not "ceiling < $30M" — that's fine for cash) · T5
+  mass-market-no-founder-distribution · T6 bandwidth-incompatible-now · T7 pure-hygiene-PUSH-no-forcing-
+  function · **T2-WALL incumbent owns it AND no reachable slice survives rescue (replaces old T2; HIGH bar).**
 
 ═══════════════════════════════════════════════════════════════
 ## 4. HARDEN (make survivors stronger; same loop, now adversarial)
@@ -121,7 +169,10 @@ MONEY/100: ACVx3 · underserved-painx3 · WTP-EVIDENCEx3 (0 if no buyer signal) 
 EXECUTION/70: Ace-demo-in-bandwidthx3 · data-cheap-day1x3 · named-warm-buyersx3 · no-license-gapx2 ·
   defensible-12mox2 · low-burnx1.
 GRID: MoneyHi+ExecHi=GREEN(only with buyer signal) · mixed=YELLOW · LowLow=RED.
-MODE re-weights: MODE-CASH triples time-to-rev + bandwidth; MODE-MOAT triples ceiling + defensibility.
+MODE re-weights: MODE-CASH triples time-to-rev + bandwidth **and ZEROES the ceiling + market-growth weights
+(v3.0: a cash idea is NOT penalized for being small — capturable revenue that clears bandwidth scores full);**
+MODE-MOAT triples ceiling + defensibility. **Never let a low ceiling pull a MODE-CASH idea to RED — that's the
+unicorn-bias the Prime Directive forbids. RED is reserved for "no capturable revenue / behind a WALL," not "small."**
 
 ═══════════════════════════════════════════════════════════════
 ## 7. DECIDE + LEDGER + the SELF-IMPROVEMENT META-LOOP (fixes "static methods")
@@ -138,15 +189,21 @@ moat strong (converge) or is the shared BEAR fatal (diversify)? (Cycle 17→24 f
 
 **META-LOOP (the framework improves itself — run every 8 ideas or monthly):**
   1. HIT-RATE AUDIT: which gates did the actual killing? Which NEVER fired (dead weight → cut them)?
-  2. FALSE-NEGATIVE HUNT (most valuable): did any idea we KILLED later get funded / succeed for someone
-     else? If yes, that gate/judgment was WRONG → find the flawed assumption, rewrite the rule.
+  2. **STANDING OVER-KILL RE-AUDIT (v3.0 — now has teeth, most valuable):** walk the ENTIRE kill list. For
+     every kill, ask: was this a true WALL (Step 2) or a category-dismissal SPEED-BUMP? Any kill whose reason
+     is "an incumbent/competitor exists" (old T2), or that cited only US incumbents / a single shallow search,
+     or that pre-dates a relevant change (new tech, new reg, cheaper AI) → RE-OPEN with a fresh DEEP COMP-SCAN.
+     Track a `revived?` column. Also the classic FALSE-NEGATIVE hunt: did any killed idea get funded/succeed
+     for someone else? If yes the gate was wrong → rewrite it. (Trigger: K4/5/6 over-killed → became EXPAND-1.)
   3. CALIBRATION: were HARDEN's "validate-or-die" predictions borne out by real buyer conversations?
      Where desk-research disagreed with buyers, TRUST BUYERS and down-weight that desk signal.
-  4. VERSION IT: rewrite the offending gate/Law/weight, bump version (v2.1, v2.2…), LOG what changed & why.
+  4. **RESEARCH-DEPTH AUDIT (v3.0, L13): did any decision (esp. a kill) rest on shallow / US-only / single-
+     search evidence? Flag it as under-researched and re-do the comp-scan before trusting the verdict.**
+  5. VERSION IT: rewrite the offending gate/Law/weight, bump version, LOG what changed & why.
   The methods are NOT fixed. This loop is how they change. Nothing here is sacred except the Prime Directive.
 
 ═══════════════════════════════════════════════════════════════
-## 8. THE 10 LAWS (current best; the META-LOOP may rewrite any of them)
+## 8. THE 13 LAWS (current best; the META-LOOP may rewrite any of them)
 ═══════════════════════════════════════════════════════════════
 L1 build the accountability layer, not the commodity primitive · L2 loud pain in a mature market = served ·
 L3 warm channel ≠ winnable without buildable product · L4 durable moat = liability-entity + data-byproduct-
@@ -161,7 +218,15 @@ Boundary: managed service triggers 업무위탁 규정 + cannot replace the inte
 replaces); ACV still buyer-unvalidated. · **L10 (new v2.3) a documented TRUE-MOAT asset left UNUSED across
 cycles is a generation failure, not neutral: every cycle's GENERATE must run the moat-deployment sweep and
 bias an axis toward deploying an idle moat. (Trigger: David's site-selection IP sat unused 24 cycles while
-the board mined a moat-less FI hunting ground.)**
+the board mined a moat-less FI hunting ground.)** · **L11 (new v3.0, CAPTURABLE>BIG) a small, profitable,
+capturable slice is a terminal WIN, not a consolation; no idea is a flawless unicorn; the test is "can we
+take a paying slice?" not "is this uncontested / huge?" — small revenue that clears bandwidth counts.** ·
+**L12 (new v3.0) kill WALLS, not SPEED-BUMPS: a competitor existing is a speed-bump needing an overcome-
+strategy, not a tombstone. Kill only behind a structural wall (capital/license/winner-take-all/true-commodity-
+no-edge/mass-market-no-distribution). "An incumbent exists" is the single most over-used false kill (K2→T2).** ·
+**L13 (new v3.0) research depth ∝ irreversibility: a KILL is near-irreversible, so it demands the DEEPEST,
+KR-specific, multi-source research — never kill on one shallow or US-centric search. Cheap/reversible moves
+get light research; expensive/sticky ones get deep research.**
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
 
 ═══════════════════════════════════════════════════════════════
@@ -171,14 +236,22 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 26 — May 30 2026; full detail in LEDGER.md)
-🧭 CYCLE 26 = GENERATE (new hunting ground, anti-tunnel). NEW LEAD: **EXPAND-1** — AI store-revenue forecasting
-   & next-site selection for KR multi-unit / franchise operators. Axis-B (asset-pair: David's site-selection IP
-   × Ace's AI/full-stack), MODE-MOAT w/ a MODE-CASH per-site-report leg. WHY IT'S HEALTHIER THAN THE FI ENGINE:
-   G2 finally has a real moat (David's site-IP); G9 passes as ROI/loss-PULL (a bad 출점 = real $ lost, enforcement-
-   independent); proven WTP (KR franchises already pay 맥세스/유재은-type consultants; global comps SiteZeus/Buxton/
-   Placer.ai = paid category, $200/mo→$30K+/yr). Survives gate (contingent). Validate-or-die: (1) will a KR 본사 pay
-   for brand-specific AI forecasting vs their consultant? (2) is David's IP productizable or tacit? 0/3 signals.
+## CURRENT STATE (updated cycle 28 — May 30 2026; full detail in LEDGER.md)
+🧭 CYCLE 28 = GENERATE under v3.0. NEW LEAD: **CASH-F1** — F&B operator margin / cost-leak AI (invoice-OCR
+   supplier-price-drift + delivery-commission-aware per-menu net profit + repricer) for KR independent/small-chain
+   F&B ops, via David's network. MODE-CASH, Axis-D. Two deep-research passes CONVERGED here (revived K9 + fresh
+   scan). SPEED-BUMP (도도카트 free=cost-tracking only; 푸드로직 costing-only & young; nobody does price-drift+plate-
+   cost). Passes G9 (ROI-PULL, enforcement-INDEPENDENT: delivery fees 16.9–29.3% of sales) + G6 capturable
+   (~₩100–300M/yr). 🔬 VALIDATE, 0/3 signals, decision 2026-07-15. Secondary cash portfolio (same buyer): CASH-F2
+   (franchise-HQ QSC for sub-50-store brands), CASH-F3 (managed review service), EXPAND-1b (interior rollout-PM).
+🔧 CYCLE 27 = META-LOOP (operator-triggered, MAJOR). Operator critique: the OS is a kill-machine that worships
+   unicorns + misses KR competitors. REBUILT → **OS v3.0**: CAPTURABLE>BIG (small profitable slice = a WIN; L11),
+   RESCUE-BEFORE-KILL, WALL-vs-SPEED-BUMP (kill only structural walls; T2 retired→T2-WALL; L12), DEEP COMP-SCAN
+   w/ research-depth ∝ irreversibility (L13), WIN-TYPES, standing over-kill re-audit. OVER-KILL RE-AUDIT (deep KR
+   research): **K9 REVIVED → CASH-F1** (true false-negative); K15 partial-revive (EXPAND-1b); K8 stays killed
+   (reason corrected: KR 시프티/알밤/토스, not US players); **K4/5/6 stay killed, now STRONGER → EXPAND-1 PARKED**
+   (오픈업 프로/Finda launched Oct-2025 = exact product on a NICE card-data WALL; my Cycle-26 gen was shallow —
+   v3.0 caught its author's own error). 
 🔴 CYCLE 25 = META-LOOP (operator-triggered). REJECTED the FI engine's load-bearing hypothesis ("mid-tier FIs
    proactively pay recurring SaaS pre-enforcement") on EVIDENCE: 책무구조도 제재 has a 2-yr 한시-운영 grace + sanctions
    only post-submission ⇒ no teeth til ~2028; 증권사 call it 공시 부담; compliance SaaS globally is fine-PULL not
@@ -215,19 +288,25 @@ buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
    governance 소명 is the #1 pain. Watch-risk = vendor-risk paradox.
 🔴 CYCLE-18 KILL: 중대재해처벌법 5-49인 SME safety SaaS (K17, T1/T5) — anti-tunnel test confirmed leaving the
    FI buyer forfeits both moat (G2) and distribution (G5). 3 laws now converge on the same FI shape.
-🟢 EXPAND-1 (NEW LEAD, cycle 26) AI store-revenue forecasting + next-site selection for KR multi-unit/franchise
-   operators. Axis-B (David site-IP × Ace AI), MODE-MOAT + MODE-CASH per-site-report leg. Passes G2 (real moat)
-   + G9 (ROI/loss-PULL, enforcement-free) + proven WTP comps (SiteZeus/Buxton/Placer.ai; KR 맥세스/유재은 consult).
-   Validate-or-die: (1) KR 본사 pay for brand-specific AI forecast vs consultant? (2) David's IP productizable? 0/3.
+🟢 CASH-F1 (NEW LEAD, cycle 28) F&B operator margin/cost-leak AI — invoice-OCR price-drift + delivery-commission-
+   aware per-menu net profit + repricer. MODE-CASH, Axis-D, via David's F&B network. SPEED-BUMP; W1/W2/W3. G9
+   ROI-PULL (enforcement-free). Capturable ~₩100–300M/yr. Validate-or-die (1 q): "last time 식자재 prices jumped,
+   how did you decide whether/how much to reprice, and what did you use?" 🔬 VALIDATE, 0/3, decision 2026-07-15.
+🌱 SECONDARY CASH PORTFOLIO (same buyer = David's F&B/retail ops; one discovery tests all; build ≤1 pre-signal):
+   CASH-F2 franchise-HQ QSC/SV audit for sub-50-store brands · CASH-F3 managed review/reputation service ·
+   EXPAND-1b HQ multi-store interior rollout-PM (narrow K15 revive, NOT a marketplace=captive-channel wall).
+🟡 PARK — EXPAND-1 (site-selection/forecasting, parked cycle 27): T3 data WALL — 오픈업 프로/Finda (Oct-2025, ~₩825k
+   /mo) on NICE card-data; software play walled, only a David-consulting residue survives. Revive only if 오픈업
+   fails on accuracy → a service-led "interpret the data for your 출점 committee" play.
 🟡 PARK — FI ACCOUNTABILITY ENGINE (demoted 🔬→🟡 cycle 25, hypothesis rejected, G9/L6 fail, no teeth til ~2028):
    CASH-D1 (책무구조도 maint) · LEAD-1 (AI-compliance ops) · MOAT-D1 (FSS benchmark) · MOAT-A1 (보안 소명) · DATA-C1
    (민원). Revive-trigger: a real buyer signal from the (cheap, still-valid) DISCOVERY_KIT, OR ~2028 grace-expiry /
    exam wave, OR discovery Q0 proves software-WTP. The discovery kit can still be sent opportunistically — but the
    board NO LONGER WAITS on it. Only the L9 managed-service framing has a near-term (lumpy, services) cash path.
-🟡 PARK (other): TAAMS-service · David's algorithm · NuvoVet (GTM-blocked).
-🔴 KILL: 19 ideas (see ledger; +책무구조도-proactive-SaaS-hypothesis T7).
-NEXT ACTION (per Prime Directive): (1) HARDEN EXPAND-1 (bull/bear + attack vectors) — partly done cycle 26.
-   (2) VALIDATE EXPAND-1 via DAVID'S network (his domain) — ask a 본사/multi-unit operator what they DID on their
-   last 출점 decision, what it cost, how often they regret a site. (3) Keep generating 1 more NON-retail axis to
-   refill the funnel + de-concentrate. GATING UNKNOWNS for the founders: David's site-IP specifics (domain +
-   productizable?) + which expansion buyers he can reach. Decision date for EXPAND-1 validation = 2026-07-15.
+🟡 PARK (other): TAAMS-service · NuvoVet (GTM-blocked).
+🔴 KILL: 19 ideas (see ledger; K9 REVIVED→CASH-F1; K15 partial-revive; re-audit column added).
+NEXT ACTION (per Prime Directive): VALIDATE CASH-F1 via DAVID'S F&B network. ONE discovery question tests the
+   whole cash portfolio: *"Last time 식자재 prices jumped, how did you decide whether/how much to reprice a menu,
+   and what did you use?"* — listen for a painful manual process described BEFORE naming any product (a polite
+   "sounds useful" = ZERO). Same conversation can probe CASH-F3 (review retainer) + CASH-F2 (QSC). Build ≤1 thing
+   pre-signal. Decision date = 2026-07-15. (FI engine + EXPAND-1 parked; do not build either.)
