@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.2
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 31) | **OS version:** 3.0
 
 ---
 
@@ -72,6 +72,374 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 31 — GENERATE round 2: connection-anchored + greenfield (deep research, v3.0) · May 30, 2026
+**Purpose:** operator asked to re-run deep-research agents on the strongest verticals + explore NEW fields,
+"make sure some use our connections." Ran 4 parallel deep-research agents (David's F&B/franchise network ·
+Ace's Coxwave/AI relationship · greenfield · deepen CASH-F1). Result: **3 new contenders that BEAT the
+re-scoped CASH-F1**, two of them compliance plays with LIVE teeth (the gate the FI engine failed). All gated
+under v3.0. Still 0/3 buyer signals — so this is the LAST generate round before validation (Prime Directive).
+
+### A) CONNECTION-ANCHORED WINNERS
+
+#### CASH-R1 · "RAG-care" — managed RAG-accuracy/maintenance retainer  (Ace ↔ Coxwave channel)  — 🟢 NEW CO-LEAD
+> KR companies that bought/built a RAG chatbot pay to KEEP IT ACCURATE today via ad-hoc dev firms or nobody;
+> we do a monthly retainer (re-index changed docs, regression-test answers, hallucination triage, accuracy
+> report); recurring **~₩1.5–4M/mo × 5–8 clients = ₩13–25M/mo**; MODE-CASH, Axis-B (Ace's AI skill × Coxwave channel).
+- COMP-SCAN: build agencies (메이크봇/올거나이즈) chase new projects + neglect post-launch; eval tools (Coxwave
+  Align/Langfuse/Galileo) DETECT drift but hand you a dashboard, not the fix. The recurring *fix-work* is unowned.
+- WALL-vs-SPEED-BUMP: SPEED-BUMP. **Foundation-model commoditization is a TAILWIND** (more cheap deployments → more
+  to maintain). **Complements Coxwave (they detect, we fix) — does NOT compete with their roadmap.** WIN-TYPE W3+W2.
+- G9: ROI-PULL (a wrong-answer bot = real business cost / abandoned project) + evergreen. G5: Coxwave referral +
+  agencies + AI-Voucher pool. **OPEN QUESTION for operator: will Coxwave refer customers DOWN to us, or only lend
+  credibility?** (materially changes G5 strength.) G8: productizable as fixed-scope SLA → fits 10–13 hr/wk.
+- Validate-or-die: *"Since your chatbot went live, last time it gave a wrong/outdated answer — what did you DO to
+  fix it, who did it, how long?"* (manual pain / "we just live with it" = strong). **Status: 🔬 VALIDATE, 0/3.**
+
+#### CASH-FR1 · 필수품목 사전협의·통지 compliance trail  (David ↔ franchise-HQ network)  — 🟢 NEW CO-LEAD
+> KR franchise HQs (sub-50-store) pay to avoid 가맹사업법 필수품목 violations today via 가맹거래사/law firms +
+> 모두싸인 + Excel; we do a change-triggered "사전협의 record + notify all 가맹점 + audit trail" workflow; recurring
+> **~₩150–300k/mo × 30–60 brands = ₩4.5–18M/mo**; MODE-CASH, Axis-D (David's exact buyer).
+- COMP-SCAN: 외식UP/Maxvisor ERPs ignore this legal workflow; 모두싸인 = signing only (unbundle target); substitute
+  = expensive per-change 가맹거래사 review. No cheap, recurring, change-triggered tool for SMALL brands.
+- **G9: ROI/enforcement-PULL with DOCUMENTED TEETH** — 2024 가맹사업법 amendment makes 사전협의+통지 mandatory on every
+  필수품목 change; regulator already fined a donut HQ **₩2.136B** + a 족발 HQ **₩94M**. Recurs on every 식자재 price move.
+- WALL-vs-SPEED-BUMP: SPEED-BUMP. WIN-TYPE W2+W3+W5. Service-wrap entry (David sells "we keep you audit-ready").
+- BEAR (validate first): teeth may be LATENT (small HQs ignore until a 공정위 letter) vs actively felt.
+- Validate-or-die: *"지난번 필수품목 공급가 올렸을 때 가맹점 사전협의·통지 어떻게 처리하셨어요? 누가, 뭘로?"* **🔬 VALIDATE, 0/3.**
+
+### B) GREENFIELD WINNERS (strong on teeth, WEAK on warm channel — distribution is their bear, G5)
+
+#### CASH-G1 · 의료광고 컴플라이언스 AI 검수 (clinic medical-ad pre-screen)  — 🔬 VALIDATE (channel-gated)
+> KR 비급여 clinics pay for 의료법 ad-safety today via ₩800k–1M/mo 마케팅 대행사 + manual 자율심의; we do an AI checker
+> that flags 위반 문구/이미지 BEFORE posting + tracks 심의 obligations; recurring **~₩100–300k/clinic/mo (50–100 = ₩7.5–25M/mo)**.
+- COMP-SCAN: incumbents = marketing agencies (라온하제 580 clinics, 애드리절트 1272) bundling "review" into ₩800k+
+  retainers; 자율심의기구 do manual per-submission review. **No dedicated AI self-check tool exists** (searched).
+- G9: STRONG ROI-PULL — LIVE enforcement (366 illegal ads caught Dec-2023–Feb-2024 → 행정처분 + 형사고발). W2+W6.
+- **G5 WEAK: clinics are NOT David's F&B channel** → needs a new channel (friendly 원장 / 비급여 association / agency
+  reseller W4). This is the #1 watch-risk. Validate DISTRIBUTION before building.
+- Validate-or-die: *"마지막으로 비급여 후기/광고 올릴 때 누가 의료법 검수했고, flag 났을 때 어떻게 됐어요?"* **🔬 VALIDATE (channel-gated), 0/3.**
+
+#### CASH-G2 · 정부지원사업/R&D 정산·사후관리 (RCMS 증빙 automation)  — 🌱 GENERATED (secondary)
+> SMBs running multiple gov grants pay 회계법인/컨설턴트 for RCMS 정산·증빙 or eat 환수 risk; we do AI evidence-to-세목
+> organization + deadline tracking; ~₩100–300k/co/mo WHILE projects active. Teeth real (환수). 
+- LIMITATION: recurrence is LUMPY (project-duration-bounded, not evergreen) → ranks below evergreen plays. Reachable
+  via the dev's own startup/TIPS network (warm-ish). Confidence MEDIUM. Keep as secondary.
+
+### C) EXISTING LEAD RE-SCOPED (from the CASH-F1 deepening agent)
+**CASH-F1 → re-scoped + downgraded.** Deep scan found the cost-tracking half is **priced-to-free** (도도카트 free,
+~100k users, marketplace-subsidized) and "savings-finder" analytics WTP is weak (F&B ops pay for things that MOVE
+money — POS/settlement/캐시노트 ₩16.5–55k tiers). Worse, the delivery-commission angle (my "novel" piece) is the
+LEAST-felt pain (survey: 90.3% reprice on ingredient cost vs **0.61%** on delivery commission). **Re-scope: from
+"cost-leak finder" → "ingredient-drift→repricing DECISION engine"** (the action incumbents won't ship); demote
+delivery-commission to a feature. Portfolio watch-risk = same priced-to-free bear that killed K19. **🔬 VALIDATE,
+now ranked BELOW CASH-R1/CASH-FR1.**
+
+### D) ELIMINATED THIS ROUND (evidence-based — logged to prevent re-chase)
+- **Generic 단골/CRM/멤버십 messaging → WALL (platform-absorbs-job):** Naver Place absorbed CRM/membership natively
+  **2026-05-14** (plugs in 도도포인트/페이히어). → K20.
+- **식자재 group-buying/공동구매 → WALL (capital/logistics):** 마켓보로/푸드팡/오더플러스 run cold-chain + working capital.
+- **학원 admin/parent-comms → WALL (priced-to-free):** 학원조아/클래스업/랠리즈 free, monetize 알림톡 markup. → K21.
+- **물류 WMS · 제조 MES · 보험 GA tooling · 건물 관리비 · generic 미수금(청구스) · 세무사 payroll core →** walls/commodity
+  (SI-heavy, license-adjacent, or priced-to-free). 세무사 *intake-only* survives only as a thin 12-mo-head-start play
+  (더존 위하고-T is absorbing it) — not pursued.
+- **AI 기본법 compliance ops + 식당 HACCP →** PUSH/no-teeth (G9/T7): AI법 has a ≥1-yr 계도기간 (no fines til ~2027);
+  restaurant 위생등급제 is voluntary. Both PARKED as ~2027 revive / bundle add-ons, not leads. ✅ G9 working again.
+
+### E) SYNTHESIS + DECISION
+- **REPEATABLE WINNING SHAPE (now strongly confirmed across 3 winners):** recurring + **ROI/enforcement-PULL with
+  LIVE teeth** + an **unowned AI-shaped job** + **a buyer we can actually reach**. 
+- **REFINEMENT (compliance is fine — NO-TEETH was the FI killer, not "compliance"):** two new winners (CASH-FR1,
+  CASH-G1) are compliance plays that PASS G9 because enforcement is LIVE + fines are documented. The FI engine
+  failed only because its teeth were 2 yrs away. → AXIS-A is productive *when* G9 PULL is real; verify enforcement
+  is live + fined, not pending.
+- **CONCENTRATION/CHANNEL CHECK:** the two co-leads use DIFFERENT moats + DIFFERENT channels (CASH-R1 = Ace/Coxwave/AI;
+  CASH-FR1 = David/franchise/teeth) → healthy diversification, not single-point-of-failure. CASH-G1's shared bear =
+  no warm channel (G5). 
+- **LEAD RANKING (by gate-fit × channel-fit, MODE-CASH, recurring floor):** 1) **CASH-R1 (RAG-care)** — no wall,
+  tailwind, Ace's core skill, Coxwave channel; 2) **CASH-FR1 (필수품목)** — live teeth + David's exact buyer;
+  3) **CASH-G1 (의료광고)** — best teeth but cold channel (validate distribution first); then CASH-F1 (re-scoped),
+  CASH-G2, CASH-F2/F3 secondary.
+- **NEXT ACTION (Prime Directive — STOP generating, VALIDATE):** two cheap parallel discovery tracks — Ace probes
+  CASH-R1 via Coxwave-network/agency AI teams; David probes CASH-FR1 via franchise-HQ owners. One question each
+  (above). Decision date = **2026-07-15.** Build ≤1 Phase-0 demo pre-signal.
+
+---
+
+## CYCLE 30 — STRESS-TEST v3.0 across 3 NEW verticals (anti-tunnel) · May 30, 2026
+**Purpose:** operator asked to "go through new verticals and test this new framework." Ran v3.0 (deep comp-scan,
+WALL-vs-SPEED-BUMP, rescue-before-kill, G9 PULL/PUSH, recurring-floor) on 3 deliberately DIFFERENT hunting
+grounds. The point was as much to TEST the framework's calibration as to find a winner. Result: the framework
+behaved correctly in all 3 (rescued one, killed one on a real WALL, rejected one on PUSH) — and **none beat the
+current lead CASH-F1**, which is itself a useful comparative result. (Note: deep-research agents were rate-limited
+this cycle; comp-scans done via direct search — flagged as MEDIUM depth, re-audit before any kill hardens, L13.)
+
+### NEW-1 · KR e-commerce seller tools (스마트스토어/쿠팡) — 🟡 SURVIVES THIN, low priority
+- One-sentence: KR online sellers pay for keyword/listing optimization via 아이템스카우트/판다랭크 (subscription);
+  we'd do AI 상세페이지 + review-response generation under the 2025 algo shift (whole-store quality > keyword stuffing).
+- COMP-SCAN: 아이템스카우트 OWNS keyword/product analytics (dominant, data-driven); 사방넷/플레이오토/이지어드민 own
+  order/inventory 통합관리. The keyword slice = speed-bump-toward-WALL. AI content-generation slice is more open BUT
+  generic LLMs do it natively → **T1 commodity risk**, and a 2-person team has **no distribution edge** (David's
+  network ≠ e-comm sellers → G5 weak).
+- RESCUE: narrow to an AI 상세페이지+리뷰대응 bundle niche → SURVIVES, but thin moat + product-led distribution.
+- VERDICT: 🟡 YELLOW, **low priority.** Not killed (rescue works), but ranks below CASH-F1 on G5 (no warm channel)
+  + moat. WIN-TYPE would be W6 (AI cost-advantage) only. Park unless a seller-channel appears.
+
+### NEW-2 · KR local-service booking/CRM (미용실·필라테스·PT) — 🔴 KILL on a real WALL (K19)
+- COMP-SCAN: SATURATED with entrenched, cheap/FREE vertical CRMs — 바디코디 (fitness, 4,000+ centers, 1.7M users),
+  공비서 (nail/hair, **free 알림톡, ₩0 가입비**), 핸드SOS, 비타민CRM, 어시스트핏, 이야기CRM, 뷰티인프라; **네이버 예약
+  absorbs basic booking at 3.19%/no signup fee**; 카카오/마메드네 for hair. Pricing floor ≈ FREE.
+- WALL test: commoditized + entrenched vertical incumbents + **platform (네이버) absorbs the core job** + near-zero
+  pricing + **no founder edge** = a genuine structural WALL (T1-commodity + platform-absorption), NOT a mere
+  "incumbent exists." RESCUE (AI no-show prediction / AI retention messaging) fails — incumbents already do 알림톡
+  reminders + retention, and a me-too vertical CRM has no wedge or distribution.
+- VERDICT: 🔴 **KILL → K19, type T1 (commodity + platform-absorbed + priced-to-free, no edge).** ✅ This is v3.0
+  killing CORRECTLY — on a real wall after a rescue attempt, not on category-dismissal. (Contrast K9, revived.)
+
+### NEW-3 · KR PIPA 개인정보 처리방침 평가제 (SMB) — 🔴 REJECT on PUSH/no-teeth (G9/T7)
+- COMP-SCAN: 처리방침 평가제 (since Sep-2023) lets PIPC **RECOMMEND** improvements; the carrot is 과태료 *감경* for
+  good 처리방침, not a direct SMB fine. **Deep evaluation targets ~50 LARGE companies** (AI/IoT/edutech), not SMBs.
+  And the 처리방침-generation job is already being templated/commoditized (free tools, even a Claude-Code skill).
+- G9 verdict: for the SMB segment this is **PUSH / no-teeth (T7)** — no live forcing function compels an SMB to pay
+  for ongoing 처리방침 tooling; the big-company deep-eval segment has teeth-ish but is **Big-law/enterprise turf (T5)**.
+- VERDICT: 🔴 **REJECT (don't even generate), type T7 + T5.** ✅ This is v3.0's G9 correctly flagging a regulation
+  with no teeth on FRESH non-FI ground — exactly the rule added after the 책무구조도 lesson. (Note: actual PIPA
+  *breach* enforcement IS real, but that's incident-response/security tooling — a different, walled market.)
+
+**CYCLE SYNTHESIS:** v3.0 passed its own stress-test — it did NOT over-kill (NEW-1 rescued), it killed on a REAL
+wall (NEW-2), and it rejected a teeth-less reg (NEW-3). **CASH-F1 remains the lead** (only board idea with
+ROI-PULL + an unowned slice + a real distribution channel via David). Funnel note: the repeatable winning shape
+is "recurring, ROI-PULL, unowned AI-shaped job, buyer David can actually reach" — keep hunting that shape, not
+generic SMB-SaaS where we have no channel.
+
+---
+
+## CYCLE 29 — CALIBRATION (operator): recurring-revenue floor lowered · May 30, 2026
+**Operator input:** "I don't mind a ~$10k/month business — I just want anything RECURRING. Update it."
+**Change (calibration within v3.0, no version bump):** the win floor is explicitly lowered and the PRIORITY is
+reframed: **RECURRING > SIZE.** A ~$10k/mo (~₩13M/mo ≈ ₩150M/yr) recurring business is a FULL WIN, not a
+consolation. One-time/project revenue is only a WEDGE; a path to RECURRING is what promotes an idea. Folded into:
+Prime-Directive frame (CAPTURABLE>BIG + RECURRING>SIZE), L11, and SCORE (MODE-CASH now triples RECURRING and
+caps purely one-time ideas). This sharpens — does not replace — the v3.0 anti-overkill rebuild.
+**Implication for the board:** CASH-F1 (₩30–50k/mo × few-hundred = recurring ✅) fits cleanly; CASH-F3 (managed
+service) must show a RETAINER not a one-time setup to count; EXPAND-1's parked consulting residue is one-time → stays parked.
+
+---
+
+## CYCLE 28 — GENERATE under v3.0 (new lead) + secondary cash portfolio · May 30, 2026
+**Hunting ground:** David's F&B/retail operator network (AXIS-D buyer-back). Two independent deep-research
+passes (the over-kill re-audit's K9 revival + a fresh 2nd-vertical scan) CONVERGED on the same unowned,
+ROI-driven, AI-shaped job → strong signal. Generated under the v3.0 rules (deep comp-scan, WALL-vs-speed-bump,
+capturable>big, rescue-first).
+
+### CASH-F1 (NEW LEAD) — F&B operator margin / cost-leak AI
+> **KR independent + small-chain F&B operators** pay today for margin/costing via **Excel templates (크몽/오투잡
+> ₩5–30k), 도도카트 (FREE invoice-OCR cost-tracking), gut**; we do **invoice-OCR supplier-price-drift detection +
+> delivery-commission-aware per-menu NET-profit + a "raise this dish ₩X" repricer**; edge = **a painful job no KR
+> player does (도도카트 stops at cost-tracking; 푸드로직 is costing-only & launched Sept-2025; 그랜터 is store-level
+> P&L)** + **David's operator network as channel + service-wrapped onboarding**; fits **MODE-CASH**; first revenue
+> **60–90 days**, **~10–13 hr/wk** (Ace builds the OCR/anomaly pipeline; David sells; onboarding is the paid wedge).
+- **DEEP COMP-SCAN:** 도도카트(스포카) FREE, ~100k users, cost-tracking/benchmark only (monetizes data, not analytics);
+  푸드로직 recipe→cost + 메뉴엔지니어링 but NOT delivery-commission-aware net margin, very early; 그랜터 store-level
+  P&L not per-dish; 마켓봄/미리 = ordering/inventory, no leak-detection (distributor sets price → no incentive).
+  US analog MarginEdge proves the job is real & paid; **no KR equivalent.**
+- **WALL-vs-SPEED-BUMP:** SPEED-BUMP (fragmented incumbents, the per-dish + delivery-aware + price-drift slice is
+  genuinely open). **WIN-TYPES:** W2 (unbundle the painful job) · W1 (below 푸드로직 / beside free 도도카트) · W3
+  (service-wrapped recipe/cost setup = the #1 adoption barrier, sold as paid onboarding).
+- **GATES (v3.0):** G1a ✅ (people pay for Excel templates today) · G1b ✅ (paid analytics gap above free tools) ·
+  G2 ✅ as cash (12-mo head-start + David channel — no durable moat REQUIRED) · G6 ✅ CAPTURABLE (~₩30–50k/mo ×
+  few-hundred reachable = **₩100–300M/yr**, clears bandwidth — small is FINE) · G8 ✅ (solo-buildable OCR+rules) ·
+  **G9 ✅ ROI-PULL, ENFORCEMENT-INDEPENDENT** (margin pain: delivery fees now 16.9–29.3% of sales; "sell a lot,
+  still lose money"). · G7 🟡 evergreen pain (no catalyst — acceptable for cash per v3.0).
+- **BULL/BEAR:** BULL — acute felt pain, weak substitute (static Excel ignores delivery economics), pure-software
+  Ace ships solo, David's network is the exact buyer. BEAR (watch-risk) — **SMB recurring software-WTP** (the
+  board's perennial bear; but here cheaply testable & the substitute is weak) + 푸드로직 could extend.
+- **VALIDATE-OR-DIE (1 question, David's network):** *"Last time 식자재 prices jumped, how did you decide whether/
+  how much to raise a menu price — and what did you use?"* Listen for a painful manual process, not "sounds useful."
+- **Status:** 🟢 **NEW LEAD → 🔬 VALIDATE.** 0/3 signals. Decision date = **2026-07-15.**
+
+### Secondary cash candidates (same buyer = David's F&B/retail ops — a deliberate CASH PORTFOLIO, one discovery tests all)
+- **CASH-F2** — franchise-HQ QSC/SV store-audit app for **sub-50-store emerging brands** (below FC다움+Kakao /
+  맥스오피스 ERP). SPEED-BUMP (most contested; fight on focus+distribution, not whitespace). W5 (niche incumbents
+  ignore) + David relationship sale. ACV higher (~₩100–300k/mo), fewer logos. 🌱 GENERATED, secondary.
+- **CASH-F3** — done-for-you review/reputation **managed SERVICE** (service-wrap commodity AI-reply tools; sell
+  David's venues a ₩100–200k/mo retainer). Weakest: software layer ≈ commodity (T1) so ONLY the service-wrap
+  saves it; 네이버 absorbing the job = decay risk. 🌱 GENERATED — cash-flow warm-up / wedge into David's venues.
+- **EXPAND-1b (interior, narrow revive of K15)** — HQ-side multi-store **rollout project-management** tool/service
+  (NOT a marketplace — that's a captive-channel WALL). Thin MODE-CASH niche. 🌱 noted, low priority.
+**CONCENTRATION CHECK (v3.0):** CASH-F1/F2/F3 share ONE buyer + ONE bear (SMB software-WTP). Acceptable now
+(a single discovery conversation tests all three; lead with F1's margin pain), but do NOT build >1 until a signal.
+
+---
+
+## CYCLE 27 — META-LOOP (operator-triggered): rebuild the framework to v3.0 + over-kill re-audit · May 30, 2026
+**Trigger:** operator's brutal critique — the OS is a KILL-MACHINE that over-researches the death case,
+under-researches the path THROUGH, misses key (esp. KR) competitors, and worships unicorns when **capturable
+revenue (even small) is the actual goal.** Proof of the bias: the OS killed David's site-IP 3× (K4/5/6, "T2
+incumbents exist") then re-generated it as the Cycle-26 lead.
+
+### A) FRAMEWORK REBUILT → OS v2.3 → v3.0 (see CLAUDE.md changelog; major, philosophy shift)
+1. **CAPTURABLE > BIG** (Prime-Directive frame + L11): a small profitable slice is a terminal WIN; no idea is a
+   unicorn; competition is acceptable; kill only "no capturable revenue behind a WALL," never "not huge."
+2. **RESCUE-BEFORE-KILL** (§3 Step 5): a gate fail triggers a mandatory mutation attempt, not a kill.
+3. **WALL vs SPEED-BUMP** (L12 / Step 2): kill only behind a structural wall; a mere incumbent = speed-bump needing
+   an overcome-strategy. Old **T2 retired → T2-WALL** (high bar). 
+4. **DEEP COMP-SCAN, research-depth ∝ irreversibility** (L13 / Step 1): kills demand the deepest KR-specific
+   multi-source research — never a single shallow US-centric search. SCORE: a low ceiling can NO LONGER pull a
+   MODE-CASH idea to RED. WIN-TYPES W1–W6 added for true symmetry. STANDING OVER-KILL RE-AUDIT given teeth.
+
+### B) OVER-KILL RE-AUDIT (deep KR-specific research, 2 agents) — verdicts
+| Kill | Original reason | v3.0 deep-research verdict | Action |
+|---|---|---|---|
+| **K9** SME/F&B supplier price-drift | "US MarginEdge does it" | **SPEED-BUMP — genuine false-negative.** No KR player does invoice-OCR→price-drift→plate-cost. 마켓봄=ordering (no incentive), 미리=inventory-first. | **REVIVE → became CASH-F1 (new lead).** |
+| **K15** retail interior/fit-out | "숨고/916디자인 own it" | **Mixed:** marketplace = WALL (captive franchise channel + 공정위 litigation); HQ-rollout-PM niche = thin SPEED-BUMP. | **Partial revive → EXPAND-1b (low priority).** |
+| **K8** F&B labor scheduling | "US Restaurant365 etc." | **WALL — stays killed, REASON CORRECTED:** real wall is KR incumbents 시프티/알밤/토스플레이스 = commoditized, near-free, payments-subsidized. Not the US reason. | Stay killed; reason → T1/T5. |
+| **K4/5/6** site-selection / forecasting | "gov-free + Placer/Buxton" | **WALL — stays killed, NOW STRONGER:** 오픈업 프로 (Finda) launched **Oct-2025** = the EXACT product (~₩825k/mo) on a NICE-class card-data wall (T3). Reason was incomplete but conclusion correct & now stronger. | Stay killed; **downgrade EXPAND-1 (see below).** |
+**Meta-finding:** in all 4, the real threat was a DOMESTIC incumbent or structural channel, never the cited US
+software. 2 kills landed correctly for the wrong reason; 1 was a true false-negative (revived); 1 (K9-adjacent
+EXPAND-1) was generated on MY OWN shallow research and is now correctly walled. **v3.0's deep-comp-scan rule
+caught the framework author's own Cycle-26 error on its first run — exactly its purpose.**
+
+---
+
+## CYCLE 26 — GENERATE: new hunting ground (anti-tunnel) · EXPAND-1 · May 30, 2026
+> **⚠️ SUPERSEDED by Cycle 27/28:** EXPAND-1 was generated on shallow research. The v3.0 deep comp-scan found
+> **오픈업 프로 (Finda, launched Oct-2025)** occupies the exact paid-HQ slice (~₩825k/mo) on a NICE card-data WALL
+> (T3). The *software* play is walled; only a pure-CONSULTING residue survives (David's tacit IP as a service —
+> doesn't scale in 10–13 hr/wk, competes with 맥세스, no software moat). **EXPAND-1 → 🟡 PARK** (revive only if
+> 오픈업 프로 fails on accuracy → a service-led "we interpret the data for your 출점 committee" play, David's lane).
+> Honest re-grade: my Cycle-26 G2 "real moat" claim was wrong (David's IP is tacit/SEED per the operator + L7),
+> AND I missed the funded incumbent. New lead = CASH-F1. The original Cycle-26 gate table below is left for record.
+**Why generation is now sanctioned** (anti-loop was active): Cycle 25 demoted the FI engine 🔬→🟡, so no
+🔬 idea has un-sent gating conversations *that the board waits on*. The CONCENTRATION CHECK (new v2.3) +
+operator directive both demand diversification into a NEW hunting ground that deploys a different moat.
+
+**MOAT-DEPLOYMENT SWEEP (new v2.3 / L10):** edge-map TRUE MOATs = (a) KR liability entity [used by the
+parked FI engine], (b) data-byproduct-of-a-service [generic], (c) **David's site-selection IP — UNUSED for
+24 cycles.** → bias the axis to deploy (c). **AXIS-B asset-pair: David's site-IP × Ace's full-stack+AI.**
+
+### EXPAND-1 — one-sentence (GENERATE output)
+> **KR multi-unit & franchise operators (본사 expansion teams, 10–300 stores)** pay for **"where do we open
+> the next store, and how much will it make?"** today via **외주 컨설팅 (맥세스·유재은·한국경영시스템즈) + gut +
+> free 소상공인/나이스비즈맵 tools**; we do **brand-specific AI store-revenue forecasting + site scoring trained
+> on the chain's OWN store performance + KR commercial-geo data**; defensible because **David's proprietary
+> site-selection IP encodes the model + each client's siloed store-performance↔location data is an L4 service-
+> byproduct that compounds per brand**; fits **MODE-MOAT (with a MODE-CASH per-site-report leg)**; first revenue
+> in **~60–90 days (paid pilot / per-site report)** within **~10–13 hr/wk (Ace builds, David sells the domain)**.
+
+### COMP-SCAN (new v2.3 — evidence before gating)
+- **Global analog exists & is PAID** → category is real, WTP proven: SiteZeus & Buxton (franchise/multi-unit
+  predictive site selection, custom-quote enterprise), Placer.ai (foot-traffic, ~$30K+/yr), GrowthFactor
+  (from ~$200/mo). The differentiated value the comps converge on = **brand-specific *revenue* forecasting**
+  ("how much will THIS site make for MY brand"), not generic foot-traffic. (Sources logged in chat.)
+- **Local substitute** → KR 소상공인 상권분석 is commoditized/FREE (소상공인진흥공단 상권정보, 서울 골목상권,
+  나이스비즈맵) — so the *solo 소상공인* segment is T1 commodity. The PAID gap is the **multi-unit 본사** that
+  evaluates many sites/yr and currently buys *consulting* (proven, enforcement-independent WTP).
+
+### SYMMETRIC GATE
+- KILL-SEARCH: incumbents have data scale (Buxton since 1994, NICE owns KR 상권 data); generic 상권분석 is free;
+  "IP" might be tacit consulting skill, not productizable; forecast errors destroy trust fast.
+- WIN-SEARCH: KR mid-size chains too small for Buxton/SiteZeus enterprise pricing + underserved by free DIY
+  tools + consultants don't leave a compounding model behind → a brand-tuned, consultant-grade-but-software-
+  priced forecaster, sold via David's domain relationships, can take the mid-market slice.
+| Gate | Verdict | Note |
+|---|---|---|
+| G0 foreigner-proof | ✅ | KR commercial geography + KR franchise relationships + Korean 상권 data |
+| G1a budget exists | ✅ | 본사 already pay 출점 consultants (맥세스 등) — proven, recurring spend |
+| G1b budget winnable | 🟡 | must beat consultant + free tools on brand-specific forecast value |
+| G2 named TRUE-MOAT | ✅✅ | **David's site-selection IP — the first idea in 24 cycles with a real, non-SEED moat** |
+| G3 moat type | 🟡 | IP + per-client siloed data (L4-clean) — NOT data-scale; BUT watch incumbents' scale (harden A2/A4) |
+| G4 disconfirm survived | ✅ (narrowed) | survives by narrowing to mid-market multi-unit 본사 (not free-served solos, not enterprise Buxton turf) |
+| G5 distribution <90d | 🟡 | rides **David's** network (his domain) — load-bearing unknown = which 본사 he can reach |
+| G6 ceiling (MODE-MOAT) | 🟡→✅ | SiteZeus/Buxton are $XXM+ co's; KR franchise mkt is huge; clears $30M IF it becomes the brand-forecast standard + data network. Anti-gaming: mid-market slice alone may be MODE-CASH-sized — moat leg needs multi-brand expansion. |
+| G7 why-now | 🟡 | **softer than a regreg deadline** — AI makes brand-specific forecasting cheap now (vs Buxton's heavy-data 1994 model); post-COVID 출점 risk-aversion. Honestly logged as the weakest gate. |
+| G8 bandwidth-fit | ✅ | MVP = forecasting model + thin UI fed by a chain's store data + public geo; async-buildable |
+| **G9 WTP-TRIGGER (new)** | ✅ **PULL** | a bad 출점 = a failed store = quantified $ loss → ROI/loss-PULL, **enforcement-INDEPENDENT.** The exact opposite of the FI engine's T7 problem. This is why EXPAND-1 is structurally healthier. |
+**Gate result:** SURVIVES (contingent on G5 distribution + the David-IP unknown). No kill-type.
+
+### HARDEN — bull/bear adversary (built-in)
+- **#1 limitation:** forecast *credibility* — one wrong revenue prediction on a real lease and trust dies;
+  and David's "IP" may be tacit (a productizability risk). MUTATE: ship as **decision-support + confidence
+  bands + "compare to your existing stores"**, not a single magic number; price the *pilot* on back-testing
+  against the chain's OWN historical openings (cheap proof, no lease risk). Regression-check: still bandwidth-fit ✅.
+- **BULL:** finally deploys the dormant TRUE MOAT; enforcement-independent ROI-WTP; a proven consulting market
+  to displace with software margin; data compounds per brand (L4); perfect Ace/David division of labor.
+- **BEAR (logged as permanent watch-risk):** incumbents' data-scale + NICE's ownership of KR 상권 data could
+  commoditize the inputs; mid-size KR chains may not evaluate enough sites/yr to sustain recurring SaaS (→ may
+  be per-report MODE-CASH, not subscription); **David's IP may not productize** (tacit expertise ≠ model).
+- **Resolution:** promote to validate. Watch-risks carried: forecast-accuracy-trust, IP-productizability, recurring-vs-per-report.
+
+### VALIDATE-OR-DIE (for the discovery David must run)
+1. **(WTP / recurring)** Will a KR 본사 pay for brand-specific AI forecasting *instead of / on top of* their
+   current consultant — recurring, or only per-site? *(ask what they DID on the last 출점 + what it cost.)*
+2. **(moat productizability)** Is David's site-selection IP encodable into a model, or is it tacit judgment?
+
+**Status:** 🟢 **NEW LEAD / 🌱→⚙️ HARDENING→🔬 VALIDATE.** 0/3 buyer signals (cannot exceed YELLOW on desk
+research — §5). Validation channel = **David's network** (his domain), NOT Ace's dad/Coxwave (that was the FI
+channel). Decision date for EXPAND-1 = **2026-07-15**.
+**Seeded for next cycle (funnel refill, de-concentration):** EXPAND-2 (post-opening 부진점 turnaround analytics,
+same buyer — expansion SKU, do NOT split focus) + 1 deliberately NON-retail axis TBD (needs David's network map).
+
+---
+
+## CYCLE 25 — META-LOOP (operator-triggered): reject the FI proactive-SaaS hypothesis · May 30, 2026
+**Trigger:** operator (Ace) stress-tested the board's load-bearing assumption — *"mid-tier firms (small/mid
+asset managers, regional savings banks, small fintechs) will proactively pay a recurring SaaS subscription
+out of good hygiene BEFORE a regulatory forcing function."* Correct instinct → ran the META-LOOP on it.
+
+### FALSE-POSITIVE HUNT (the assumption the board over-trusted)
+Desk EVIDENCE gathered this cycle (sources logged in chat):
+1. **책무구조도 제재 운영지침**: a **2-year 한시(限時) 운영** grace period per cohort, and sanctions apply **only to
+   violations AFTER submission** (지배구조법 부칙 §4). Mid-tier files Jul-2026 → **effectively no teeth until ~2028.**
+2. **실증 behavior**: securities firms that already implemented 책무구조도 call it a **공시 부담** (a cost to
+   minimize), not a capability to invest in.
+3. **Category pattern**: compliance software globally is bought on **enforcement-PULL** ("an OFAC solution costs
+   <20% of the fine"); proactive/hygiene WTP appears only under *continuous* audit pressure (SOC 2 etc.), which
+   the KR mid-tier FI does NOT face for 2 more years.
+**VERDICT: hypothesis REJECTED.** The pure recurring-SaaS cash leg is **T7 (pure hygiene-PUSH, no forcing
+function)** for the 2026–2028 window. Symmetric WIN-SEARCH: only the **L9 managed-service** framing survives
+(rides proven *consulting*-WTP) — a lumpy services business, NOT the venture the board over-weighted.
+
+### PORTFOLIO VERDICT (CONCENTRATION CHECK, new v2.3)
+Cycles 17→24 produced 5 survivors (CASH-D1, LEAD-1, MOAT-D1, MOAT-A1, DATA-C1) = **same engine, one shared
+bear (L6 software-WTP).** That shared bear is now confirmed fatal for the near term → it's a PORTFOLIO risk,
+not a per-idea watch-risk. **Action: DEMOTE the entire FI engine 🔬→🟡 PARK** with revive-trigger = (a) a real
+buyer signal from the (cheap, still-valid) DISCOVERY_KIT, OR (b) ~2028 grace-expiry / an actual exam wave, OR
+(c) discovery Q0 proves software-WTP. The discovery kit stays usable opportunistically; **the board no longer
+waits on it.**
+
+### METHODOLOGY FIXES (the valuable output) → OS v2.2 → v2.3
+1. **G9 WTP-TRIGGER gate** + **kill-type T7**: classify revenue as enforcement/ROI-**PULL** vs hygiene-**PUSH**;
+   PUSH without a forcing function is presumed ABSENT (max YELLOW, desk research can't grant it). *This gate would
+   have flagged the FI engine at Cycle 17 instead of Cycle 25.*
+2. **L6 sharpened**: grace-period / 시범·한시운영 / no-teeth-yet = PUSH; a why-now built on a teeth-less deadline is a MIRAGE.
+3. **L10 (new)**: an unused named TRUE-MOAT is a generation failure → mandatory moat-deployment sweep each GENERATE.
+   (David's site-IP sat idle 24 cycles → directly produced Cycle 26's EXPAND-1.)
+4. **CONCENTRATION CHECK** (§7): ≥3 survivors sharing one bear ⇒ stop same-engine generation, diversify.
+5. **COMP-SCAN** (§3, mandatory): evidence (global analog + local substitute) before gating, not armchair.
+**No new idea generated this cycle (this is a meta/audit cycle); EXPAND-1 generated next, in Cycle 26.**
+
+---
+
+## CYCLE 24 — VALIDATE: send-ready discovery kit + signal log (no generation) · May 30, 2026
+**Why this cycle:** anti-loop is active and the board is blocked on the SAME constraint it has been for 5
+cycles — buyer signals 0/3. So this cycle produces the operational artifacts that turn "messages drafted"
+(Cycle 19) into "messages a founder can send in one paste, and log identically." No new ideas, no new gates.
+**What changed vs Cycle 19's kit:**
+- Folded in Cycle-22 **FIX-1**: split discovery into **two cohorts run in parallel** — Cohort A (already-
+  submitted: 은행/대형 금투·보험) as the real teacher for recurring-WTP (VoD #1), Cohort B (Jul-2 mid-tier)
+  as the hot pipeline. Added a Cohort-A outreach message (lead = "submission's done — what now?").
+- Kept posture **NEUTRAL** (operator decision, May 30): Q0 still diagnoses software- vs consulting-WTP, but
+  the kit does NOT pre-commit to the L9 managed-service framing — buyers decide it. (Faithful to §5.)
+- Externalized the **signal rubric + tally** into `SIGNAL_LOG.md` so the 3-of-3 GREEN count is live state.
+**Artifacts:** `DISCOVERY_KIT.md` (send-ready, both cohorts, call guide, decision-date playbook) +
+`SIGNAL_LOG.md` (outreach tracker + per-call template + running tally).
+**Status:** 🔬 VALIDATE · buyer signals still **0/3** — cannot move until founders send + converse.
+**Operator action required (only founders can do this):** Ace sends Cohort-B msgs via dad + the Coxwave
+intro; pull Cohort-A intros via Coxwave's already-live FI clients; run 3–5 calls before 2026-07-02; log
+each in `SIGNAL_LOG.md`. **This is the gating step for the entire board.**
 
 ---
 
@@ -348,27 +716,32 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 ---
 
 ## KILLED — do not re-chase (kill-type logged to prevent loops)
+> **🔁 v3.0 over-kill re-audit (Cycle 27):** all "T2 incumbent-exists" kills re-examined with deep KR research.
+> Verdicts in the `re-audit` column. Old T2 retired → kills now require a structural WALL (see CLAUDE.md §3).
 
-| # | Idea | T | Reason |
-|---|------|---|--------|
-| K1 | AI HR training videos | T1 | GPU/model-quality war — Synthesia (90% Fortune 100), HeyGen, Runway ($3B) |
-| K2 | AI lease abstraction | T1 | Claude/GPT do extraction natively; 10+ funded players at 90-97% accuracy |
-| K3 | "Beat Leasecake" lease ops | T2 | Feature war vs 15+ incumbents; ASC842 anchor needs a CPA |
-| K4 | Generic site selection US | T2 | Placer (unicorn $100M+ ARR), Buxton, SiteZeus, GrowthFactor |
-| K5 | David algo → US site selection | T2 | Same as K4 |
-| K6 | David algo → KR site selection | T2/T1 | Gov gives algo free (상권정보시스템) + 오픈업/Finda funded |
-| K7 | Trade finance / LC automation | T2/T5 | Microsoft+HSBC, Cleareye, NeuroGaint; bank sales motion |
-| K8 | Restaurant labor/scheduling | T2 | Restaurant365, Crunchtime, SynergySuite entrenched |
-| K9 | Supplier price-drift/invoice-leak | T2 | MarginEdge does exact feature (product-level price alerts) |
-| K10 | KR crypto VASP AML | T2/T3 | CODE consortium (Bithumb/Coinone/Korbit) + Elliptic/Notabene |
-| K11 | KR institutional crypto custody | T3 | KODA/KDAC/BDACS — license + capital + bank wall |
-| K12 | AI content watermarking | T1 | Commoditized May 2026 — OpenAI+SynthID, Google Chrome/Cloud, C2PA 6K+ members |
-| K13 | KR-Israel connector/fund | T2 | Sovereign funds own it — OurCrowd/NH $80M, KORIL-RDF since 2001 |
-| K14 | KR FDI compliance | T4 | Small ceiling; embassy = seed not moat. Possible LEAD-1 bundle SKU only |
-| K15 | KR retail interior/fit-out | T2 | 숨고/916디자인/더공 (escrow+dispute referee) own it |
-| K16 | TAAMS as platform | T2/T1 | Tridge+Tradlinx+free gov data own all layers end-to-end |
-| K17 | 중대재해처벌법 (5-49인) safety evidence SaaS | T1/T5 | Free KOSHA tooling + licensed 안전관리대행 agencies own it; no founder distribution to ~800K SMEs (cycle 18 anti-tunnel test) |
-| K18 | SME bookkeeping → lending-signal data | T2/T3 | 캐시노트/한국신용데이터 owns it — 1.7M sites (88%), ₩1.1조 unicorn, already runs CB on the data (cycle 20 anti-tunnel test) |
+| # | Idea | T | Reason | 🔁 re-audit (c27) |
+|---|------|---|--------|--------------------|
+| K1 | AI HR training videos | T1 | GPU/model-quality war — Synthesia (90% Fortune 100), HeyGen, Runway ($3B) | WALL ✓ (true commodity, no edge) |
+| K2 | AI lease abstraction | T1 | Claude/GPT do extraction natively; 10+ funded players at 90-97% accuracy | WALL ✓ (commodity) |
+| K3 | "Beat Leasecake" lease ops | T2 | Feature war vs 15+ incumbents; ASC842 anchor needs a CPA | not re-audited yet (US, low founder fit) |
+| K4 | Generic site selection US | T2 | Placer (unicorn $100M+ ARR), Buxton, SiteZeus, GrowthFactor | WALL ✓ (no KR edge / no distribution) |
+| K5 | David algo → US site selection | T2 | Same as K4 | WALL ✓ |
+| K6 | David algo → KR site selection | T2/T1→**T3** | Gov gives algo free (상권정보시스템) + 오픈업/Finda funded | **WALL, now stronger:** 오픈업 프로 (Finda, Oct-2025) = exact product ~₩825k/mo on NICE card-data wall. (=EXPAND-1, parked) |
+| K7 | Trade finance / LC automation | T2/T5 | Microsoft+HSBC, Cleareye, NeuroGaint; bank sales motion | not re-audited (bank sales = T5 wall likely) |
+| K8 | Restaurant labor/scheduling | T2→**T1/T5** | Restaurant365, Crunchtime, SynergySuite entrenched | **WALL, reason CORRECTED:** real wall = KR 시프티/알밤/토스플레이스 commoditized + payments-subsidized free; NOT the US players |
+| K9 | Supplier price-drift/invoice-leak | ~~T2~~ | MarginEdge does exact feature (product-level price alerts) | **🟢 REVIVED → CASH-F1.** No KR player does invoice-OCR→price-drift→plate-cost. False-negative. |
+| K10 | KR crypto VASP AML | T2/T3 | CODE consortium (Bithumb/Coinone/Korbit) + Elliptic/Notabene | WALL ✓ (license/consortium) |
+| K11 | KR institutional crypto custody | T3 | KODA/KDAC/BDACS — license + capital + bank wall | WALL ✓ (license+capital) |
+| K12 | AI content watermarking | T1 | Commoditized May 2026 — OpenAI+SynthID, Google Chrome/Cloud, C2PA 6K+ members | WALL ✓ (commodity) |
+| K13 | KR-Israel connector/fund | T2 | Sovereign funds own it — OurCrowd/NH $80M, KORIL-RDF since 2001 | not re-audited (capital/relationship wall likely) |
+| K14 | KR FDI compliance | T4 | Small ceiling; embassy = seed not moat. Possible LEAD-1 bundle SKU only | re-frame: small ceiling is OK per v3.0 — but PUSH-WTP (T7) likely; low priority |
+| K15 | KR retail interior/fit-out | T2→**mixed** | 숨고/916디자인/더공 (escrow+dispute referee) own it | **Partial revive → EXPAND-1b:** marketplace=WALL (captive channel); HQ-rollout-PM niche=thin SPEED-BUMP |
+| K16 | TAAMS as platform | T2/T1 | Tridge+Tradlinx+free gov data own all layers end-to-end | WALL ✓ (end-to-end owned) |
+| K17 | 중대재해처벌법 (5-49인) safety evidence SaaS | T1/T5 | Free KOSHA tooling + licensed 안전관리대행 agencies own it; no founder distribution to ~800K SMEs (cycle 18 anti-tunnel test) | WALL ✓ (free gov + T5 no distribution) |
+| K18 | SME bookkeeping → lending-signal data | T2/T3 | 캐시노트/한국신용데이터 owns it — 1.7M sites (88%), ₩1.1조 unicorn, already runs CB on the data (cycle 20 anti-tunnel test) | WALL ✓ (T3 data-scale wall) |
+| K19 | KR local-service booking/CRM (미용실·필라테스·PT) | T1 | Entrenched cheap/FREE vertical CRMs (바디코디·공비서·핸드SOS) + 네이버 예약 absorbs booking + priced-to-free + no founder edge (cycle 30 v3.0 test) | WALL ✓ (commodity + platform-absorbed; rescue failed) |
+| K20 | Generic 단골/CRM/멤버십 messaging | T1 | **Naver Place absorbed CRM/membership natively 2026-05-14** (도도포인트/페이히어 plug-ins) → platform-absorbs-job (cycle 31) | WALL ✓ (platform-absorbed) |
+| K21 | 학원 admin / parent-comms SaaS | T1 | Priced-to-FREE — 학원조아·클래스업·랠리즈 free, monetize 알림톡 markup (cycle 31 greenfield) | WALL ✓ (priced-to-free) |
 
 ---
 
