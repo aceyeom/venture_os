@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.2
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 24) | **OS version:** 2.2
 
 ---
 
@@ -72,6 +72,26 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 24 — VALIDATE: send-ready discovery kit + signal log (no generation) · May 30, 2026
+**Why this cycle:** anti-loop is active and the board is blocked on the SAME constraint it has been for 5
+cycles — buyer signals 0/3. So this cycle produces the operational artifacts that turn "messages drafted"
+(Cycle 19) into "messages a founder can send in one paste, and log identically." No new ideas, no new gates.
+**What changed vs Cycle 19's kit:**
+- Folded in Cycle-22 **FIX-1**: split discovery into **two cohorts run in parallel** — Cohort A (already-
+  submitted: 은행/대형 금투·보험) as the real teacher for recurring-WTP (VoD #1), Cohort B (Jul-2 mid-tier)
+  as the hot pipeline. Added a Cohort-A outreach message (lead = "submission's done — what now?").
+- Kept posture **NEUTRAL** (operator decision, May 30): Q0 still diagnoses software- vs consulting-WTP, but
+  the kit does NOT pre-commit to the L9 managed-service framing — buyers decide it. (Faithful to §5.)
+- Externalized the **signal rubric + tally** into `SIGNAL_LOG.md` so the 3-of-3 GREEN count is live state.
+**Artifacts:** `DISCOVERY_KIT.md` (send-ready, both cohorts, call guide, decision-date playbook) +
+`SIGNAL_LOG.md` (outreach tracker + per-call template + running tally).
+**Status:** 🔬 VALIDATE · buyer signals still **0/3** — cannot move until founders send + converse.
+**Operator action required (only founders can do this):** Ace sends Cohort-B msgs via dad + the Coxwave
+intro; pull Cohort-A intros via Coxwave's already-live FI clients; run 3–5 calls before 2026-07-02; log
+each in `SIGNAL_LOG.md`. **This is the gating step for the entire board.**
 
 ---
 
