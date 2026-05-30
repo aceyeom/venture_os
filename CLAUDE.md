@@ -133,7 +133,11 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 18 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 19 — May 30 2026; full detail in LEDGER.md)
+🔬 CYCLE 19 = VALIDATE (no generation). Discovery kit DRAFTED for the 책무구조도 Jul-2 hook (MSG 1 via Ace's
+   dad → Yeouido mid-tier 자산운용사 now in the Jul-2 cohort; MSG 2 via Coxwave). One conversation tests BOTH
+   validate-or-die questions (recurring-subscription WTP + vendor-consolidation/data-consent). Signal rubric set.
+   GATING STEP FOR THE WHOLE BOARD — only the founders can send/converse. Buyer signals still 0/3.
 ⚙️ MOAT-A1 금융 자율보안-결과책임 governance/소명-evidence layer (cycle 18, Axis-A). Survives contingent;
    YELLOW. SAME ENGINE as LEAD-1 (KR-FI accountability layer + cross-client benchmark) but CISO persona.
    Subordinate to LEAD-1 — do NOT split Ace's 10-13 hr/wk. Activate only if FI discovery says security-

@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        [ ] CASH  [ ] MOAT  [x] BOTH (default)
-AXIS:        [x] A-regulation  [ ] B-asset-pair  [ ] C-data-byproduct  [ ] D-buyer-back  [ ] E-enforcement-watch
-CYCLE #:     18  (cycle 17 = Axis-D; anti-loop manually waived by operator for this run)
+MODE:        [ ] CASH  [ ] MOAT  [ ] BOTH   [x] VALIDATE (Fri cadence — generation paused, per Prime Directive)
+AXIS:        n/a (no generation this cycle)
+CYCLE #:     19  (validation cycle — advancing 🔬 ideas to buyer signal; NOT generating idea #23)
 DECISION DATE: 2026-07-02 (forced — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ```
 
@@ -71,6 +71,44 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 19 — VALIDATE (no generation) · May 30, 2026
+**Why this cycle is VALIDATE, not generate #23:** the board has 3 surviving FI-accountability ideas and **0 buyer signals**. Per the Prime Directive + anti-loop, validation outranks generation; per §5, desk research alone CANNOT exceed YELLOW. Idea supply is no longer the constraint — buyer contact is. So this cycle produces the discovery kit and advances LEAD-1 / CASH-D1 toward signal. The 책무구조도 Jul-2 deadline (33 days) is the hook.
+
+**Serves both validate-or-die questions at once** (one buyer conversation tests both):
+- VoD #1 (cash leg): will a mid-tier FI pay for an ongoing *subscription* (not a one-time memo)?
+- VoD #2 (moat leg): will they consolidate compliance vendors AND consent to a cross-client benchmark?
+
+**Targets (warm channels):**
+- **Ace's dad → Yeouido 자산운용사 (mid-tier, <₩5T AUM):** these are in the Jul-2 2026 cohort RIGHT NOW (≥₩5T already passed Jul 2025) → actively scrambling. Reach a 준법감시인/내부통제 담당.
+- **Coxwave → FI clients:** warm intro to a compliance/내부통제 lead.
+
+**Discovery messages (drafted, ready to send — DO NOT pitch a product; ask what they DID):**
+
+> **MSG 1 — via Ace's dad (KR):**
+> 안녕하세요 [성함]님, [아버지 성함]의 아들 염[이름]입니다. 아버지 소개로 인사드립니다. 요즘 금융회사 내부통제·책무구조도 실무가 실제로 어떻게 돌아가는지 공부하고 있는데, 혹시 15분만 시간 내주실 수 있을까요? **무언가 팔려는 게 전혀 아니고**, 7월 2일 제출 기한을 앞두고 현업에서 어떤 작업을 하고 계신지 듣고 싶습니다. 편하신 시간 알려주시면 맞추겠습니다. 감사합니다.
+
+> **MSG 2 — via Coxwave (KR):**
+> [담당자]님, 금융권 고객사 중 준법감시·내부통제 담당자분과 15분 정도 이야기 나눠볼 수 있을까요? 제품 영업이 아니라, 책무구조도/AI 컴플라이언스 관련해서 실제로 어떤 업무를 **수동으로** 하고 계신지 리서치 중입니다. 소개 가능하시면 제가 직접 짧게 연락드리겠습니다.
+
+**Discovery call guide (ask what they DID; pain must surface BEFORE any product is named):**
+1. 지난 3개월간 책무구조도 준비로 **실제 하신 작업**을 순서대로 말씀해 주실 수 있나요?
+2. 그중 제일 손 많이 가고 반복되는 부분은 어디였나요?
+3. 외부(로펌/컨설팅)에 맡긴 부분이 있나요? 비용은 어느 정도였나요?
+4. 제출 끝나면 그걸로 끝인가요, 아니면 **인사이동·조직개편 때마다 다시 손봐야** 하나요? 그건 누가 하나요? ← *VoD #1 (recurring WTP)*
+5. "대표이사 관리의무 이행" 증빙은 지금 어떻게/어디에 남기세요?
+6. 컴플라이언스 관련 외부 솔루션·컨설팅을 몇 개나 쓰세요? 한 군데로 합치고 싶다는 생각 해보신 적 있나요? ← *VoD #2a (consolidation)*
+7. 동종 업계 익명 벤치마크(다른 회사들은 이 항목을 어떻게 처리했는지)가 있다면 유용할까요? 그러려면 귀사 데이터도 익명으로 풀에 들어가야 하는데 가능할까요? ← *VoD #2b (data consent)*
+
+**Signal scoring rubric (§5 — counts toward the 3 needed for GREEN):**
+- 🟢 **STRONG (= 1 signal):** unprompted "이런 거 시스템/자동화 없나요?", "얼마예요?", "언제부터 쓸 수 있어요?", OR spontaneously describes ongoing-maintenance pain *before* I name any product.
+- 🟡 **WEAK (≈0, log but doesn't count):** agrees it's painful only *after* I describe a solution.
+- ⚪ **ZERO:** "유용하겠네요" / polite interest, no described pain, no buying question.
+
+**Status after this cycle:** messages DRAFTED + protocol set; **buyer signals still 0/3** (cannot move until founders actually send + converse). LEAD-1 / CASH-D1 remain 🔬 VALIDATE / YELLOW. MOAT-A1 / MOAT-D1 wait on the same conversations.
+**Operator action required (only founders can do this):** Ace sends MSG 1 via dad + MSG 2 via Coxwave; run 3–5 calls before 2026-07-02; log each result in the LEAD-1 buyer-signal log. **This is the gating step for the entire board.**
 
 ---
 
