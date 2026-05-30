@@ -133,13 +133,22 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (seeded)
-🔬 LEAD-1 AI-compliance execution layer → consolidated compliance ops, mid-tier KR FIs. MODE-MOAT.
-   ANTI-GAMING FLAG (unresolved): does mid-tier-FI-AI-compliance hit $30M ALONE, or was the segment
-   narrowed into a corner to pass G4? → must resolve. VALIDATE-OR-DIE: pre-Q4-2026 WTP → 3 buyer signals
-   needed (Ace's dad + Coxwave). Currently 0 buyer signals → CANNOT exceed YELLOW until validated.
-🟡 PARK: TAAMS-service (MODE-CASH candidate — re-score under cash mode, may beat LEAD-1 on speed) ·
-   David's algorithm · NuvoVet (GTM-blocked; demoted from "proven").
+## CURRENT STATE (updated cycle 17 — May 30 2026; full detail in LEDGER.md)
+🔬 LEAD-1 AI-compliance execution layer → consolidated compliance ops, mid-tier KR FIs. NOW DUAL-CLASSED.
+   ANTI-GAMING FLAG → RESOLVED (cycle 17): confirmed GAMED. Mid-tier-FI-AI-compliance ALONE ≈ $4-8M ARR
+   (does NOT clear $30M). Fix = SPLIT LEGS: (a) WEDGE → MODE-CASH (fast, profitable, passes lowered
+   ceiling); (b) $30M MODE-MOAT thesis now rests only on same-buyer expansion + the cross-client
+   FSS-exam BENCHMARK data product (MOAT-D1) — both UNVALIDATED. Two validate-or-die questions now.
+   0 buyer signals → CANNOT exceed YELLOW until validated.
+🔬 CASH-D1 책무구조도 (Responsibilities-Map) maintenance SaaS for mid-tier KR FIs. MODE-CASH, Axis-D.
+   Survived all gates; YELLOW; FASTEST/HOTTEST path on the board — statutory mid-tier deadline Jul 2 2026
+   (33 days out), untooled, CEO personal liability. → LEADS LEAD-1's discovery as the concrete hook.
+⚙️ MOAT-D1 FSS-exam-readiness BENCHMARK / consolidated-compliance data layer. MODE-MOAT, Axis-D.
+   Survived (contingent); folded into LEAD-1 as its resolved MOAT leg. Load-bearing risk = cross-client
+   data CONSENT. Not a separate 21st idea (respects anti-loop + synthesis).
+🟡 PARK: TAAMS-service · David's algorithm · NuvoVet (GTM-blocked).
 🔴 KILL: 16 ideas (see ledger).
-NEXT ACTION (per Prime Directive): resolve LEAD-1 anti-gaming flag, OR re-score TAAMS under MODE-CASH,
-   then VALIDATE whichever fits the founder's current goal — do not generate idea #21.
+NEXT ACTION (per Prime Directive — ANTI-LOOP active: do NOT generate new ideas): VALIDATE. Send 3-5
+   discovery messages via Ace's dad + Coxwave led by the 책무구조도 Jul-2 deadline. Ask what they DID.
+   Listen for both validate-or-die signals (subscription WTP; vendor-consolidation + data-consent).
+   Decision date = 2026-07-02.
