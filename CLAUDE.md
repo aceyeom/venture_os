@@ -128,8 +128,10 @@ L3 warm channel ≠ winnable without buildable product · L4 durable moat = liab
 of-a-regulated-SERVICE (customer-handed/siloed, NOT scale-aggregated — refined v2.1) · L5 own the unglamorous
 workflow regulation creates, not the headline tool · L6 no teeth/grace
 period = no WTP yet; need enforcement-sensitive buyer · L7 SEED≠MOAT; write the moat sentence · L8
-hardware/build skill = capability, not moat · L9 (provisional, v2.2) enforcement-gated market + unproven
-software-WTP but proven consulting-WTP → enter as service-wrapped-software (managed service), not self-serve SaaS.
+hardware/build skill = capability, not moat · L9 (provisional, v2.2; calibrated c23) enforcement-gated market +
+unproven software-WTP but proven service-WTP → enter as service-wrapped-software (managed service). Precedent:
+KR FIs already buy MSSP/RegTech on subscription. Boundary: managed service triggers 업무위탁 규정 + cannot
+replace the internal 준법감시인 (it supports, not replaces); ACV still buyer-unvalidated.
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
 
 ═══════════════════════════════════════════════════════════════
@@ -139,7 +141,11 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 22 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 23 — May 30 2026; full detail in LEDGER.md)
+🔁 CYCLE 23 = META-LOOP. Pressure-tested L9 before it hardened: CONFIRMED via MSSP/RegTech subscription
+   precedent (FIs do buy managed services); REFINED with the 업무위탁-규정 + internal-준법감시인 boundary;
+   ACV (₩100-300M) left buyer-unvalidated. No version bump (calibration, not a new rule). New watch-risk:
+   existing KR RegTech vendors (옥타솔루션 등) could extend into 책무구조도 → defend the precise niche only.
 🧪 CYCLE 22 = RE-STRESS-TEST. Re-attacked the convincing ideas; found NEW fixes: CASH-D1 timing trap (deadline
    is for the one-time job we don't sell → flip validation ICP to the already-submitted Jul-2025 cohort + sell
    CEO liability-insurance); MOAT-D1 data-velocity trap (benchmark daily leading indicators, sell aggregate to

@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        RE-STRESS-TEST / RED-TEAM — re-hardened the convincing ideas + ideated fixes (generation halted)
+MODE:        META-LOOP — pressure-tested L9 against evidence (generation halted)
 AXIS:        n/a (no generation)
-CYCLE #:     22  (fixes folded into BUILD_PLAN §8; provisional L9 added; OS v2.2; still 0/3 signals)
+CYCLE #:     23  (L9 confirmed-in-spirit + refined with 업무위탁 boundary; no version bump; still 0/3 signals)
 DECISION DATE: 2026-07-02 (forced — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ```
 
@@ -47,6 +47,7 @@ A funded competitor still can't copy this because they're not a KR liability-bea
 **Bear case:** Big-4 + law firms already sell AI compliance to FIs and carry legal privilege. Modest fines ($21K) + grace period = soft WTP before enforcement. Mid-tier-only segment may not hit $30M alone (see flag below). Ace has ~10-13 async hrs/wk until discharge.
 
 **Watch-risk (bear's strongest point):** buyers may run to Kim & Chang for a one-time memo and do nothing else until an FSC exam forces action. Software WTP before enforcement = unproven.
+**Watch-risk #2 (added cycle 23):** KR RegTech vendors already exist (옥타솔루션 등, doing AML/FATCA/CRS) and could extend into 책무구조도. "Untooled" holds ONLY for the precise niche — 책무구조도-maintenance + 관리의무-소명 evidence + cross-client data byproduct — not "RegTech" broadly. Defend that exact ground.
 
 **✅ ANTI-GAMING FLAG — RESOLVED (May 30, 2026): CONFIRMED GAMED → dual-classed (do not re-open).**
 Ran the G6 anti-gaming math on the narrowed segment *on its own*:
@@ -71,6 +72,25 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 23 — META-LOOP: pressure-test L9 (no generation) · May 30, 2026
+Tested the law I added last cycle before letting it harden into doctrine. Desk evidence is appropriate here because L9 is a claim about *market structure* (do FIs buy managed services?), not buyer-WTP for our specific product.
+
+**Evidence FOR L9:**
+- **MSSP / 보안관제 / SECaaS is an established subscription market** FIs already pay into (~$3.9B global 2025, ~12% CAGR; Samsung SDS et al.). Direct precedent that FIs buy *managed services* recurringly → strongest support for MOAT-A1 (security-governance), where MSSP is the analog.
+- **RegTech compliance software IS bought** in KR finance (옥타솔루션 등 selling AML/RBA/FATCA/CRS; FSI runs a 레그테크 포털) — usually service-wrapped (implementation + support), matching L9's shape.
+- Pain quantified: major-bank compliance teams spend **~240 hrs/month** on regulatory reporting → the underlying job is real and heavy.
+
+**Evidence that REFINES L9 (the boundary I missed):**
+- The managed-service model itself is governed by the **금융회사 정보처리 업무위탁에 관한 규정** (FSS reporting + security review for any vendor processing FI data) — i.e. the managed-service posture *triggers the same 위탁 gate* as MOAT-A1's vendor-risk paradox, board-wide. The MOAT-A1 fix (read-only, low-risk class) is therefore a general design constraint for ALL service-wrapped entries.
+- **준법감시인 must be internal** (지배구조법) → a service can SUPPORT the officer but cannot REPLACE them. The pitch is "we do the grunt work + software; your 준법감시인 keeps accountability," never "outsource compliance."
+- The **₩100–300M ACV** I assumed remains **buyer-unvalidated** — desk can't confirm it; the Cycle-19 calls must.
+
+**VERDICT:** L9 **CONFIRMED in spirit + REFINED** (boundary added), **not version-bumped** (refined in place — flagged version churn last cycle; this is calibration, not a new rule). 
+
+**Bonus watch-risk surfaced (tightens G4 for CASH-D1/LEAD-1):** KR RegTech vendors already exist (옥타솔루션 등). They do AML/FATCA/CRS, not 책무구조도 — but they could *extend* into it. So "untooled" is true only for the specific niche: **책무구조도-maintenance + 관리의무-소명 evidence + the cross-client data byproduct.** That precise niche, not "RegTech" broadly, is the defensible ground. Logged to LEAD-1 watch-risks.
 
 ---
 
@@ -391,6 +411,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | (no bump) | May 30 2026 | HIT-RATE audit (now ~22 ideas gated, past every-8 cadence): **G2 (moat) + G5 (distribution) do most killing; G6 anti-gaming correctly caught LEAD-1.** No gate is dead weight; no rule proven wrong → NO version bump. | Gates are firing correctly; the meta-loop's job is to rewrite WRONG rules, not churn working ones. |
 | **v2.1** | May 30 2026 | **Refined L4** (data-byproduct moat): specified that the durable data must be generated as a byproduct of a regulated/accountability SERVICE (customer-handed, per-FI siloed) — explicitly NOT data requiring scale-aggregation. | Counter-example from cycle 20: DATA-C2 (SME bookkeeping data) died to a data-SCALE incumbent (캐시노트), while DATA-C1's complaint-outcome data survives precisely because the regulated service generates it. The old L4 didn't distinguish the two and would have green-lit a 캐시노트 fight. |
 | **v2.2** | May 30 2026 | **Added provisional L9** (service-wrapped-software entry) + injected a "who buys compliance software pre-enforcement?" diagnostic into the Cycle-19 discovery guide. | Cycle-22 re-stress-test found ALL four convergent ideas share ONE bear (enforcement-gated software-WTP) — a single point of failure for the whole board. L9 gives a fixed entry posture (ride proven consulting-WTP via managed service) and forces validation to test the shared assumption first. |
+| (no bump) | May 30 2026 | **Calibrated L9** (cycle 23): confirmed via MSSP/RegTech subscription precedent; refined with the 업무위탁-규정 + internal-준법감시인 boundary; ACV left buyer-unvalidated. Tested the new law before it hardened. | Meta-loop discipline: a rule added one cycle was adversarially checked the next. Evidence supported it, so it stayed — but desk research can't bless the ACV, so that stays flagged for the buyer calls. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -410,4 +431,4 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 6. No enforcement teeth = no WTP yet; need enforcement-sensitive buyer
 7. SEED ≠ MOAT — write the moat sentence; if blank = "our relationships," downgrade
 8. Hardware/build skill = production capability, not a moat
-9. *(provisional, v2.2, cycle 22)* In an enforcement-gated market with unproven software-WTP but PROVEN consulting-WTP, enter as **service-wrapped-software (managed service)** — ride the demonstrated budget, don't bet on self-serve SaaS adoption. Validate by finding (or failing to find) anyone buying the software on subscription pre-enforcement.
+9. *(provisional, v2.2; calibrated cycle 23)* In an enforcement-gated market with unproven software-WTP but PROVEN service-WTP, enter as **service-wrapped-software (managed service)** — ride the demonstrated budget, don't bet on self-serve SaaS adoption. **Precedent:** KR FIs already buy MSSP/보안관제 + RegTech on subscription. **Boundary:** the managed service itself triggers 금융회사 정보처리 업무위탁 규정 (FSS reporting + security review) and cannot replace the internal 준법감시인 — it SUPPORTS the officer, doesn't become them. **Still unvalidated:** the ₩100–300M ACV assumption (buyer calls must confirm).
