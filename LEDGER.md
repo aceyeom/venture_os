@@ -15,8 +15,8 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 ## CURRENT MODE
 ```
 MODE:        [ ] CASH  [ ] MOAT  [x] BOTH (default)
-AXIS:        [ ] A-regulation  [ ] B-asset-pair  [ ] C-data-byproduct  [x] D-buyer-back  [ ] E-enforcement-watch
-CYCLE #:     17
+AXIS:        [x] A-regulation  [ ] B-asset-pair  [ ] C-data-byproduct  [ ] D-buyer-back  [ ] E-enforcement-watch
+CYCLE #:     18  (cycle 17 = Axis-D; anti-loop manually waived by operator for this run)
 DECISION DATE: 2026-07-02 (forced — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ```
 
@@ -71,6 +71,53 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 18 — MODE: BOTH · AXIS: A (new 2026 regulation) · May 30, 2026
+*(Operator manually waived the anti-loop rule for this run — generation permitted despite LEAD-1's un-sent buyer conversations. Noted so the waiver is auditable.)*
+
+**Axis-A hunt:** which *new* 2026 KR law creates a recurring obligation nobody has tooled? Two candidates gated — one deliberately OUTSIDE the FI buyer (anti-tunnel test), one inside.
+
+### 🔴 CASH-A1 · 중대재해처벌법 (5–49인) Safety-Compliance Evidence SaaS — KILLED
+**Mode:** CASH | **Axis:** A | **Cycle:** 18
+
+**One-sentence:** Small KR business owners (5–49 employees), under 중대재해처벌법 since Jan 27 2024 (CEO ≥1yr prison / ≤₩1bn fine on a fatality), must build & maintain a 안전보건관리체계 + 위험성평가 evidence trail; today they use 안전관리대행 agencies or do nothing; a cheap SaaS could auto-run risk assessments + generate due-diligence evidence — weak moat, MODE-CASH.
+
+**Symmetric gate:**
+- KILL-search: 안전보건공단(KOSHA) gives 안전보건관리체계 templates + funds small-biz consulting **for free**; licensed 안전관리대행 agencies already serve the small tier as a manual service; multiple EHS/safety SaaS exist. = the same "free gov + licensed agency" pattern that killed K6 (상권정보).
+- WIN-search: micro-tier underserved by *software*, but...
+- **Gates:** G0 PASS · G1a PASS (criminal liability = WTP) · G1b WEAK (free KOSHA caps price) · **G2 FAIL** (no named TRUE-MOAT asset — no KR-liability-entity edge, no uncopyable data byproduct; it's documentation) · **G5 FAIL** (no warm channel to ~800K tiny businesses — founders' channels are finance/trade, not SME safety).
+- **Result: 🔴 KILL — type T1 (free gov tooling commoditizes) + T5 (no distribution / wrong-team).**
+
+**Lesson logged (anti-tunnel calibration):** the moment we leave the FI buyer we lose BOTH G2 (moat) and G5 (distribution) simultaneously. Third confirmation that the founders' real edge is the KR-FI accountability layer, not generic compliance.
+
+### ⚙️ MOAT-A1 · 금융 자율보안-결과책임 Governance & 소명-Evidence Layer — SURVIVES (contingent)
+**Mode:** MOAT | **Axis:** A | **Cycle:** 18
+
+**One-sentence:** KR FIs, now under FSC's new **자율보안-결과책임** regime (replacing prescriptive 망분리), must continuously self-assess cloud/SaaS + 위탁(3rd-party) security risk and be able to **소명** (justify the adequacy of their own risk decisions) to the regulator on any incident — with CISOs newly mandated to report material items to the board; today they patch this with consultants + point security tools + spreadsheets; we run a continuous governance-evidence layer that logs every risk decision in regulator-ready form and accrues a cross-FI benchmark of which security postures regulators accept; defensible via KR-liability-entity + cross-client data-byproduct; MODE-MOAT.
+
+**Symmetric gate:**
+- KILL-search: 보안 incumbents (이글루, SK쉴더스, 안랩) sell *tools* (DLP/EDR), not the 소명/결과책임 accountability layer; 금융보안원(FSI) issues guidance, isn't a SaaS vendor; Big-4 do one-time assessments. The continuous accountability-evidence workflow (L1 + L5) is unowned.
+- WIN-search: only a neutral multi-tenant accrues cross-FI "what the regulator accepted" data; 2-person team ships the evidence-logging wedge via Coxwave (security/AI-in-finance) + Ace's dad.
+- **Gates:** G0 PASS · G1a PASS (결과책임 = CISO/board WTP) · G1b PASS-tentative (incumbents sell tools not the layer) · **G2 STRONG PASS** (KR liability entity + data-we-generate byproduct) · G3 PASS (data-byproduct, no scale/capital wall) · G4 PASS-tentative · G5 PASS-dependent (warm channel) · **G6 contingent** (buyer = ALL ~1,000+ KR FIs incl. large, who carry the biggest 결과책임 exposure; ACV ₩100–300M → $30M reachable without narrowing) · G7 **STRONG PASS** (자율보안 regime live 2025-26 + DR/insurance provisions 2026 + post-망분리 SaaS wave) · G8 conditional (A8 bandwidth-drift — security product heavier to build than a doc tool).
+- **Anti-gaming check:** buyer is the whole FI market, not a narrowed dodge → ceiling holds without gaming. PASS.
+- **Result: SURVIVES (MODE-MOAT), contingent.** Possible no-license-gap question: 정보보호 전문서비스 기업 지정제 may gate some gov security work → flag for G-check.
+
+**Harden (converged):**
+| Pass | Top limitation | Mutation | Result |
+|------|---------------|----------|--------|
+| 1 | 보안업체/FSI could add a governance module | M-narrow: own the 소명/결과책임 *evidence artifact* (L1 accountability layer), not the security tooling | Owns the part incumbents don't sell |
+| 2 | Looks like a one-time consulting deliverable | M-wedge: continuous auto-logging of each risk decision + regulator-format export | Recurring, not one-time |
+| Converge | Stable structural limitation: vendor-risk paradox (see watch-risk) | — | → the bet's load-bearing question |
+
+**Bull:** three demand triggers fire at once (결과책임 regime + CISO board mandate + post-망분리 SaaS explosion); accountability-evidence is unowned; data-byproduct moat; whole-FI-market ceiling.
+**Bear:** selling a *security* product as a tiny unproven vendor trips the FI's OWN 3rd-party-risk gate; incumbents have trust + FSI relationships; A8 build too heavy for 10-13 hr/wk.
+**Watch-risk (bear's best):** **vendor-risk paradox — a 2-person KR entity may be un-onboardable as a security-governance vendor precisely because of the 위탁-risk rules it sells against.** Load-bearing.
+
+**Score (MODE-MOAT ×3 ceiling + defensibility):** Money = **MID** (ceiling HIGH, defensibility HIGH, WTP-evidence 0, time-to-rev LOW). Exec = **MID** (defensible HIGH, warm-buyers MED, Ace-demo MED on a heavy build, possible license-gap). **GRID = YELLOW.**
+**Status:** ⚙️ HARDENING / 🔬 candidate. **Same engine as LEAD-1 (KR-FI accountability layer + cross-client benchmark), pointed at the CISO persona instead of the CCO** — distinct regulation/buyer-persona/sales-motion, so kept as its own entry, NOT folded. **Subordinate to LEAD-1: do not split Ace's 10-13 hr/wk across two wedges.**
+**Activate-trigger:** if LEAD-1 discovery reveals the FI's #1 unmet pain is security-governance 소명 (not 책무구조도 / AI-compliance), pivot the wedge here. 0/3 signals.
 
 ---
 
@@ -191,6 +238,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | K14 | KR FDI compliance | T4 | Small ceiling; embassy = seed not moat. Possible LEAD-1 bundle SKU only |
 | K15 | KR retail interior/fit-out | T2 | 숨고/916디자인/더공 (escrow+dispute referee) own it |
 | K16 | TAAMS as platform | T2/T1 | Tridge+Tradlinx+free gov data own all layers end-to-end |
+| K17 | 중대재해처벌법 (5-49인) safety evidence SaaS | T1/T5 | Free KOSHA tooling + licensed 안전관리대행 agencies own it; no founder distribution to ~800K SMEs (cycle 18 anti-tunnel test) |
 
 ---
 
@@ -206,6 +254,8 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | Anti-gaming pattern (cycle 17) | LEAD-1's $30M "moat" was a $4-8M cash wedge wearing a moat costume; only the *data-byproduct* leg legitimately reaches $30M | When a narrow service is flagged GAMED, don't kill — SPLIT into cash-wedge + data-moat legs and validate each. The wedge funds the data that becomes the moat. |
 | Same-buyer (cycle 17) | 책무구조도 (Axis-D buyer-back) is a sharper, deadline-forced entry into the EXACT mid-tier FI buyer LEAD-1 targets | Lead all discovery with the 책무구조도 Jul-2-2026 deadline; AI-compliance is the harder second sell |
 | Why-now stack (cycle 17) | FSC opened 망분리 for in-network FI SaaS (Apr 2026) — the standard "FIs can't run cloud SaaS" objection just died | Removes a top-3 sales blocker for EVERY FI-compliance SaaS on this board |
+| 3x-confirmed edge (cycle 18) | THREE different 2026 laws (AI 기본법, 지배구조법 책무구조도, 자율보안-결과책임) all converge on the SAME KR-FI accountability-evidence + cross-client-benchmark shape | The asset is NOT any one regulation — it's "be the regulator-ready accountability/evidence layer for KR FIs, harvesting 'what passed' data." Stop hunting laws; deepen the buyer. |
+| Anti-tunnel proof (cycle 18) | The one cycle-18 idea OUTSIDE the FI buyer (중대재해 SME) KILLED on G2+G5 simultaneously | Empirical: leaving the FI buyer forfeits both moat AND distribution. The founders' edge is the buyer, not the compliance theme. |
 
 ---
 
@@ -213,7 +263,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 *(next ideas to gate — rotate axis each cycle)*
 
 - [x] **AXIS-D (DONE cycle 17):** for the mid-tier FI buyer — 3 spreadsheet/overpay pains BEYOND AI compliance? → **#1 = 책무구조도 maintenance (→ CASH-D1, now leads validation); #2 = FSS-exam readiness (→ MOAT-D1); #3 = AML/STR-CTR reg reporting (next to gate).** All confirmed LEAD-1 expansion SKUs / legs.
-- [ ] **AXIS-A:** what other 2026 KR law creates a new recurring obligation nobody has yet tooled?
+- [x] **AXIS-A (DONE cycle 18):** new 2026 KR recurring obligation? → 자율보안-결과책임 (→ MOAT-A1, survives, CISO persona of LEAD-1's engine); 중대재해처벌법 5-49인 (→ KILLED K17, no founder distribution).
 - [ ] **AXIS-C:** what service could Ace's stack run that generates proprietary KR financial data nobody else sells? (partially answered by MOAT-D1 benchmark — revisit)
 - [ ] **AXIS-D (deferred SKU #3):** gate AML/STR-CTR reg-reporting automation for the same mid-tier FI buyer — watch for T2 (NICE Actimize / 한국NICE incumbents)
 - [ ] **AXIS-E (standing):** monitor for any KR regulator enforcement-shock → instant WTP trigger for parked compliance ideas
@@ -226,13 +276,14 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | Version | Date | Change made | Why |
 |---------|------|------------|-----|
 | v2.0 | May 28 2026 | Added forcing function, symmetric gates, buyer-signal requirement, anti-gaming check, built-in adversary, MODE-CASH/MOAT, bandwidth gate, meta-loop | Red-team found OS was a kill machine (16-0) with no commit mechanism and no real-world validation loop |
-| | | | |
+| (no bump) | May 30 2026 | HIT-RATE audit (now ~22 ideas gated, past every-8 cadence): **G2 (moat) + G5 (distribution) do most killing; G6 anti-gaming correctly caught LEAD-1.** No gate is dead weight; no rule proven wrong → NO version bump. | Gates are firing correctly; the meta-loop's job is to rewrite WRONG rules, not churn working ones. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
 
 **Calibration notes** *(where buyers disagreed with desk research — trust buyers):*
-- [ ] None yet
+- [ ] None yet (no buyer conversations held — LEAD-1/CASH-D1 still 0/3 signals; this is the binding constraint, not idea supply)
+- Cycle-18 desk observation (to be tested by buyers): we now have 3 surviving FI-accountability ideas and 0 buyer signals → **the bottleneck is VALIDATION, not generation.** Supply of ideas is no longer the constraint.
 
 ---
 
