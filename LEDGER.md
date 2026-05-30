@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.3
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.4
 
 ---
 
@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        BATCH INTAKE + META-LOOP — triaged an off-framework external batch (no generation by this OS)
-AXIS:        n/a (ideas were generated externally by a generic screen, not by our axes)
-CYCLE #:     24  (4 external "survivors" all incumbent-killed on web-recheck → 3 KILL + 1 PARK; OS → v2.3)
+MODE:        FRAMEWORK RELAXATION (operator directive) — edge demoted from hard gate to accelerant; OS → v2.4
+AXIS:        n/a (meta) — AXIS-F (new-field) now available for future generation
+CYCLE #:     25  (G0/G2/G5/G8 relaxed; §3b off-edge bar + L12 added; v2.3 incumbent/market rigor retained)
 DECISION DATE: 2026-07-02 (unchanged — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ```
 
@@ -72,6 +72,34 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 25 — FRAMEWORK RELAXATION (operator directive) · May 30, 2026
+**Directive:** *"I feel it's too rigid. Don't only limit to the founders' direct networks. We are still willing to
+enter new fields."* → **OS bumped v2.3 → v2.4.** The edge map (§1b) was acting as a hard fence: G0 (foreigner-proof),
+G2 (pre-owned moat asset), G5 (warm-channel-only), and G8 (bandwidth-as-kill) auto-disqualified anything off the
+KR-FI home turf — which is what flagged all 4 cycle-24 batch ideas as "off-edge" before the incumbent search even
+ran. That was over-rigid. Fixed without going soft:
+
+| Gate | Was (v2.3) | Now (v2.4) |
+|---|---|---|
+| **G0** | hunting-ground "foreigner-proof?" — hard fail if not KR | **winnable-in-field**: barriers favor us OR are surmountable with a named hire/partner/build plan; foreign/new ≠ auto-fail |
+| **G2** | named TRUE-MOAT *asset* (pre-owned) | OWNED **or BUILDABLE** moat (accrued data, accepted standard, integration depth, brand) — state which |
+| **G5** | distribution = warm-channel test path | credible path to first buyers: warm (fastest) **OR earned/cold** (beachhead, design-partner, channel partner) |
+| **G8 / T6** | bandwidth a hard gate; >10-13 hr/wk → PARK regardless | **SEQUENCING** gate: gap WITH a fund/hire/park plan → PARK-till-capacity; kill only if NO path to capacity |
+
+**Guardrails so loosening ≠ sloppiness:** added **§3b OFF-EDGE HIGHER BAR** (off-edge ideas must clear a stricter
+wedge/ceiling/why-now and name the earned-edge plan), **AXIS-F** (new-field hunting), **L12** ("edge is a discount,
+not an entry ticket; never let 'not in our network' do the killing an incumbent/ceiling/why-now check should do"),
+and an EXECUTION-score note (off-edge scores lower on channel/moat — an honest discount, not a disqualification).
+**Retained in full:** every v2.3 incumbent/catalyst/market-reality rule (§3 incumbent-naming precondition, G6
+transacts-today, G7 durability, L1/L10/L11, the AR-004 rejection). We loosened WHO can play, not the gauntlet.
+
+**Re-read of cycle 24 under v2.4 (important):** the 4 batch ideas do NOT revive. Their **durable** kill reason was
+always **incumbents (T2)** — Assent, Pearl Street/Enverus, Citrin/Massarsky, Sensitech Lynx FacTOR — not "off-edge."
+Music stays **PARK-4** on incumbent-occupation + tiny TAM (off-edge is now a cost to price, not the blocker). So the
+relaxation is real but changes nothing about those four — which is the correct test that we loosened the right knob.
 
 ---
 
@@ -449,8 +477,10 @@ post-issuance surveillance / covenant monitoring**, vs incumbents' point-in-time
 is occupied — Citrin/Massarsky and Shot Tower/RedBrick already serve lenders; KBRA *requires* third-party valuation;
 IRIS pitches investors.
 
-**Why it is NOT viable for THIS team:** fails G0 (US/global capital markets), G2 (no named moat asset), G5 (zero warm
-channel to Blackstone/KBRA/arrangers), G8 (enterprise sales cycles need full-time founders). Off-edge on every gate.
+**Why it stays PARK (re-framed under v2.4):** the durable blocker is **incumbent-occupation + a few-dozen-buyer TAM**,
+NOT geography. Off-edge is now a *cost to price* (we'd need to build the moat, earn a channel to KBRA/arrangers, and
+likely fund/hire) — under §3b an off-edge idea must clear a HIGHER wedge/ceiling bar, and a continuous-surveillance
+sliver inside a tiny, served market doesn't clear it. So it remains parked on the market, not on the edge.
 
 **Revive-trigger:** a founder secures a warm intro to a rating agency / ABS arranger AND that buyer states,
 unprompted, that the existing players leave a *continuous-surveillance* gap they'd pay a subscription for. Even then,
@@ -504,7 +534,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | Anti-tunnel proof (cycle 18) | The one cycle-18 idea OUTSIDE the FI buyer (중대재해 SME) KILLED on G2+G5 simultaneously | Empirical: leaving the FI buyer forfeits both moat AND distribution. The founders' edge is the buyer, not the compliance theme. |
 | Saturation (cycle 20) | Cycles 17→20 = 4 survivors, all the SAME engine (KR-FI accountability layer + cross-client outcome data); both off-buyer ideas KILLED (K17, K18) | Idea supply is SATURATED. Axis-C didn't escape the tunnel — it reconfirmed it (4x). Generation now yields ~0 novelty → STOP generating, VALIDATE. |
 | Data-moat refinement (cycle 20) | DATA-C2 died to 캐시노트 (data-SCALE incumbent); DATA-C1's data survives because the SERVICE generates it per-FI | Defensible founder data = byproduct of a regulated SERVICE (customer-handed, siloed), NOT data you must aggregate at scale. → L4 refined, OS v2.1. |
-| Off-edge intake (cycle 24) | 4 externally-generated "survivors" (US PFAS/grid/music/CAR-T) ALL failed G0+G2+G5+G8 — zero founder edge — *and* all 4 were incumbent-killed once a real product-name search was run | The Founders' Edge Map (§1b) is the highest-yield filter: an idea off the KR-FI buyer + warm channel + bandwidth is dead on arrival regardless of market merit. Don't import generic-screen "survivors"; re-gate everything through G0/G2/G5/G8 FIRST. |
+| Off-edge intake (cycle 24, **revised cycle 25**) | 4 externally-generated "survivors" (US PFAS/grid/music/CAR-T) were off the home edge *and* all 4 were incumbent-killed once a real product-name search was run | **Revised under v2.4:** off-edge is no longer the kill reason (we WILL enter new fields) — the durable kill was **incumbents (T2)**. Lesson kept: run the incumbent/product-name search FIRST; let edge be a scored cost (§3b), not the disqualifier. Don't import generic-screen "survivors" un-gated — but don't reject them for geography either. |
 | Whitespace-search discipline (cycle 24) | Every "empty middle / nobody serves this" claim in the batch was falsified by a single product-NAME search (Assent, Enverus, Citrin, Sensitech) | "Empty" = "search not finished." Hard PASS-precondition added to §3: name ≥3 incumbents before any survivor verdict. |
 
 ---
@@ -532,6 +562,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | (no bump) | May 30 2026 | **Calibrated L9** (cycle 23): confirmed via MSSP/RegTech subscription precedent; refined with the 업무위탁-규정 + internal-준법감시인 boundary; ACV left buyer-unvalidated. Tested the new law before it hardened. | Meta-loop discipline: a rule added one cycle was adversarially checked the next. Evidence supported it, so it stayed — but desk research can't bless the ACV, so that stays flagged for the buyer calls. |
 | **v2.3** | May 30 2026 | **Cycle 24 batch intake.** Adopted only the genuine deltas from an external batch's 13 proposed rules: refined **L1** (regulatory why-now → horizontal compliance-SaaS swarm in ~18mo); added **L10** (durable why-now / no single-policy-of-failure) + kill-type **T7**; added **L11** (market-transacts-today + buyer-pool×ACV) → G6/G7 sharpened; added **§3 PASS-precondition** (name ≥3 incumbents before any PASS); added kill-type **T8** (value-capture-mismatch). | The external dives skipped the very gates that matter (G0/G2/G5/G8) and the incumbent search — their 4 "survivors" all died on web-recheck. The useful residue was a handful of universal sharpenings; most proposed rules duplicated existing OS machinery and were dropped. |
 | **REJECT (logged)** | May 30 2026 | **Rejected the batch's "conflicted-incumbents-won't-build-it" rule (AR-004).** Marked do-not-readopt. | **False-positive caught by the meta-loop:** web-falsified — Battelle/Eurofins actively sell tiered screening to REDUCE testing. This assumption was load-bearing under "PFAS triage," which was actually dead. A conflict-of-interest hope is not a moat. |
+| **v2.4** | May 30 2026 | **Cycle 25 framework relaxation (operator directive).** Demoted the founders'-edge gates from hard kills to accelerants + scoring weights: G0 → winnable-in-field; G2 → owned-OR-buildable moat; G5 → warm-OR-earned channel; G8/T6 → sequencing (PARK-till-capacity/fund/hire). Added §3b off-edge higher bar, AXIS-F, L12, EXECUTION off-edge note. | Operator: "too rigid — we're willing to enter new fields, don't only limit to direct networks." The edge map was over-filtering on geography/network before the real gates (incumbents/ceiling/why-now) ran. Loosened WHO can play while retaining ALL v2.3 market rigor + a higher bar so off-edge ideas still earn their entry. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -563,5 +594,6 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 9. *(provisional, v2.2; calibrated cycle 23)* In an enforcement-gated market with unproven software-WTP but PROVEN service-WTP, enter as **service-wrapped-software (managed service)** — ride the demonstrated budget, don't bet on self-serve SaaS adoption. **Precedent:** KR FIs already buy MSSP/보안관제 + RegTech on subscription. **Boundary:** the managed service itself triggers 금융회사 정보처리 업무위탁 규정 (FSS reporting + security review) and cannot replace the internal 준법감시인 — it SUPPORTS the officer, doesn't become them. **Still unvalidated:** the ₩100–300M ACV assumption (buyer calls must confirm).
 10. *(added v2.3, cycle 24)* **Why-now must be DURABLE.** An idea whose whole model rests on ONE regulation that can be repealed/paused/rewritten is a single-point-of-failure (kill-type T7); require a 2nd, market-driven catalyst alongside any regulatory one. **Precedents:** EPA Methane Charge (CRA-repealed Mar 2025), ACR orphaned-well methodology (paused for 2026 rewrite), FSMA-204 (deadline slipped) — all would pass a naive "why-now + TAM" screen and die to a policy reversal.
 11. *(added v2.3, cycle 24)* **Verify the market TRANSACTS TODAY** and that buyer-pool × ACV clears the MODE ceiling as a REAL number before any PASS. Don't bet on a market that hasn't started transacting (SGMA groundwater trading: free public incumbent + market not actually trading), and don't mistake a sub-scale SERVICES market for a big SOFTWARE market (a digital logbook is a feature, not a vertical — own where money MOVES).
+12. *(added v2.4, cycle 25)* **Edge is a DISCOUNT, not an entry ticket.** The founders' network/assets lower the cost of winning where they apply, but a NEW FIELD is open if the wedge justifies BUILDING the moat and EARNING the channel. Price the field-entry tax honestly (§3b higher bar, lower execution score, possible fund/hire/park) — don't kill for being off the home turf. **Corollary:** never let "it's not in our network" do the killing that an incumbent search, a ceiling check, or a why-now check should be doing.
 
 **🔴 REJECTED LAW (logged so it is never re-adopted, v2.3):** *"Conflicted incumbents won't build a tool that cannibalizes their revenue, so the space stays open."* Web-falsified in cycle 24 — testing labs (Battelle, Eurofins) actively SELL tiered screening to REDUCE testing, and this was the load-bearing assumption under a "survivor" (PFAS triage) that was actually dead. A conflict-of-interest assumption is NOT a moat; verify by product-name search, never assume.

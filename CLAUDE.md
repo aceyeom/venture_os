@@ -1,4 +1,4 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.3)
+# THE FOUNDER'S OPERATING SYSTEM (v2.4)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 ### v2.0 changelog: added forcing function, symmetric judgment, buyer-signal-as-input, anti-gaming check,
@@ -12,6 +12,14 @@
 ### sharpened G6 (market-transacts-TODAY + buyer-pool×ACV reality check), made incumbent-naming a hard PASS-
 ### precondition in §3, refined L1 (regulatory why-now spawns a horizontal compliance-SaaS swarm in ~18mo).
 ### REJECTED the batch's "conflicted-incumbents-won't-build-it" rule — web-falsified (it green-lit a dead idea).
+### v2.4 changelog (cycle 25): OPERATOR DIRECTIVE — the team WILL enter new fields/geographies; stop treating the
+### founders' direct network as a fence. Edge is now an ACCELERANT + scoring weight, NOT a hard kill-gate.
+### G0 foreigner-proof → "winnable-in-field (barriers favor us OR surmountable with a plan)"; G2 accepts a
+### BUILDABLE moat (earned data / standard-setting / integration depth), not only pre-owned founder assets;
+### G5 accepts an EARNED/cold distribution path, not only warm intros; G8/T6 bandwidth → SEQUENCING gate
+### (PARK-till-capacity or fund/hire), not auto-kill. Trade-off kept honest: an OFF-EDGE idea must clear a
+### HIGHER market+moat+why-now bar (§3b) to offset lost home-field advantage. ALL v2.3 incumbent/catalyst/
+### market-reality discipline is retained — we loosened WHO can play, not the rigor of the gauntlet.
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -39,24 +47,36 @@ team always has a near-term cash option AND a long-term bet. Never let moat-wors
 vice-versa.
 
 ═══════════════════════════════════════════════════════════════
-## 1b. THE FOUNDERS' EDGE MAP + BANDWIDTH (fixes "ignores real constraints")
+## 1b. THE FOUNDERS' EDGE MAP + BANDWIDTH (an ACCELERANT, not a fence — relaxed v2.4)
 ═══════════════════════════════════════════════════════════════
-TRUE MOAT (uncopyable): KR liability-bearing entity · data we GENERATE as service byproduct · David's
-  site-selection IP. SEED (opens doors, not defensible): all named relationships/connections.
-BUILD: Ace solo-ships full-stack+AI; David sells/presents/writes.
-**BANDWIDTH REALITY (hard constraint, checked as a gate): Ace ~10-13 async hrs/wk (military service until
-discharge); David part-time. Any idea whose path-to-first-revenue needs full-time founders NOW is PARKED
-until discharge, regardless of score.** Capital available via David's network = fundraise is possible but
-adds time; weigh against MODE-CASH speed.
+**POSTURE (v2.4): the team is WILLING TO ENTER NEW FIELDS AND GEOGRAPHIES.** The edge map below is a list of
+*advantages that lower cost/time/risk WHEN they apply* — it is NOT a list of the only places we're allowed to play.
+An idea OFF the edge is permitted; it simply carries a higher bar (see §3b) because we forfeit home-field advantage
+and must BUILD the moat/channel we'd otherwise already own.
+EXISTING ACCELERANTS (use them when they fit, don't force them): KR liability-bearing entity · data we GENERATE as
+  service byproduct · David's site-selection IP · named relationships/connections (these OPEN DOORS — a seed, never
+  a moat by themselves, per L7).
+EARNED EDGE (the new-field path): in a field where we start cold, edge is BUILT — a proprietary dataset we accrue,
+  a standard we get a regulator/rating-agency to accept, integration/normalization depth, a brand, or a hired/partnered
+  domain operator. A buildable moat counts (G2); a credible earned-distribution plan counts (G5).
+BUILD CAPACITY: Ace solo-ships full-stack+AI; David sells/presents/writes; capital is reachable via David's network
+  (fundraise possible — adds time) and we can hire/partner for a domain we lack.
+**BANDWIDTH REALITY (a SEQUENCING constraint, not an auto-kill — softened v2.4): Ace ~10-13 async hrs/wk (military
+service until discharge); David part-time.** An idea whose path-to-first-revenue needs more than this is NOT killed —
+it is PARKED-till-capacity (discharge) OR gated behind a fund/hire plan, and scored on speed accordingly. Only kill
+on bandwidth if there is NO buildable path to capacity at all.
 
 ═══════════════════════════════════════════════════════════════
 ## 2. GENERATE (rotating axes — anti-tunnel)
 ═══════════════════════════════════════════════════════════════
-AXIS-A regulation (new KR obligation untooled) · AXIS-B asset-pair (combine 2 unpaired founder assets) ·
-AXIS-C data-byproduct (service that generates uncopyable data) · AXIS-D buyer-back (pick a reachable
-buyer, find what they overpay for/do in spreadsheets) · AXIS-E enforcement-shock watch (standing task).
+AXIS-A regulation (new untooled obligation — KR *or any geography*; KR stays highest-yield by default but is no
+  longer the only board) · AXIS-B asset-pair (combine 2 unpaired founder assets) · AXIS-C data-byproduct (service
+  that generates uncopyable data) · AXIS-D buyer-back (pick a reachable buyer, find what they overpay for/do in
+  spreadsheets) · AXIS-E enforcement-shock watch (standing task) · AXIS-F new-field (v2.4: a market off our home
+  turf where the WEDGE is strong enough to justify BUILDING the moat + earning the channel — held to §3b's higher bar).
 OUTPUT = one sentence: "[BUYER] pays for [JOB] today via [SUBSTITUTE]; we do [WEDGE]; defensible because
-[MOAT SENTENCE]; fits [MODE]; first revenue in [TIME] within [BANDWIDTH]." Can't write it → not ready.
+[MOAT SENTENCE — owned OR buildable]; fits [MODE]; first revenue in [TIME] within [BANDWIDTH-or-funded-capacity]."
+Can't write it → not ready.
 
 ═══════════════════════════════════════════════════════════════
 ## 3. GATE — SYMMETRIC (fixes "biased toward killing" + "gameable")
@@ -70,19 +90,39 @@ KILL ONLY IF win-conditions are ALSO absent. Then check gates in order; one fail
   verdict yet. Never write "no incumbent / empty middle" on the strength of a category search alone — the cycle-24
   batch ledgered 4 "empty" markets that a product-name search instantly falsified (Assent, Pearl Street/Enverus,
   Citrin/Massarsky, Sensitech Lynx FacTOR). "Empty" almost always means "search not finished."**
-  G0 hunting-ground (foreigner-proof?) · G1a budget exists · G1b budget winnable ·
-  G2 named TRUE-MOAT asset (not "relationships") · G3 moat type (not data-scale/GPU/capital wall) ·
-  G4 disconfirm survived · G5 distribution <90-day test path ·
+  G0 WINNABLE-IN-FIELD (relaxed v2.4): can a 2-person team realistically win HERE? Field/geography barriers
+    (language, local regulation, domain knowledge) must either FAVOR us OR be surmountable with a named plan
+    (hire/partner/build). Foreign or new-field is NOT an auto-fail — an unsurmountable structural barrier IS. ·
+  G1a budget exists · G1b budget winnable ·
+  G2 TRUE-MOAT — OWNED **or** BUILDABLE (relaxed v2.4): a pre-owned founder asset, OR a credibly buildable moat
+    (proprietary data we accrue, a regulator/rating-agency-accepted standard, integration/normalization depth, brand).
+    Still NOT "our relationships" alone (L7). State whether the moat is owned (faster) or to-be-built (higher bar). ·
+  G3 moat type (not data-scale/GPU/capital wall) ·
+  G4 disconfirm survived · G5 DISTRIBUTION — credible path to first buyers in a test window (relaxed v2.4): a warm
+    channel (fastest) OR an earned/cold path (named beachhead, design-partner motion, channel partner). "No warm
+    intro" is no longer a kill; "no plausible path at all" still is. ·
   G6 ceiling (per MODE) — AND market-TRANSACTS-TODAY (buyers paying NOW, not a hoped-for future market) +
     buyer-pool × ACV clears the MODE ceiling as a REAL number (a sub-scale services market ≠ a big software market) ·
   G7 why-now catalyst — must be DURABLE: survives a single policy/regulation REVERSAL (no single-point-of-failure
     why-now); prefer a 2nd, market-driven catalyst alongside any regulatory one ·
-  G8 BANDWIDTH-FIT (path to revenue fits ~10-13 hr/wk now?).
+  G8 BANDWIDTH/CAPACITY (relaxed v2.4): does the path-to-first-revenue fit ~10-13 hr/wk now — OR a named
+    fund/hire/partner plan to reach the capacity it needs? If neither now nor buildable → PARK-till-capacity, don't kill.
+
+**§3b OFF-EDGE HIGHER BAR (added v2.4):** when an idea is OFF the founders' home edge (new field/geography, moat must
+be BUILT, channel must be EARNED), it does NOT get killed for that — but it must clear a STRICTER version of the
+gauntlet to justify the extra cost/risk we take on: (1) the WEDGE must be sharper and the incumbent gap wider than an
+on-edge idea would need; (2) G6 ceiling should sit comfortably in MODE-MOAT territory (a thin off-edge cash play rarely
+pays for the field-entry tax); (3) G7 why-now must be strong AND durable; (4) name the EARNED-EDGE plan explicitly
+(what moat we build, what channel we earn, who we hire/partner with). On-edge ideas keep the lighter bar — edge is the
+discount, not the entry ticket.
+
 ANTI-GAMING CHECK (mandatory after any segment-narrowing): "Does the narrowed segment that saved G4
 still pass G6 (ceiling) ON ITS OWN?" If narrowing to dodge competitors breaks the ceiling, the idea is
 GAMED — mark it and either widen (and re-face competitors) or accept it as MODE-CASH/niche only.
 KILL-TYPES: T1 commodity · T2 incumbent-owns-wedge · T3 capital/license/data wall · T4 ceiling-low ·
-  T5 wrong-team/no-distribution · T6 bandwidth-incompatible-now ·
+  T5 no-buildable-distribution (relaxed v2.4: kill only if NO warm AND NO earnable channel exists — "merely cold" is
+    a cost, not a kill) · T6 capacity-unreachable (relaxed v2.4: bandwidth gap with NO fund/hire/park path; a gap WITH
+    a path → PARK-till-capacity, not KILL) ·
   T7 catalyst-fragile (why-now rests on ONE policy that can be repealed/paused — added v2.3) ·
   T8 value-capture-mismatch (real value flows to services/credits/hardware, NOT the software we'd sell — added v2.3).
 
@@ -114,10 +154,14 @@ The whole machine exists to get the RIGHT idea to THIS step fast and cheap — n
 ═══════════════════════════════════════════════════════════════
 MONEY/100: ACVx3 · underserved-painx3 · WTP-EVIDENCEx3 (0 if no buyer signal) · reachable-buyersx2 ·
   recurringx2 · time-to-revx2 · marginx1 · ceilingx2 · market-growthx2.
-EXECUTION/70: Ace-demo-in-bandwidthx3 · data-cheap-day1x3 · named-warm-buyersx3 · no-license-gapx2 ·
-  defensible-12mox2 · low-burnx1.
+EXECUTION/70: demo-in-capacityx3 (buildable in current bandwidth OR a funded/hired capacity plan) · data-cheap-day1x3 ·
+  named-buyers-or-earnable-channelx3 (warm = full marks; a credible earned/cold beachhead plan = partial, not zero) ·
+  no-license-gapx2 · defensible-12mox2 (owned moat = full; buildable moat with a clear plan = partial) · low-burnx1.
 GRID: MoneyHi+ExecHi=GREEN(only with buyer signal) · mixed=YELLOW · LowLow=RED.
-MODE re-weights: MODE-CASH triples time-to-rev + bandwidth; MODE-MOAT triples ceiling + defensibility.
+MODE re-weights: MODE-CASH triples time-to-rev + capacity-fit; MODE-MOAT triples ceiling + defensibility.
+OFF-EDGE NOTE (v2.4): an off-edge idea naturally scores lower on EXECUTION (channel/moat are earned, not owned) —
+that is the correct, honest discount, NOT a disqualification. A high-MONEY off-edge idea can still be GREEN if it
+also clears §3b and carries buyer signal; don't zero its execution just because the edge is new.
 
 ═══════════════════════════════════════════════════════════════
 ## 7. DECIDE + LEDGER + the SELF-IMPROVEMENT META-LOOP (fixes "static methods")
@@ -137,7 +181,7 @@ CROSS-IDEA SYNTHESIS every 3-4 ideas: same-buyer? same-moat-shape? convergence? 
   The methods are NOT fixed. This loop is how they change. Nothing here is sacred except the Prime Directive.
 
 ═══════════════════════════════════════════════════════════════
-## 8. THE 8 LAWS (current best; the META-LOOP may rewrite any of them)
+## 8. THE LAWS (current best; the META-LOOP may rewrite any of them)
 ═══════════════════════════════════════════════════════════════
 L1 build the accountability layer, not the commodity primitive — and note (refined v2.3) a regulatory why-now
   reliably spawns a HORIZONTAL compliance-SaaS swarm within ~18 months that commoditizes the form-filling/reporting
@@ -160,6 +204,11 @@ L11 (added v2.3) verify the market TRANSACTS TODAY and that buyer-pool × ACV cl
 number before any PASS — don't bet on a market that hasn't started transacting (SGMA groundwater trading: a free
 public incumbent + a market that wasn't actually trading), and don't mistake a sub-scale SERVICES market for a big
 SOFTWARE market (a digital logbook is a feature, not a vertical — own where money MOVES).
+L12 (added v2.4) EDGE IS A DISCOUNT, NOT AN ENTRY TICKET. The founders' network/assets lower the cost of winning
+where they apply, but a NEW FIELD is open if the wedge is strong enough to justify BUILDING the moat and EARNING the
+channel. Don't kill an idea for being off the home turf — price the field-entry tax honestly (§3b higher bar, lower
+execution score, possible fund/hire/park) and let a genuinely better market still win. Corollary: never let "it's not
+in our network" do the killing that an incumbent search, a ceiling check, or a why-now check should be doing.
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
 **REJECTED (v2.3, logged so it's never re-adopted): "conflicted incumbents won't build a tool that cannibalizes
 their revenue, so the space stays open." Web-falsified in cycle 24 — testing labs (Battelle, Eurofins) actively
@@ -173,7 +222,14 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 24 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 25 — May 30 2026; full detail in LEDGER.md)
+🔓 CYCLE 25 = FRAMEWORK RELAXATION (operator directive: "too rigid — don't only limit to the founders' direct
+   networks; we'll enter new fields"). OS → v2.4. Edge demoted from a HARD GATE to an ACCELERANT + scoring weight:
+   G0 foreigner-proof → winnable-in-field; G2 accepts BUILDABLE moats; G5 accepts an EARNED/cold channel; G8/T6
+   bandwidth → SEQUENCING (PARK-till-capacity or fund/hire), not auto-kill. Added §3b (off-edge HIGHER bar so the
+   loosening doesn't become sloppiness), AXIS-F (new-field hunting), L12 (edge is a discount, not an entry ticket).
+   ALL v2.3 incumbent/catalyst/market-reality rigor retained. NOTE: this changes WHO can play, not the gauntlet —
+   cycle-24's 4 batch ideas stay killed/parked on INCUMBENTS (T2), which was always the durable reason, not edge.
 🔁 CYCLE 24 = OFF-FRAMEWORK BATCH INTAKE + META-LOOP. Ingested 5 external "routine dives" (new_raw_ideations.md)
    run by a GENERIC VC screen, NOT this OS. The 4 "survivors" (PFAS triage · multi-RTO interconnection · music-ABS
    verification · CAR-T excursion-disposition) were re-checked on the web and ALL 4 were incumbent-killed (T2 ±
