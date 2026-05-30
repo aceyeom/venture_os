@@ -1,8 +1,12 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.0)
+# THE FOUNDER'S OPERATING SYSTEM (v2.2)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 ### v2.0 changelog: added forcing function, symmetric judgment, buyer-signal-as-input, anti-gaming check,
 ### built-in adversary, self-improvement meta-loop, selectable objective (cash vs moat), bandwidth gate.
+### v2.1 changelog (cycle 20): refined L4 — durable data must be a byproduct of a regulated SERVICE
+### (customer-handed, siloed), NOT scale-aggregated data (owned by 캐시노트-type incumbents).
+### v2.2 changelog (cycle 22): added L9 (service-wrapped-software entry for enforcement-gated markets with
+### unproven software-WTP) after a re-stress-test found the whole FI board shares ONE bear (L6 software-WTP).
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -120,10 +124,14 @@ CROSS-IDEA SYNTHESIS every 3-4 ideas: same-buyer? same-moat-shape? convergence? 
 ## 8. THE 8 LAWS (current best; the META-LOOP may rewrite any of them)
 ═══════════════════════════════════════════════════════════════
 L1 build the accountability layer, not the commodity primitive · L2 loud pain in a mature market = served ·
-L3 warm channel ≠ winnable without buildable product · L4 durable moat = liability-entity + local-data-
-byproduct · L5 own the unglamorous workflow regulation creates, not the headline tool · L6 no teeth/grace
+L3 warm channel ≠ winnable without buildable product · L4 durable moat = liability-entity + data-byproduct-
+of-a-regulated-SERVICE (customer-handed/siloed, NOT scale-aggregated — refined v2.1) · L5 own the unglamorous
+workflow regulation creates, not the headline tool · L6 no teeth/grace
 period = no WTP yet; need enforcement-sensitive buyer · L7 SEED≠MOAT; write the moat sentence · L8
-hardware/build skill = capability, not moat.
+hardware/build skill = capability, not moat · L9 (provisional, v2.2; calibrated c23) enforcement-gated market +
+unproven software-WTP but proven service-WTP → enter as service-wrapped-software (managed service). Precedent:
+KR FIs already buy MSSP/RegTech on subscription. Boundary: managed service triggers 업무위탁 규정 + cannot
+replace the internal 준법감시인 (it supports, not replaces); ACV still buyer-unvalidated.
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
 
 ═══════════════════════════════════════════════════════════════
@@ -133,13 +141,52 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (seeded)
-🔬 LEAD-1 AI-compliance execution layer → consolidated compliance ops, mid-tier KR FIs. MODE-MOAT.
-   ANTI-GAMING FLAG (unresolved): does mid-tier-FI-AI-compliance hit $30M ALONE, or was the segment
-   narrowed into a corner to pass G4? → must resolve. VALIDATE-OR-DIE: pre-Q4-2026 WTP → 3 buyer signals
-   needed (Ace's dad + Coxwave). Currently 0 buyer signals → CANNOT exceed YELLOW until validated.
-🟡 PARK: TAAMS-service (MODE-CASH candidate — re-score under cash mode, may beat LEAD-1 on speed) ·
-   David's algorithm · NuvoVet (GTM-blocked; demoted from "proven").
-🔴 KILL: 16 ideas (see ledger).
-NEXT ACTION (per Prime Directive): resolve LEAD-1 anti-gaming flag, OR re-score TAAMS under MODE-CASH,
-   then VALIDATE whichever fits the founder's current goal — do not generate idea #21.
+## CURRENT STATE (updated cycle 23 — May 30 2026; full detail in LEDGER.md)
+🔁 CYCLE 23 = META-LOOP. Pressure-tested L9 before it hardened: CONFIRMED via MSSP/RegTech subscription
+   precedent (FIs do buy managed services); REFINED with the 업무위탁-규정 + internal-준법감시인 boundary;
+   ACV (₩100-300M) left buyer-unvalidated. No version bump (calibration, not a new rule). New watch-risk:
+   existing KR RegTech vendors (옥타솔루션 등) could extend into 책무구조도 → defend the precise niche only.
+🧪 CYCLE 22 = RE-STRESS-TEST. Re-attacked the convincing ideas; found NEW fixes: CASH-D1 timing trap (deadline
+   is for the one-time job we don't sell → flip validation ICP to the already-submitted Jul-2025 cohort + sell
+   CEO liability-insurance); MOAT-D1 data-velocity trap (benchmark daily leading indicators, sell aggregate to
+   the 협회); MOAT-A1 vendor-risk paradox (be a read-only 소명 recorder, not a security tool). CROSS-BOARD: all
+   4 ideas share ONE bear (L6 software-WTP) → provisional L9 (managed-service entry) + a diagnostic added to the
+   discovery guide. OS → v2.2. Fixes folded into BUILD_PLAN_CASH-D1.md §8. Still 0/3 signals.
+📐 CYCLE 21 = COMMIT. BUILD PLAN pre-positioned for CASH-D1 (책무구조도 wedge) in BUILD_PLAN_CASH-D1.md —
+   BUILD-ON-GREEN: every phase gated by a buyer signal. Generation halted (supply saturated). Phase-0 discovery
+   aid is the only pre-signal build. Binding constraint unchanged: founders must send the Cycle-19 messages.
+⚙️ DATA-C1 금소법 민원·분쟁 handling layer → complaint→resolution→sanction benchmark (cycle 20, Axis-C).
+   Survives contingent, YELLOW. 4th convergence on the SAME FI-accountability engine; weaker why-now (no
+   deadline gun) → ranks below CASH-D1. Future SKU, do NOT build.
+🔴 CYCLE-20 KILL: SME bookkeeping→lending data (K18, T2/T3) — 캐시노트 owns it. Anti-tunnel test #2.
+⚠️ META-TRIGGER (cycle 20): cycles 17→20 = 4 same-engine survivors + 2 off-buyer kills. Idea supply SATURATED;
+   generation yields ~0 novelty. STOP generating — VALIDATE. Cycle-19 discovery kit still un-sent.
+🔬 CYCLE 19 = VALIDATE. Discovery kit DRAFTED for the 책무구조도 Jul-2 hook (MSG 1 via Ace's dad → Yeouido
+   mid-tier 자산운용사 now in the Jul-2 cohort; MSG 2 via Coxwave). Tests BOTH validate-or-die questions.
+   GATING STEP FOR THE WHOLE BOARD — only the founders can send/converse. Buyer signals still 0/3.
+🛠️ OS bumped v2.0 → v2.1 (cycle 20): refined L4 (data-byproduct-of-a-SERVICE, not scale-aggregated data).
+⚙️ MOAT-A1 금융 자율보안-결과책임 governance/소명-evidence layer (cycle 18, Axis-A). Survives contingent;
+   YELLOW. SAME ENGINE as LEAD-1 (KR-FI accountability layer + cross-client benchmark) but CISO persona.
+   Subordinate to LEAD-1 — do NOT split Ace's 10-13 hr/wk. Activate only if FI discovery says security-
+   governance 소명 is the #1 pain. Watch-risk = vendor-risk paradox.
+🔴 CYCLE-18 KILL: 중대재해처벌법 5-49인 SME safety SaaS (K17, T1/T5) — anti-tunnel test confirmed leaving the
+   FI buyer forfeits both moat (G2) and distribution (G5). 3 laws now converge on the same FI shape.
+⚠️ STANDING CONSTRAINT: bottleneck is VALIDATION, not idea supply — 3 surviving FI ideas, 0 buyer signals.
+🔬 LEAD-1 AI-compliance execution layer → consolidated compliance ops, mid-tier KR FIs. NOW DUAL-CLASSED.
+   ANTI-GAMING FLAG → RESOLVED (cycle 17): confirmed GAMED. Mid-tier-FI-AI-compliance ALONE ≈ $4-8M ARR
+   (does NOT clear $30M). Fix = SPLIT LEGS: (a) WEDGE → MODE-CASH (fast, profitable, passes lowered
+   ceiling); (b) $30M MODE-MOAT thesis now rests only on same-buyer expansion + the cross-client
+   FSS-exam BENCHMARK data product (MOAT-D1) — both UNVALIDATED. Two validate-or-die questions now.
+   0 buyer signals → CANNOT exceed YELLOW until validated.
+🔬 CASH-D1 책무구조도 (Responsibilities-Map) maintenance SaaS for mid-tier KR FIs. MODE-CASH, Axis-D.
+   Survived all gates; YELLOW; FASTEST/HOTTEST path on the board — statutory mid-tier deadline Jul 2 2026
+   (33 days out), untooled, CEO personal liability. → LEADS LEAD-1's discovery as the concrete hook.
+⚙️ MOAT-D1 FSS-exam-readiness BENCHMARK / consolidated-compliance data layer. MODE-MOAT, Axis-D.
+   Survived (contingent); folded into LEAD-1 as its resolved MOAT leg. Load-bearing risk = cross-client
+   data CONSENT. Not a separate 21st idea (respects anti-loop + synthesis).
+🟡 PARK: TAAMS-service · David's algorithm · NuvoVet (GTM-blocked).
+🔴 KILL: 18 ideas (see ledger).
+NEXT ACTION (per Prime Directive — ANTI-LOOP active: do NOT generate new ideas): VALIDATE. Send 3-5
+   discovery messages via Ace's dad + Coxwave led by the 책무구조도 Jul-2 deadline. Ask what they DID.
+   Listen for both validate-or-die signals (subscription WTP; vendor-consolidation + data-consent).
+   Decision date = 2026-07-02.
