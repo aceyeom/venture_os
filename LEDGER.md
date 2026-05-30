@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.1
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.2
 
 ---
 
@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        COMMIT — BUILD PLAN drafted for the lead idea (generation halted; supply saturated, cycle 20 meta-trigger)
+MODE:        RE-STRESS-TEST / RED-TEAM — re-hardened the convincing ideas + ideated fixes (generation halted)
 AXIS:        n/a (no generation)
-CYCLE #:     21  (BUILD-ON-GREEN plan; still gated by buyer signal 0/3 — validation remains the binding constraint)
+CYCLE #:     22  (fixes folded into BUILD_PLAN §8; provisional L9 added; OS v2.2; still 0/3 signals)
 DECISION DATE: 2026-07-02 (forced — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ```
 
@@ -71,6 +71,32 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 22 — RE-STRESS-TEST / RED-TEAM (no generation) · May 30, 2026
+Re-attacked the board's most convincing ideas to find limitations the first harden MISSED, then mutated to fix each. Format per idea: **new attack → fix → regression-check.**
+
+### CASH-D1 (책무구조도 wedge) — re-hardened
+- **A7 timing (NEW, serious):** the Jul-2 deadline is for the *initial submission* — the one-time job we DON'T sell, and Big-4 are being hired for it RIGHT NOW. By ship-time the maps are filed. **Why-now ≠ wedge, in time.** → **FIX:** reframe trigger to the *first post-submission personnel change / FSS 점검*; **flip validation ICP to the already-submitted cohort** (은행 Jan-2025, 금투/보험 Jul-2025) who are mid-maintenance-pain now. Regression-check: doesn't break G7 (maintenance demand is real, just later) but **demotes the "33-days-out" urgency from a build trigger to a pipeline note.**
+- **A3 budget (NEW):** maintenance may be absorbed into 준법감시 headcount → soft WTP. → **FIX:** sell as **CEO liability-insurance to the CEO/board**, not an analyst time-saver. Raises WTP + moves buyer up.
+- **A4 moat-decay:** tool is copyable → **FIX:** capture 책무→control→outcome data from pilot #1 so the cash wedge feeds MOAT-D1 (new `OutcomeObservation` entity). 
+- All folded into `BUILD_PLAN_CASH-D1.md §8`.
+
+### MOAT-D1 (FSS-exam benchmark) — re-hardened
+- **A6 data-velocity (NEW, kills the original framing):** FSS exams are infrequent (every few years) across ~300 FIs → "exam-pass prediction" data accretes too SLOWLY to be a moat in-window; FIs may not even know in structured form "what passed." → **FIX:** benchmark **continuous leading indicators** (which controls the cohort adopts, recurring 점검 findings, internal-audit flags) that the maintenance product sees *daily* — sell "peer-posture benchmarking," not "exam prediction." Data velocity now matches the moat need.
+- **A2 distribution of the data product (NEW):** large FIs won't buy a benchmark from a tiny vendor (chicken-egg credibility). → **FIX:** first benchmark buyer = the **industry association** (저축은행중앙회 / 금융투자협회), who'd license aggregate peer data — bootstraps dataset credibility + gives distribution. Regression-check: keeps G6 ceiling (association + up-market), de-risks G5.
+
+### MOAT-A1 (security 소명) — re-hardened
+- **Vendor-risk paradox (the logged watch-risk) — NEW fix:** don't be a security *vendor* (high 위탁-risk class, un-onboardable). Be a **read-only 소명-evidence RECORDER** that never touches security controls → low-risk documentation class, dodges the gate that kills it. Product-design fix, not gaming (it genuinely isn't a security tool).
+
+### ⚠️ CROSS-BOARD FINDING (worth more than any single fix)
+All four convergent survivors share ONE bear: **enforcement-gated software-WTP (L6)** — FIs pay a consultant ONCE and run Excel until an exam/incident forces them. We logged it per-idea but never confronted that it's a **single point of failure for the entire board.** If true, every idea is YELLOW-forever.
+- **Diagnostic to run FIRST in validation:** "is ANY mid-tier FI buying compliance *software* on subscription pre-enforcement today? which, and why?" Find the existing WTP proof — or its absence.
+- **Strategic fix (provisional Law L9):** in enforcement-gated markets with *unproven software-WTP but proven consulting-WTP*, enter as **service-wrapped-software (managed service)** — David sells the deliverable, Ace's software is the hidden margin multiplier — so revenue rides demonstrated consulting budgets. Fewer clients, higher ACV (₩100–300M), faster revenue, better bandwidth-fit. This also revives the PARK-1 (TAAMS concierge) insight and uses David, who's been under-utilized on the FI ideas. **Recommended entry posture if discovery shows software-WTP is soft.**
+- Regression-check: managed-service fits MODE-CASH speed + bandwidth (watch David's part-time hours); MOAT legs still ride the software+data behind the service, so the $30M thesis survives.
+
+**Net:** the board's ideas are *stronger and more honest* after re-stress — but the re-test also exposed that they all lean on the same unproven assumption, which sharpens what the Cycle-19 discovery MUST test first. No status changes (still 0/3 signals); L9 added provisionally; OS → v2.2.
 
 ---
 
@@ -138,6 +164,7 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 > [담당자]님, 금융권 고객사 중 준법감시·내부통제 담당자분과 15분 정도 이야기 나눠볼 수 있을까요? 제품 영업이 아니라, 책무구조도/AI 컴플라이언스 관련해서 실제로 어떤 업무를 **수동으로** 하고 계신지 리서치 중입니다. 소개 가능하시면 제가 직접 짧게 연락드리겠습니다.
 
 **Discovery call guide (ask what they DID; pain must surface BEFORE any product is named):**
+0. *(cross-board diagnostic — ask early, neutrally)* 컴플라이언스·내부통제 관련해서 **구독형 소프트웨어를 정기 결제로 쓰고 계신 게 있나요?** 어떤 거고, 왜 도입하셨어요? (← tests the board's shared bear: does pre-enforcement *software*-WTP exist, or only consulting-WTP? If only consulting → Law L9 / managed-service entry.)
 1. 지난 3개월간 책무구조도 준비로 **실제 하신 작업**을 순서대로 말씀해 주실 수 있나요?
 2. 그중 제일 손 많이 가고 반복되는 부분은 어디였나요?
 3. 외부(로펌/컨설팅)에 맡긴 부분이 있나요? 비용은 어느 정도였나요?
@@ -363,6 +390,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | v2.0 | May 28 2026 | Added forcing function, symmetric gates, buyer-signal requirement, anti-gaming check, built-in adversary, MODE-CASH/MOAT, bandwidth gate, meta-loop | Red-team found OS was a kill machine (16-0) with no commit mechanism and no real-world validation loop |
 | (no bump) | May 30 2026 | HIT-RATE audit (now ~22 ideas gated, past every-8 cadence): **G2 (moat) + G5 (distribution) do most killing; G6 anti-gaming correctly caught LEAD-1.** No gate is dead weight; no rule proven wrong → NO version bump. | Gates are firing correctly; the meta-loop's job is to rewrite WRONG rules, not churn working ones. |
 | **v2.1** | May 30 2026 | **Refined L4** (data-byproduct moat): specified that the durable data must be generated as a byproduct of a regulated/accountability SERVICE (customer-handed, per-FI siloed) — explicitly NOT data requiring scale-aggregation. | Counter-example from cycle 20: DATA-C2 (SME bookkeeping data) died to a data-SCALE incumbent (캐시노트), while DATA-C1's complaint-outcome data survives precisely because the regulated service generates it. The old L4 didn't distinguish the two and would have green-lit a 캐시노트 fight. |
+| **v2.2** | May 30 2026 | **Added provisional L9** (service-wrapped-software entry) + injected a "who buys compliance software pre-enforcement?" diagnostic into the Cycle-19 discovery guide. | Cycle-22 re-stress-test found ALL four convergent ideas share ONE bear (enforcement-gated software-WTP) — a single point of failure for the whole board. L9 gives a fixed entry posture (ride proven consulting-WTP via managed service) and forces validation to test the shared assumption first. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -382,3 +410,4 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 6. No enforcement teeth = no WTP yet; need enforcement-sensitive buyer
 7. SEED ≠ MOAT — write the moat sentence; if blank = "our relationships," downgrade
 8. Hardware/build skill = production capability, not a moat
+9. *(provisional, v2.2, cycle 22)* In an enforcement-gated market with unproven software-WTP but PROVEN consulting-WTP, enter as **service-wrapped-software (managed service)** — ride the demonstrated budget, don't bet on self-serve SaaS adoption. Validate by finding (or failing to find) anyone buying the software on subscription pre-enforcement.

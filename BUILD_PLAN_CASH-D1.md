@@ -76,4 +76,31 @@ Not the one-time map (Big-4/law firms own that) — the **continuous maintenance
 - **Pain absent / buyers shrug** → trust buyers over desk research (meta-loop §3): down-weight 책무구조도, and check the **MOAT-A1 activate-trigger** (is security-governance 소명 the real #1 pain instead?).
 
 ---
+
+## 8. RED-TEAM FIXES (Cycle 22 — re-stress-test of the load-bearing assumptions)
+The plan above passed the original harden. A harder re-attack surfaced four *new* failure modes and their fixes; these supersede the naïve framing where they conflict.
+
+### FIX-1 — the timing trap (most important)
+**New attack:** the Jul-2-2026 deadline that makes this idea look "hot" is the deadline for the *initial submission* — the one-time job we explicitly DON'T sell (Big-4/law firms own it, and they're being engaged *right now*, 33 days out). By the time we ship, the maps are filed. The why-now and the wedge are **misaligned in time.**
+**Fix:**
+- **Reframe the buying trigger** from "the deadline" → "the *first post-submission event*": the first personnel/org change that forces a re-paper, or the first FSS 점검. That's when maintenance pain (what we sell) actually bites.
+- **Flip the validation ICP:** lead discovery with the **already-submitted cohort** (은행 Jan-2025, large 금투/보험 Jul-2025) — they're 6–18 months into the *maintenance* pain with no deadline-consultant competing for attention. They are the right teachers for VoD #1 (recurring WTP). Keep the Jul-2026 mid-tier as the sales *pipeline*, not the validation sample.
+
+### FIX-2 — reframe the buyer & the value (raises WTP)
+**New attack:** "maintenance" may be absorbed into existing 준법감시 headcount (a junior re-papers in Word) → soft WTP, sold to the analyst who wants to save time.
+**Fix:** price it as **CEO liability-insurance, not an analyst productivity tool.** The 관리의무 소명 dossier reduces the CEO's *personal* criminal/sanction exposure. Sell to the CEO/board (who fear the ₩-billion/prison risk), not the analyst. Different, higher WTP; cheaper than the downside.
+
+### FIX-3 — instrument the moat from day 1
+**New attack:** the maintenance tool itself is thin and copyable (cash-mode tolerates this, but nothing compounds).
+**Fix:** from the **first pilot**, capture the 책무→control→점검-outcome data the product naturally sees, so the cash wedge silently accretes the MOAT-D1 dataset. The cash leg funds the data that becomes the moat. *(Add `OutcomeObservation` to the §3 data model.)*
+
+### FIX-4 — bandwidth containment
+**New attack:** pixel-perfect FSS HWP templates + FI-grade security certs (ISMS-class) for procurement could blow the 150–250 hr estimate.
+**Fix:** Phase-1 exports **PDF + structured data, not pixel-perfect HWP**; defer security certs until a design partner *requires* them, and fund that work from pilot revenue. Hard MVP cut-line holds.
+
+### FIX-5 — the cross-board fix (see Cycle 22 in LEDGER + provisional Law L9)
+**New attack (shared by the ENTIRE board):** every convergent idea has the *same* bear — enforcement-gated software-WTP (L6): FIs pay a consultant once and run Excel until an exam forces them. If that bear is right, this whole engine is YELLOW-forever.
+**Fix / strategic option:** enter as a **service-wrapped-software (managed compliance service)** — David sells/presents the deliverable, Ace's software is the margin multiplier behind it — so revenue rides *proven consulting-WTP* instead of *unproven software-WTP*. Fewer clients, higher ACV (₩100–300M), faster to revenue, better bandwidth-fit. **This is the recommended entry posture if validation confirms software-WTP is soft.** (Regression-check: watch David's part-time bandwidth; MOAT leg still rides the software+data behind the service.)
+
+---
 *The binding constraint remains buyer signal (0/3). This plan exists so that the moment signals arrive, building starts the same day — and so that if they don't, we don't build the wrong thing.*

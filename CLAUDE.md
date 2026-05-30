@@ -1,10 +1,12 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.1)
+# THE FOUNDER'S OPERATING SYSTEM (v2.2)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 ### v2.0 changelog: added forcing function, symmetric judgment, buyer-signal-as-input, anti-gaming check,
 ### built-in adversary, self-improvement meta-loop, selectable objective (cash vs moat), bandwidth gate.
 ### v2.1 changelog (cycle 20): refined L4 — durable data must be a byproduct of a regulated SERVICE
 ### (customer-handed, siloed), NOT scale-aggregated data (owned by 캐시노트-type incumbents).
+### v2.2 changelog (cycle 22): added L9 (service-wrapped-software entry for enforcement-gated markets with
+### unproven software-WTP) after a re-stress-test found the whole FI board shares ONE bear (L6 software-WTP).
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -126,7 +128,8 @@ L3 warm channel ≠ winnable without buildable product · L4 durable moat = liab
 of-a-regulated-SERVICE (customer-handed/siloed, NOT scale-aggregated — refined v2.1) · L5 own the unglamorous
 workflow regulation creates, not the headline tool · L6 no teeth/grace
 period = no WTP yet; need enforcement-sensitive buyer · L7 SEED≠MOAT; write the moat sentence · L8
-hardware/build skill = capability, not moat.
+hardware/build skill = capability, not moat · L9 (provisional, v2.2) enforcement-gated market + unproven
+software-WTP but proven consulting-WTP → enter as service-wrapped-software (managed service), not self-serve SaaS.
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
 
 ═══════════════════════════════════════════════════════════════
@@ -136,7 +139,13 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 21 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 22 — May 30 2026; full detail in LEDGER.md)
+🧪 CYCLE 22 = RE-STRESS-TEST. Re-attacked the convincing ideas; found NEW fixes: CASH-D1 timing trap (deadline
+   is for the one-time job we don't sell → flip validation ICP to the already-submitted Jul-2025 cohort + sell
+   CEO liability-insurance); MOAT-D1 data-velocity trap (benchmark daily leading indicators, sell aggregate to
+   the 협회); MOAT-A1 vendor-risk paradox (be a read-only 소명 recorder, not a security tool). CROSS-BOARD: all
+   4 ideas share ONE bear (L6 software-WTP) → provisional L9 (managed-service entry) + a diagnostic added to the
+   discovery guide. OS → v2.2. Fixes folded into BUILD_PLAN_CASH-D1.md §8. Still 0/3 signals.
 📐 CYCLE 21 = COMMIT. BUILD PLAN pre-positioned for CASH-D1 (책무구조도 wedge) in BUILD_PLAN_CASH-D1.md —
    BUILD-ON-GREEN: every phase gated by a buyer signal. Generation halted (supply saturated). Phase-0 discovery
    aid is the only pre-signal build. Binding constraint unchanged: founders must send the Cycle-19 messages.
