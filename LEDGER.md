@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        [ ] CASH  [ ] MOAT  [x] BOTH   (generation resumed at operator's direction)
-AXIS:        [ ] A-regulation  [ ] B-asset-pair  [x] C-data-byproduct  [ ] D-buyer-back  [ ] E-enforcement-watch
-CYCLE #:     20  (NOTE: validation is still the binding constraint — cycle 19 kit remains un-sent; see meta-trigger)
+MODE:        COMMIT — BUILD PLAN drafted for the lead idea (generation halted; supply saturated, cycle 20 meta-trigger)
+AXIS:        n/a (no generation)
+CYCLE #:     21  (BUILD-ON-GREEN plan; still gated by buyer signal 0/3 — validation remains the binding constraint)
 DECISION DATE: 2026-07-02 (forced — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ```
 
@@ -71,6 +71,15 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 21 — COMMIT: BUILD PLAN (no generation) · May 30, 2026
+**Why COMMIT, not generate #25:** cycle 20's meta-trigger fired (idea supply saturated; 4 same-engine survivors, 2 off-buyer kills). Per the Prime Directive the product is a *buyer-validated BUILD PLAN*, and the forcing function promotes the top idea to a build plan by the decision date. So this cycle pre-positions that artifact for **CASH-D1** (책무구조도 wedge — the fastest/hottest idea), structured **BUILD-ON-GREEN**: every build phase unlocks only on a named buyer signal, so the plan stays subordinate to validation (§5).
+
+**Deliverable:** [`BUILD_PLAN_CASH-D1.md`](./BUILD_PLAN_CASH-D1.md) — wedge spec, MVP scope (책무 library · version-controlled 임원↔책무 mapping · FSS-format doc generation · 관리의무 소명-evidence engine · change-triggered re-papering), architecture (Next.js/TS + LLM + KR cloud, ~150-250 hrs in bandwidth), phase gates tied to buyer signals, MODE-CASH unit economics (ACV ₩50-100M, 3-5 partners → ₩200-400M ARR), risk→mitigation table, and a 2026-07-02 decision-date playbook.
+
+**What this does NOT change:** buyer signals still **0/3**. Phase-0 (a discovery aid) is the only thing buildable pre-signal, and even that is shown only AFTER pain surfaces. **The binding constraint is unchanged: founders must send the Cycle-19 messages.** This plan simply means that the day signals arrive, building starts the same day — and if they don't, we don't build the wrong thing.
 
 ---
 
