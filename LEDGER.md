@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 27) | **OS version:** 3.0
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 30) | **OS version:** 3.0
 
 ---
 
@@ -72,6 +72,66 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 30 — STRESS-TEST v3.0 across 3 NEW verticals (anti-tunnel) · May 30, 2026
+**Purpose:** operator asked to "go through new verticals and test this new framework." Ran v3.0 (deep comp-scan,
+WALL-vs-SPEED-BUMP, rescue-before-kill, G9 PULL/PUSH, recurring-floor) on 3 deliberately DIFFERENT hunting
+grounds. The point was as much to TEST the framework's calibration as to find a winner. Result: the framework
+behaved correctly in all 3 (rescued one, killed one on a real WALL, rejected one on PUSH) — and **none beat the
+current lead CASH-F1**, which is itself a useful comparative result. (Note: deep-research agents were rate-limited
+this cycle; comp-scans done via direct search — flagged as MEDIUM depth, re-audit before any kill hardens, L13.)
+
+### NEW-1 · KR e-commerce seller tools (스마트스토어/쿠팡) — 🟡 SURVIVES THIN, low priority
+- One-sentence: KR online sellers pay for keyword/listing optimization via 아이템스카우트/판다랭크 (subscription);
+  we'd do AI 상세페이지 + review-response generation under the 2025 algo shift (whole-store quality > keyword stuffing).
+- COMP-SCAN: 아이템스카우트 OWNS keyword/product analytics (dominant, data-driven); 사방넷/플레이오토/이지어드민 own
+  order/inventory 통합관리. The keyword slice = speed-bump-toward-WALL. AI content-generation slice is more open BUT
+  generic LLMs do it natively → **T1 commodity risk**, and a 2-person team has **no distribution edge** (David's
+  network ≠ e-comm sellers → G5 weak).
+- RESCUE: narrow to an AI 상세페이지+리뷰대응 bundle niche → SURVIVES, but thin moat + product-led distribution.
+- VERDICT: 🟡 YELLOW, **low priority.** Not killed (rescue works), but ranks below CASH-F1 on G5 (no warm channel)
+  + moat. WIN-TYPE would be W6 (AI cost-advantage) only. Park unless a seller-channel appears.
+
+### NEW-2 · KR local-service booking/CRM (미용실·필라테스·PT) — 🔴 KILL on a real WALL (K19)
+- COMP-SCAN: SATURATED with entrenched, cheap/FREE vertical CRMs — 바디코디 (fitness, 4,000+ centers, 1.7M users),
+  공비서 (nail/hair, **free 알림톡, ₩0 가입비**), 핸드SOS, 비타민CRM, 어시스트핏, 이야기CRM, 뷰티인프라; **네이버 예약
+  absorbs basic booking at 3.19%/no signup fee**; 카카오/마메드네 for hair. Pricing floor ≈ FREE.
+- WALL test: commoditized + entrenched vertical incumbents + **platform (네이버) absorbs the core job** + near-zero
+  pricing + **no founder edge** = a genuine structural WALL (T1-commodity + platform-absorption), NOT a mere
+  "incumbent exists." RESCUE (AI no-show prediction / AI retention messaging) fails — incumbents already do 알림톡
+  reminders + retention, and a me-too vertical CRM has no wedge or distribution.
+- VERDICT: 🔴 **KILL → K19, type T1 (commodity + platform-absorbed + priced-to-free, no edge).** ✅ This is v3.0
+  killing CORRECTLY — on a real wall after a rescue attempt, not on category-dismissal. (Contrast K9, revived.)
+
+### NEW-3 · KR PIPA 개인정보 처리방침 평가제 (SMB) — 🔴 REJECT on PUSH/no-teeth (G9/T7)
+- COMP-SCAN: 처리방침 평가제 (since Sep-2023) lets PIPC **RECOMMEND** improvements; the carrot is 과태료 *감경* for
+  good 처리방침, not a direct SMB fine. **Deep evaluation targets ~50 LARGE companies** (AI/IoT/edutech), not SMBs.
+  And the 처리방침-generation job is already being templated/commoditized (free tools, even a Claude-Code skill).
+- G9 verdict: for the SMB segment this is **PUSH / no-teeth (T7)** — no live forcing function compels an SMB to pay
+  for ongoing 처리방침 tooling; the big-company deep-eval segment has teeth-ish but is **Big-law/enterprise turf (T5)**.
+- VERDICT: 🔴 **REJECT (don't even generate), type T7 + T5.** ✅ This is v3.0's G9 correctly flagging a regulation
+  with no teeth on FRESH non-FI ground — exactly the rule added after the 책무구조도 lesson. (Note: actual PIPA
+  *breach* enforcement IS real, but that's incident-response/security tooling — a different, walled market.)
+
+**CYCLE SYNTHESIS:** v3.0 passed its own stress-test — it did NOT over-kill (NEW-1 rescued), it killed on a REAL
+wall (NEW-2), and it rejected a teeth-less reg (NEW-3). **CASH-F1 remains the lead** (only board idea with
+ROI-PULL + an unowned slice + a real distribution channel via David). Funnel note: the repeatable winning shape
+is "recurring, ROI-PULL, unowned AI-shaped job, buyer David can actually reach" — keep hunting that shape, not
+generic SMB-SaaS where we have no channel.
+
+---
+
+## CYCLE 29 — CALIBRATION (operator): recurring-revenue floor lowered · May 30, 2026
+**Operator input:** "I don't mind a ~$10k/month business — I just want anything RECURRING. Update it."
+**Change (calibration within v3.0, no version bump):** the win floor is explicitly lowered and the PRIORITY is
+reframed: **RECURRING > SIZE.** A ~$10k/mo (~₩13M/mo ≈ ₩150M/yr) recurring business is a FULL WIN, not a
+consolation. One-time/project revenue is only a WEDGE; a path to RECURRING is what promotes an idea. Folded into:
+Prime-Directive frame (CAPTURABLE>BIG + RECURRING>SIZE), L11, and SCORE (MODE-CASH now triples RECURRING and
+caps purely one-time ideas). This sharpens — does not replace — the v3.0 anti-overkill rebuild.
+**Implication for the board:** CASH-F1 (₩30–50k/mo × few-hundred = recurring ✅) fits cleanly; CASH-F3 (managed
+service) must show a RETAINER not a one-time setup to count; EXPAND-1's parked consulting residue is one-time → stays parked.
 
 ---
 
@@ -586,6 +646,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | K16 | TAAMS as platform | T2/T1 | Tridge+Tradlinx+free gov data own all layers end-to-end | WALL ✓ (end-to-end owned) |
 | K17 | 중대재해처벌법 (5-49인) safety evidence SaaS | T1/T5 | Free KOSHA tooling + licensed 안전관리대행 agencies own it; no founder distribution to ~800K SMEs (cycle 18 anti-tunnel test) | WALL ✓ (free gov + T5 no distribution) |
 | K18 | SME bookkeeping → lending-signal data | T2/T3 | 캐시노트/한국신용데이터 owns it — 1.7M sites (88%), ₩1.1조 unicorn, already runs CB on the data (cycle 20 anti-tunnel test) | WALL ✓ (T3 data-scale wall) |
+| K19 | KR local-service booking/CRM (미용실·필라테스·PT) | T1 | Entrenched cheap/FREE vertical CRMs (바디코디·공비서·핸드SOS) + 네이버 예약 absorbs booking + priced-to-free + no founder edge (cycle 30 v3.0 test) | WALL ✓ (commodity + platform-absorbed; rescue failed) |
 
 ---
 

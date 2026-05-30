@@ -36,14 +36,16 @@
 ═══════════════════════════════════════════════════════════════
 The goal is NOT to avoid bad ideas. It is to COMMIT to the best available idea by a deadline and produce
 a buyer-validated BUILD PLAN. Killing is a means, not the product.
-**★ CAPTURABLE > BIG (v3.0 prime frame — read before every gate):** the win condition is a CAPTURABLE,
-  PROFITABLE slice that clears our bandwidth — even small revenue (~₩100-500M/yr) is a WIN, not a consolation
-  prize. We do NOT need to dominate or capture a whole market. NO IDEA IS A FLAWLESS UNICORN — they do not
-  exist; every real idea has competitors and challenges, and that is ACCEPTABLE. The question is NEVER "is this
-  uncontested / could this be a $30M venture?" — it is "can THIS 2-person team take a paying, defensible-enough
-  slice and ship revenue?" Kill an idea only when it cannot make MEANINGFUL revenue for US behind a STRUCTURAL
-  WALL — never because a competitor exists or because it won't be huge. (This frame overrides any gate that
-  smuggles unicorn-bias back in. MODE-MOAT still chases ceiling; MODE-CASH does NOT.)
+**★ CAPTURABLE > BIG, and RECURRING > SIZE (v3.0 prime frame — read before every gate):** the win condition is
+  a CAPTURABLE, PROFITABLE slice that clears our bandwidth. **The PRIORITY is RECURRING revenue, not size — a
+  small RECURRING business is explicitly a FULL WIN. ~$10k/month (~₩13M/mo ≈ ₩150M/yr) of recurring revenue is a
+  target worth pursuing, not a consolation prize.** Lower floor confirmed by operator (cycle 29). We do NOT need
+  to dominate a market or hit $30M. NO IDEA IS A FLAWLESS UNICORN — competitors and challenges are EXPECTED and
+  ACCEPTABLE. The question is NEVER "is this uncontested / could this be huge?" — it is "can THIS 2-person team
+  take a paying, RECURRING slice?" Kill an idea only when it cannot make MEANINGFUL RECURRING revenue for US
+  behind a STRUCTURAL WALL — never because a competitor exists or because it won't be big. One-time/project
+  revenue is fine as a wedge, but a path to RECURRING is what promotes an idea. (Overrides any gate that smuggles
+  unicorn-bias back in. MODE-MOAT still chases ceiling; MODE-CASH optimizes recurring + speed + bandwidth-fit.)
 - FORCING FUNCTION: set a DECISION DATE at the start. On that date, the highest-scoring surviving idea
   is PROMOTED to BUILD PLAN even if imperfect. "Best by [date]" > "perfect, never."
 - BUILD QUOTA: at most 3 generate→gate→harden cycles before one idea MUST advance to buyer-validation.
@@ -169,8 +171,9 @@ MONEY/100: ACVx3 · underserved-painx3 · WTP-EVIDENCEx3 (0 if no buyer signal) 
 EXECUTION/70: Ace-demo-in-bandwidthx3 · data-cheap-day1x3 · named-warm-buyersx3 · no-license-gapx2 ·
   defensible-12mox2 · low-burnx1.
 GRID: MoneyHi+ExecHi=GREEN(only with buyer signal) · mixed=YELLOW · LowLow=RED.
-MODE re-weights: MODE-CASH triples time-to-rev + bandwidth **and ZEROES the ceiling + market-growth weights
-(v3.0: a cash idea is NOT penalized for being small — capturable revenue that clears bandwidth scores full);**
+MODE re-weights: MODE-CASH triples time-to-rev + bandwidth **+ RECURRING (v3.0: recurring is the priority metric)
+and ZEROES the ceiling + market-growth weights — a cash idea is NOT penalized for being small; even ~$10k/mo
+recurring scores full. A purely one-time-revenue idea with no recurring path is capped (it's a wedge, not a win);**
 MODE-MOAT triples ceiling + defensibility. **Never let a low ceiling pull a MODE-CASH idea to RED — that's the
 unicorn-bias the Prime Directive forbids. RED is reserved for "no capturable revenue / behind a WALL," not "small."**
 
@@ -218,9 +221,11 @@ Boundary: managed service triggers 업무위탁 규정 + cannot replace the inte
 replaces); ACV still buyer-unvalidated. · **L10 (new v2.3) a documented TRUE-MOAT asset left UNUSED across
 cycles is a generation failure, not neutral: every cycle's GENERATE must run the moat-deployment sweep and
 bias an axis toward deploying an idle moat. (Trigger: David's site-selection IP sat unused 24 cycles while
-the board mined a moat-less FI hunting ground.)** · **L11 (new v3.0, CAPTURABLE>BIG) a small, profitable,
-capturable slice is a terminal WIN, not a consolation; no idea is a flawless unicorn; the test is "can we
-take a paying slice?" not "is this uncontested / huge?" — small revenue that clears bandwidth counts.** ·
+the board mined a moat-less FI hunting ground.)** · **L11 (new v3.0, CAPTURABLE>BIG, RECURRING>SIZE) a small, profitable,
+RECURRING slice is a terminal WIN, not a consolation; no idea is a flawless unicorn; the test is "can we take a
+paying RECURRING slice?" not "is this uncontested / huge?" — even ~$10k/mo recurring counts (operator floor,
+c29). Priority order: recurring > one-time; capturable-now > big-someday. A one-time job is only a WEDGE to a
+recurring relationship.** ·
 **L12 (new v3.0) kill WALLS, not SPEED-BUMPS: a competitor existing is a speed-bump needing an overcome-
 strategy, not a tombstone. Kill only behind a structural wall (capital/license/winner-take-all/true-commodity-
 no-edge/mass-market-no-distribution). "An incumbent exists" is the single most over-used false kill (K2→T2).** ·
@@ -236,7 +241,14 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 28 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 30 — May 30 2026; full detail in LEDGER.md)
+🧪 CYCLE 30 = STRESS-TEST v3.0 on 3 NEW verticals. v3.0 passed its own test: NEW-1 (e-comm seller tools) 🟡
+   SURVIVES-thin via rescue (low priority — T1 commodity + no David channel, G5 weak); NEW-2 (local-service
+   booking/CRM 미용실·필라테스) 🔴 KILL K19 on a REAL wall (priced-to-free vertical CRMs + 네이버 absorbs booking —
+   not "incumbent exists"); NEW-3 (PIPA 처리방침 평가제 SMB) 🔴 REJECT on PUSH/no-teeth (G9/T7). None beat CASH-F1.
+   Repeatable winning shape confirmed = recurring + ROI-PULL + unowned AI-shaped job + a buyer David can reach.
+🎯 CYCLE 29 = CALIBRATION (operator): win floor lowered — **RECURRING > SIZE; ~$10k/mo recurring is a FULL WIN.**
+   One-time revenue = a wedge only; a path to recurring promotes an idea. Folded into Prime frame + L11 + SCORE.
 🧭 CYCLE 28 = GENERATE under v3.0. NEW LEAD: **CASH-F1** — F&B operator margin / cost-leak AI (invoice-OCR
    supplier-price-drift + delivery-commission-aware per-menu net profit + repricer) for KR independent/small-chain
    F&B ops, via David's network. MODE-CASH, Axis-D. Two deep-research passes CONVERGED here (revived K9 + fresh
@@ -304,7 +316,7 @@ buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
    exam wave, OR discovery Q0 proves software-WTP. The discovery kit can still be sent opportunistically — but the
    board NO LONGER WAITS on it. Only the L9 managed-service framing has a near-term (lumpy, services) cash path.
 🟡 PARK (other): TAAMS-service · NuvoVet (GTM-blocked).
-🔴 KILL: 19 ideas (see ledger; K9 REVIVED→CASH-F1; K15 partial-revive; re-audit column added).
+🔴 KILL: 20 ideas (see ledger; K19 local-service CRM new c30; K9 REVIVED→CASH-F1; K15 partial-revive).
 NEXT ACTION (per Prime Directive): VALIDATE CASH-F1 via DAVID'S F&B network. ONE discovery question tests the
    whole cash portfolio: *"Last time 식자재 prices jumped, how did you decide whether/how much to reprice a menu,
    and what did you use?"* — listen for a painful manual process described BEFORE naming any product (a polite
