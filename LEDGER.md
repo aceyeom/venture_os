@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.0
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.1
 
 ---
 
@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        [ ] CASH  [ ] MOAT  [ ] BOTH   [x] VALIDATE (Fri cadence — generation paused, per Prime Directive)
-AXIS:        n/a (no generation this cycle)
-CYCLE #:     19  (validation cycle — advancing 🔬 ideas to buyer signal; NOT generating idea #23)
+MODE:        [ ] CASH  [ ] MOAT  [x] BOTH   (generation resumed at operator's direction)
+AXIS:        [ ] A-regulation  [ ] B-asset-pair  [x] C-data-byproduct  [ ] D-buyer-back  [ ] E-enforcement-watch
+CYCLE #:     20  (NOTE: validation is still the binding constraint — cycle 19 kit remains un-sent; see meta-trigger)
 DECISION DATE: 2026-07-02 (forced — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ```
 
@@ -71,6 +71,41 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 20 — MODE: BOTH · AXIS: C (data-byproduct) · May 30, 2026
+**Axis-C hunt:** what service could Ace's stack run that generates proprietary KR financial data nobody else sells? Two gated — one inside the FI-accountability shape, one deliberately OUTSIDE it (anti-tunnel test).
+
+### ⚙️ DATA-C1 · 금융소비자보호 민원·분쟁 Handling Layer → Complaint→Resolution→Sanction Benchmark
+**Mode:** DUAL (CASH wedge + MOAT data leg) | **Axis:** C | **Cycle:** 20
+
+**One-sentence:** Mid-tier KR FIs must run 금소법 민원·분쟁 handling + a 소비자보호 내부통제기준 and report 민원 statistics to FSS; today they use generic VOC/call-center tools + spreadsheets + Big-4 memos; **CASH wedge** = AI 민원 triage + response-drafting + auto FSS 민원통계 reporting for the 소비자보호팀; **MOAT leg** = the cross-FI dataset this generates of *which complaints escalate to 분쟁조정/제재 and which resolutions held* → a predictive 분쟁-risk score + benchmark no one else can assemble.
+
+**Symmetric gate:**
+- KILL-search: generic VOC/CRM vendors log complaints but don't predict 분쟁/제재 outcomes; Big-4/law firms sell one-time 금소법 설계; FSS publishes only *aggregate* 민원 stats. The FI-specific complaint→outcome dataset is unowned.
+- WIN-search: only a neutral multi-tenant accrues cross-FI outcome data; AI text-processing fits Ace's stack; 소비자보호 담당 reachable via the same FI channel.
+- **Gates:** G0 PASS · G1a PASS (금소법 내부통제 + 미스터리쇼핑/제재 fear + rising 민원 volume = budget) · G1b PASS-tentative · **G2 STRONG PASS** (KR entity + complaint-outcome data byproduct) · G3 PASS (data-byproduct, not scale-wall) · G4 PASS-tentative · G5 PASS-dependent (FI channel) · **G6 contingent** (분쟁-risk score sells to whole FI market → $30M reachable) · **G7 MODERATE — NOT strong** (금소법 live since 2021, steady-state; *no fresh 2026 deadline gun* like 책무구조도 → softer urgency) · G8 conditional (data product heavy; cash wedge OK).
+- **Anti-gaming check:** not narrowed to dodge; ceiling via whole market. PASS.
+- **Result: SURVIVES (contingent)** — but ranks BELOW CASH-D1: same engine, weaker why-now (no deadline gun).
+
+**Harden (converged):** P1 VOC tools could add it → M-narrow: own the 분쟁/제재 OUTCOME prediction, not complaint logging. P2 looks like consulting → M-wedge: continuous auto-triage + FSS-report generation = recurring. Converge: top limitation = steady-state why-now → WTP softer (L6).
+**Bull:** 금소법 internal-control + 미스터리쇼핑 + rising 민원 = persistent pain; outcome data unowned; data product sells up-market.
+**Bear:** no hard 2026 deadline → softer WTP until a 제재 shock; VOC incumbents adjacent; **it's the 4th same-shape idea — the team should validate, not build a 4th thing.**
+**Watch-risk:** without an enforcement deadline (L6), SaaS WTP may lag a 미스터리쇼핑/제재 event — weaker urgency than the rest of the board.
+
+**Score (MODE-MOAT reweight):** Money MID (ceiling HIGH, WTP 0, why-now MODERATE), Exec MID. **GRID YELLOW.** Ranks below CASH-D1.
+**Status:** ⚙️ HARDENING / YELLOW → logged as a future expansion SKU of the same FI-accountability engine. **Do NOT build** — subordinate to LEAD-1; weaker why-now than CASH-D1. 0/3 signals.
+
+### 🔴 DATA-C2 · SME Bookkeeping → Lending-Signal Data — KILLED (anti-tunnel test)
+**Mode:** CASH/data | **Axis:** C | **Cycle:** 20
+
+**One-sentence:** a cashflow/bookkeeping service for KR 소상공인 that generates proprietary SME financial data as a lending/credit signal — *deliberately chosen as a NON-compliance data play to test whether Axis-C can escape the FI-accountability tunnel.*
+- KILL-search: **캐시노트(한국신용데이터)** — 1.7M merchant sites (88% of card-active merchants), ₩150조 annual data, ₩1.1조 unicorn, *already* runs CB/credit-scoring on this exact data. Total incumbent ownership + data-scale wall.
+- **Result: 🔴 KILL — type T2/T3 (incumbent owns it + data-scale wall). → K18.**
+- **Lesson (sharpens L4):** non-compliance data plays are owned by data-*scale* incumbents (캐시노트). The founders' ONLY defensible data-byproduct path is data generated as a byproduct of a regulated/accountability SERVICE — where the customer *hands you* the data by using the workflow, and it stays per-FI siloed (un-aggregable by a scale player). → L4 refined below; OS bumped to v2.1.
+
+**META-TRIGGER (the important output of this cycle):** cycles 17→20 produced FOUR survivors (책무구조도, AI-compliance, 자율보안, 민원) that are all the **same engine, different persona** — and the one idea aimed *outside* the FI buyer KILLED again. Idea supply is saturated; novelty is near zero. **This is the strongest possible signal to STOP generating and VALIDATE.** Cycle 19's kit is still un-sent. Per the Prime Directive, the next cycle should NOT be Axis-D/E generation — it should be founders sending the discovery messages.
 
 ---
 
@@ -277,6 +312,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | K15 | KR retail interior/fit-out | T2 | 숨고/916디자인/더공 (escrow+dispute referee) own it |
 | K16 | TAAMS as platform | T2/T1 | Tridge+Tradlinx+free gov data own all layers end-to-end |
 | K17 | 중대재해처벌법 (5-49인) safety evidence SaaS | T1/T5 | Free KOSHA tooling + licensed 안전관리대행 agencies own it; no founder distribution to ~800K SMEs (cycle 18 anti-tunnel test) |
+| K18 | SME bookkeeping → lending-signal data | T2/T3 | 캐시노트/한국신용데이터 owns it — 1.7M sites (88%), ₩1.1조 unicorn, already runs CB on the data (cycle 20 anti-tunnel test) |
 
 ---
 
@@ -294,6 +330,8 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | Why-now stack (cycle 17) | FSC opened 망분리 for in-network FI SaaS (Apr 2026) — the standard "FIs can't run cloud SaaS" objection just died | Removes a top-3 sales blocker for EVERY FI-compliance SaaS on this board |
 | 3x-confirmed edge (cycle 18) | THREE different 2026 laws (AI 기본법, 지배구조법 책무구조도, 자율보안-결과책임) all converge on the SAME KR-FI accountability-evidence + cross-client-benchmark shape | The asset is NOT any one regulation — it's "be the regulator-ready accountability/evidence layer for KR FIs, harvesting 'what passed' data." Stop hunting laws; deepen the buyer. |
 | Anti-tunnel proof (cycle 18) | The one cycle-18 idea OUTSIDE the FI buyer (중대재해 SME) KILLED on G2+G5 simultaneously | Empirical: leaving the FI buyer forfeits both moat AND distribution. The founders' edge is the buyer, not the compliance theme. |
+| Saturation (cycle 20) | Cycles 17→20 = 4 survivors, all the SAME engine (KR-FI accountability layer + cross-client outcome data); both off-buyer ideas KILLED (K17, K18) | Idea supply is SATURATED. Axis-C didn't escape the tunnel — it reconfirmed it (4x). Generation now yields ~0 novelty → STOP generating, VALIDATE. |
+| Data-moat refinement (cycle 20) | DATA-C2 died to 캐시노트 (data-SCALE incumbent); DATA-C1's data survives because the SERVICE generates it per-FI | Defensible founder data = byproduct of a regulated SERVICE (customer-handed, siloed), NOT data you must aggregate at scale. → L4 refined, OS v2.1. |
 
 ---
 
@@ -315,6 +353,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 |---------|------|------------|-----|
 | v2.0 | May 28 2026 | Added forcing function, symmetric gates, buyer-signal requirement, anti-gaming check, built-in adversary, MODE-CASH/MOAT, bandwidth gate, meta-loop | Red-team found OS was a kill machine (16-0) with no commit mechanism and no real-world validation loop |
 | (no bump) | May 30 2026 | HIT-RATE audit (now ~22 ideas gated, past every-8 cadence): **G2 (moat) + G5 (distribution) do most killing; G6 anti-gaming correctly caught LEAD-1.** No gate is dead weight; no rule proven wrong → NO version bump. | Gates are firing correctly; the meta-loop's job is to rewrite WRONG rules, not churn working ones. |
+| **v2.1** | May 30 2026 | **Refined L4** (data-byproduct moat): specified that the durable data must be generated as a byproduct of a regulated/accountability SERVICE (customer-handed, per-FI siloed) — explicitly NOT data requiring scale-aggregation. | Counter-example from cycle 20: DATA-C2 (SME bookkeeping data) died to a data-SCALE incumbent (캐시노트), while DATA-C1's complaint-outcome data survives precisely because the regulated service generates it. The old L4 didn't distinguish the two and would have green-lit a 캐시노트 fight. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -329,7 +368,7 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 1. Build the accountability layer, not the commodity primitive
 2. Loud pain in a mature market = already served
 3. Warm channel ≠ winnable without a buildable product
-4. Durable moat = liability-bearing KR entity + local data byproduct
+4. Durable moat = liability-bearing KR entity + data generated as a byproduct of a regulated/accountability SERVICE (customer-handed, per-FI siloed) — NOT data you must aggregate at scale (that's owned by 캐시노트-type incumbents) *(refined v2.1, cycle 20)*
 5. Own the unglamorous workflow regulation creates, not the headline tool
 6. No enforcement teeth = no WTP yet; need enforcement-sensitive buyer
 7. SEED ≠ MOAT — write the moat sentence; if blank = "our relationships," downgrade
