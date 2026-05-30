@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 30) | **OS version:** 3.0
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 (Cycle 31) | **OS version:** 3.0
 
 ---
 
@@ -72,6 +72,99 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 31 — GENERATE round 2: connection-anchored + greenfield (deep research, v3.0) · May 30, 2026
+**Purpose:** operator asked to re-run deep-research agents on the strongest verticals + explore NEW fields,
+"make sure some use our connections." Ran 4 parallel deep-research agents (David's F&B/franchise network ·
+Ace's Coxwave/AI relationship · greenfield · deepen CASH-F1). Result: **3 new contenders that BEAT the
+re-scoped CASH-F1**, two of them compliance plays with LIVE teeth (the gate the FI engine failed). All gated
+under v3.0. Still 0/3 buyer signals — so this is the LAST generate round before validation (Prime Directive).
+
+### A) CONNECTION-ANCHORED WINNERS
+
+#### CASH-R1 · "RAG-care" — managed RAG-accuracy/maintenance retainer  (Ace ↔ Coxwave channel)  — 🟢 NEW CO-LEAD
+> KR companies that bought/built a RAG chatbot pay to KEEP IT ACCURATE today via ad-hoc dev firms or nobody;
+> we do a monthly retainer (re-index changed docs, regression-test answers, hallucination triage, accuracy
+> report); recurring **~₩1.5–4M/mo × 5–8 clients = ₩13–25M/mo**; MODE-CASH, Axis-B (Ace's AI skill × Coxwave channel).
+- COMP-SCAN: build agencies (메이크봇/올거나이즈) chase new projects + neglect post-launch; eval tools (Coxwave
+  Align/Langfuse/Galileo) DETECT drift but hand you a dashboard, not the fix. The recurring *fix-work* is unowned.
+- WALL-vs-SPEED-BUMP: SPEED-BUMP. **Foundation-model commoditization is a TAILWIND** (more cheap deployments → more
+  to maintain). **Complements Coxwave (they detect, we fix) — does NOT compete with their roadmap.** WIN-TYPE W3+W2.
+- G9: ROI-PULL (a wrong-answer bot = real business cost / abandoned project) + evergreen. G5: Coxwave referral +
+  agencies + AI-Voucher pool. **OPEN QUESTION for operator: will Coxwave refer customers DOWN to us, or only lend
+  credibility?** (materially changes G5 strength.) G8: productizable as fixed-scope SLA → fits 10–13 hr/wk.
+- Validate-or-die: *"Since your chatbot went live, last time it gave a wrong/outdated answer — what did you DO to
+  fix it, who did it, how long?"* (manual pain / "we just live with it" = strong). **Status: 🔬 VALIDATE, 0/3.**
+
+#### CASH-FR1 · 필수품목 사전협의·통지 compliance trail  (David ↔ franchise-HQ network)  — 🟢 NEW CO-LEAD
+> KR franchise HQs (sub-50-store) pay to avoid 가맹사업법 필수품목 violations today via 가맹거래사/law firms +
+> 모두싸인 + Excel; we do a change-triggered "사전협의 record + notify all 가맹점 + audit trail" workflow; recurring
+> **~₩150–300k/mo × 30–60 brands = ₩4.5–18M/mo**; MODE-CASH, Axis-D (David's exact buyer).
+- COMP-SCAN: 외식UP/Maxvisor ERPs ignore this legal workflow; 모두싸인 = signing only (unbundle target); substitute
+  = expensive per-change 가맹거래사 review. No cheap, recurring, change-triggered tool for SMALL brands.
+- **G9: ROI/enforcement-PULL with DOCUMENTED TEETH** — 2024 가맹사업법 amendment makes 사전협의+통지 mandatory on every
+  필수품목 change; regulator already fined a donut HQ **₩2.136B** + a 족발 HQ **₩94M**. Recurs on every 식자재 price move.
+- WALL-vs-SPEED-BUMP: SPEED-BUMP. WIN-TYPE W2+W3+W5. Service-wrap entry (David sells "we keep you audit-ready").
+- BEAR (validate first): teeth may be LATENT (small HQs ignore until a 공정위 letter) vs actively felt.
+- Validate-or-die: *"지난번 필수품목 공급가 올렸을 때 가맹점 사전협의·통지 어떻게 처리하셨어요? 누가, 뭘로?"* **🔬 VALIDATE, 0/3.**
+
+### B) GREENFIELD WINNERS (strong on teeth, WEAK on warm channel — distribution is their bear, G5)
+
+#### CASH-G1 · 의료광고 컴플라이언스 AI 검수 (clinic medical-ad pre-screen)  — 🔬 VALIDATE (channel-gated)
+> KR 비급여 clinics pay for 의료법 ad-safety today via ₩800k–1M/mo 마케팅 대행사 + manual 자율심의; we do an AI checker
+> that flags 위반 문구/이미지 BEFORE posting + tracks 심의 obligations; recurring **~₩100–300k/clinic/mo (50–100 = ₩7.5–25M/mo)**.
+- COMP-SCAN: incumbents = marketing agencies (라온하제 580 clinics, 애드리절트 1272) bundling "review" into ₩800k+
+  retainers; 자율심의기구 do manual per-submission review. **No dedicated AI self-check tool exists** (searched).
+- G9: STRONG ROI-PULL — LIVE enforcement (366 illegal ads caught Dec-2023–Feb-2024 → 행정처분 + 형사고발). W2+W6.
+- **G5 WEAK: clinics are NOT David's F&B channel** → needs a new channel (friendly 원장 / 비급여 association / agency
+  reseller W4). This is the #1 watch-risk. Validate DISTRIBUTION before building.
+- Validate-or-die: *"마지막으로 비급여 후기/광고 올릴 때 누가 의료법 검수했고, flag 났을 때 어떻게 됐어요?"* **🔬 VALIDATE (channel-gated), 0/3.**
+
+#### CASH-G2 · 정부지원사업/R&D 정산·사후관리 (RCMS 증빙 automation)  — 🌱 GENERATED (secondary)
+> SMBs running multiple gov grants pay 회계법인/컨설턴트 for RCMS 정산·증빙 or eat 환수 risk; we do AI evidence-to-세목
+> organization + deadline tracking; ~₩100–300k/co/mo WHILE projects active. Teeth real (환수). 
+- LIMITATION: recurrence is LUMPY (project-duration-bounded, not evergreen) → ranks below evergreen plays. Reachable
+  via the dev's own startup/TIPS network (warm-ish). Confidence MEDIUM. Keep as secondary.
+
+### C) EXISTING LEAD RE-SCOPED (from the CASH-F1 deepening agent)
+**CASH-F1 → re-scoped + downgraded.** Deep scan found the cost-tracking half is **priced-to-free** (도도카트 free,
+~100k users, marketplace-subsidized) and "savings-finder" analytics WTP is weak (F&B ops pay for things that MOVE
+money — POS/settlement/캐시노트 ₩16.5–55k tiers). Worse, the delivery-commission angle (my "novel" piece) is the
+LEAST-felt pain (survey: 90.3% reprice on ingredient cost vs **0.61%** on delivery commission). **Re-scope: from
+"cost-leak finder" → "ingredient-drift→repricing DECISION engine"** (the action incumbents won't ship); demote
+delivery-commission to a feature. Portfolio watch-risk = same priced-to-free bear that killed K19. **🔬 VALIDATE,
+now ranked BELOW CASH-R1/CASH-FR1.**
+
+### D) ELIMINATED THIS ROUND (evidence-based — logged to prevent re-chase)
+- **Generic 단골/CRM/멤버십 messaging → WALL (platform-absorbs-job):** Naver Place absorbed CRM/membership natively
+  **2026-05-14** (plugs in 도도포인트/페이히어). → K20.
+- **식자재 group-buying/공동구매 → WALL (capital/logistics):** 마켓보로/푸드팡/오더플러스 run cold-chain + working capital.
+- **학원 admin/parent-comms → WALL (priced-to-free):** 학원조아/클래스업/랠리즈 free, monetize 알림톡 markup. → K21.
+- **물류 WMS · 제조 MES · 보험 GA tooling · 건물 관리비 · generic 미수금(청구스) · 세무사 payroll core →** walls/commodity
+  (SI-heavy, license-adjacent, or priced-to-free). 세무사 *intake-only* survives only as a thin 12-mo-head-start play
+  (더존 위하고-T is absorbing it) — not pursued.
+- **AI 기본법 compliance ops + 식당 HACCP →** PUSH/no-teeth (G9/T7): AI법 has a ≥1-yr 계도기간 (no fines til ~2027);
+  restaurant 위생등급제 is voluntary. Both PARKED as ~2027 revive / bundle add-ons, not leads. ✅ G9 working again.
+
+### E) SYNTHESIS + DECISION
+- **REPEATABLE WINNING SHAPE (now strongly confirmed across 3 winners):** recurring + **ROI/enforcement-PULL with
+  LIVE teeth** + an **unowned AI-shaped job** + **a buyer we can actually reach**. 
+- **REFINEMENT (compliance is fine — NO-TEETH was the FI killer, not "compliance"):** two new winners (CASH-FR1,
+  CASH-G1) are compliance plays that PASS G9 because enforcement is LIVE + fines are documented. The FI engine
+  failed only because its teeth were 2 yrs away. → AXIS-A is productive *when* G9 PULL is real; verify enforcement
+  is live + fined, not pending.
+- **CONCENTRATION/CHANNEL CHECK:** the two co-leads use DIFFERENT moats + DIFFERENT channels (CASH-R1 = Ace/Coxwave/AI;
+  CASH-FR1 = David/franchise/teeth) → healthy diversification, not single-point-of-failure. CASH-G1's shared bear =
+  no warm channel (G5). 
+- **LEAD RANKING (by gate-fit × channel-fit, MODE-CASH, recurring floor):** 1) **CASH-R1 (RAG-care)** — no wall,
+  tailwind, Ace's core skill, Coxwave channel; 2) **CASH-FR1 (필수품목)** — live teeth + David's exact buyer;
+  3) **CASH-G1 (의료광고)** — best teeth but cold channel (validate distribution first); then CASH-F1 (re-scoped),
+  CASH-G2, CASH-F2/F3 secondary.
+- **NEXT ACTION (Prime Directive — STOP generating, VALIDATE):** two cheap parallel discovery tracks — Ace probes
+  CASH-R1 via Coxwave-network/agency AI teams; David probes CASH-FR1 via franchise-HQ owners. One question each
+  (above). Decision date = **2026-07-15.** Build ≤1 Phase-0 demo pre-signal.
 
 ---
 
@@ -647,6 +740,8 @@ Tiny KR F&B importers source over KakaoTalk and spreadsheets; a human-in-the-loo
 | K17 | 중대재해처벌법 (5-49인) safety evidence SaaS | T1/T5 | Free KOSHA tooling + licensed 안전관리대행 agencies own it; no founder distribution to ~800K SMEs (cycle 18 anti-tunnel test) | WALL ✓ (free gov + T5 no distribution) |
 | K18 | SME bookkeeping → lending-signal data | T2/T3 | 캐시노트/한국신용데이터 owns it — 1.7M sites (88%), ₩1.1조 unicorn, already runs CB on the data (cycle 20 anti-tunnel test) | WALL ✓ (T3 data-scale wall) |
 | K19 | KR local-service booking/CRM (미용실·필라테스·PT) | T1 | Entrenched cheap/FREE vertical CRMs (바디코디·공비서·핸드SOS) + 네이버 예약 absorbs booking + priced-to-free + no founder edge (cycle 30 v3.0 test) | WALL ✓ (commodity + platform-absorbed; rescue failed) |
+| K20 | Generic 단골/CRM/멤버십 messaging | T1 | **Naver Place absorbed CRM/membership natively 2026-05-14** (도도포인트/페이히어 plug-ins) → platform-absorbs-job (cycle 31) | WALL ✓ (platform-absorbed) |
+| K21 | 학원 admin / parent-comms SaaS | T1 | Priced-to-FREE — 학원조아·클래스업·랠리즈 free, monetize 알림톡 markup (cycle 31 greenfield) | WALL ✓ (priced-to-free) |
 
 ---
 

@@ -241,7 +241,15 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 30 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 31 — May 30 2026; full detail in LEDGER.md)
+🧭 CYCLE 31 = GENERATE round 2 (4 deep-research agents: connection-anchored + greenfield). 3 NEW contenders beat
+   the re-scoped CASH-F1; 2 are compliance plays with LIVE teeth (the gate the FI engine failed). NEW CO-LEADS:
+   **CASH-R1 "RAG-care"** (managed RAG-accuracy retainer; Ace↔Coxwave channel; no wall, commoditization is a
+   TAILWIND, complements Coxwave; ₩13–25M/mo) + **CASH-FR1 필수품목 compliance trail** (franchise-HQ 사전협의·통지;
+   David's buyer; DOCUMENTED fines ₩2.1B/₩94M = real G9 PULL; ₩4.5–18M/mo). Strong-but-cold-channel: **CASH-G1
+   의료광고 AI 검수** (live 행정처분; no AI tool exists; but clinics ≠ David's F&B channel → validate distribution).
+   Re-scoped CASH-F1 → "ingredient-drift→repricing engine" (cost-tracking half is priced-to-free via 도도카트).
+   KILLS: K20 generic CRM (Naver Place absorbed it 2026-05-14), K21 학원 (priced-to-free). STOP generating → VALIDATE.
 🧪 CYCLE 30 = STRESS-TEST v3.0 on 3 NEW verticals. v3.0 passed its own test: NEW-1 (e-comm seller tools) 🟡
    SURVIVES-thin via rescue (low priority — T1 commodity + no David channel, G5 weak); NEW-2 (local-service
    booking/CRM 미용실·필라테스) 🔴 KILL K19 on a REAL wall (priced-to-free vertical CRMs + 네이버 absorbs booking —
@@ -300,13 +308,19 @@ buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
    governance 소명 is the #1 pain. Watch-risk = vendor-risk paradox.
 🔴 CYCLE-18 KILL: 중대재해처벌법 5-49인 SME safety SaaS (K17, T1/T5) — anti-tunnel test confirmed leaving the
    FI buyer forfeits both moat (G2) and distribution (G5). 3 laws now converge on the same FI shape.
-🟢 CASH-F1 (NEW LEAD, cycle 28) F&B operator margin/cost-leak AI — invoice-OCR price-drift + delivery-commission-
-   aware per-menu net profit + repricer. MODE-CASH, Axis-D, via David's F&B network. SPEED-BUMP; W1/W2/W3. G9
-   ROI-PULL (enforcement-free). Capturable ~₩100–300M/yr. Validate-or-die (1 q): "last time 식자재 prices jumped,
-   how did you decide whether/how much to reprice, and what did you use?" 🔬 VALIDATE, 0/3, decision 2026-07-15.
-🌱 SECONDARY CASH PORTFOLIO (same buyer = David's F&B/retail ops; one discovery tests all; build ≤1 pre-signal):
-   CASH-F2 franchise-HQ QSC/SV audit for sub-50-store brands · CASH-F3 managed review/reputation service ·
-   EXPAND-1b HQ multi-store interior rollout-PM (narrow K15 revive, NOT a marketplace=captive-channel wall).
+🟢 CASH-R1 (NEW CO-LEAD, cycle 31) "RAG-care" managed RAG-accuracy/maintenance retainer. Axis-B (Ace's AI ×
+   Coxwave channel). No wall (commoditization = tailwind); COMPLEMENTS Coxwave (they detect, we fix). ~₩13–25M/mo.
+   Validate-or-die: "since your chatbot went live, last time it answered wrong — what did you DO to fix it?" 🔬 0/3.
+   OPEN Q for operator: will Coxwave refer customers down to us, or only lend credibility? (changes G5 strength.)
+🟢 CASH-FR1 (NEW CO-LEAD, cycle 31) 필수품목 사전협의·통지 compliance trail for franchise HQs. Axis-D (David's buyer).
+   REAL G9 teeth — documented fines ₩2.1B/₩94M; recurs on every 식자재 price change. ~₩4.5–18M/mo. W2/W3/W5.
+   Validate-or-die: "지난번 필수품목 공급가 올렸을 때 가맹점 사전협의·통지 어떻게 처리하셨어요?" Bear = teeth latent vs felt. 🔬 0/3.
+🔬 CASH-G1 (cycle 31, channel-gated) 의료광고 AI 검수 for 비급여 clinics. LIVE 행정처분; no AI tool exists; ~₩7.5–25M/mo.
+   STRONG teeth but clinics ≠ David's F&B channel → validate DISTRIBUTION first (friendly 원장 / association / agency W4).
+🔬 CASH-F1 (re-scoped cycle 31, ranked below co-leads) → "ingredient-drift→repricing engine" (drop cost-leak framing;
+   도도카트 gives cost-tracking free + 0.61% feel delivery-commission pain). MODE-CASH, David's F&B network. 🔬 0/3.
+🌱 SECONDARY (build ≤1 pre-signal): CASH-G2 정부지원 R&D 정산 (lumpy recurrence, dev's startup network) · Coxwave-#2
+   AI build-&-run retainer (voucher-funded; watch T5 enterprise-sales) · CASH-F2 QSC · CASH-F3 review service · EXPAND-1b.
 🟡 PARK — EXPAND-1 (site-selection/forecasting, parked cycle 27): T3 data WALL — 오픈업 프로/Finda (Oct-2025, ~₩825k
    /mo) on NICE card-data; software play walled, only a David-consulting residue survives. Revive only if 오픈업
    fails on accuracy → a service-led "interpret the data for your 출점 committee" play.
@@ -316,9 +330,9 @@ buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
    exam wave, OR discovery Q0 proves software-WTP. The discovery kit can still be sent opportunistically — but the
    board NO LONGER WAITS on it. Only the L9 managed-service framing has a near-term (lumpy, services) cash path.
 🟡 PARK (other): TAAMS-service · NuvoVet (GTM-blocked).
-🔴 KILL: 20 ideas (see ledger; K19 local-service CRM new c30; K9 REVIVED→CASH-F1; K15 partial-revive).
-NEXT ACTION (per Prime Directive): VALIDATE CASH-F1 via DAVID'S F&B network. ONE discovery question tests the
-   whole cash portfolio: *"Last time 식자재 prices jumped, how did you decide whether/how much to reprice a menu,
-   and what did you use?"* — listen for a painful manual process described BEFORE naming any product (a polite
-   "sounds useful" = ZERO). Same conversation can probe CASH-F3 (review retainer) + CASH-F2 (QSC). Build ≤1 thing
-   pre-signal. Decision date = 2026-07-15. (FI engine + EXPAND-1 parked; do not build either.)
+🔴 KILL: 22 ideas (see ledger; K20 generic CRM platform-absorbed + K21 학원 priced-to-free, new c31).
+NEXT ACTION (per Prime Directive — STOP generating, idea supply now ample, 0/3 signals): VALIDATE in 2 parallel
+   tracks via OUR CONNECTIONS. (1) Ace probes CASH-R1 via Coxwave-network / AI-agency teams: "since your chatbot
+   went live, last time it answered wrong — what did you DO to fix it, who, how long?" (2) David probes CASH-FR1
+   via franchise-HQ owners: "지난번 필수품목 공급가 올렸을 때 가맹점 사전협의·통지 어떻게 처리하셨어요?" CASH-G1 needs a
+   distribution test first (can David/Ace reach 3-5 clinic 원장?). Build ≤1 Phase-0 demo pre-signal. Decision 2026-07-15.
