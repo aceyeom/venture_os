@@ -1,4 +1,4 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.2)
+# THE FOUNDER'S OPERATING SYSTEM (v2.3)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 ### v2.0 changelog: added forcing function, symmetric judgment, buyer-signal-as-input, anti-gaming check,
@@ -7,6 +7,11 @@
 ### (customer-handed, siloed), NOT scale-aggregated data (owned by 캐시노트-type incumbents).
 ### v2.2 changelog (cycle 22): added L9 (service-wrapped-software entry for enforcement-gated markets with
 ### unproven software-WTP) after a re-stress-test found the whole FI board shares ONE bear (L6 software-WTP).
+### v2.3 changelog (cycle 24): intake of an OFF-FRAMEWORK external batch (4 US "survivors", all incumbent-killed
+### on web-recheck). Adopted only the genuine deltas: sharpened G7 (catalyst-DURABILITY / single-policy-of-failure),
+### sharpened G6 (market-transacts-TODAY + buyer-pool×ACV reality check), made incumbent-naming a hard PASS-
+### precondition in §3, refined L1 (regulatory why-now spawns a horizontal compliance-SaaS swarm in ~18mo).
+### REJECTED the batch's "conflicted-incumbents-won't-build-it" rule — web-falsified (it green-lit a dead idea).
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -60,15 +65,26 @@ For EACH idea run BOTH searches, equal effort:
   (a) KILL-SEARCH: who owns this / why does it fail?
   (b) WIN-SEARCH: under what real, specific conditions could a 2-person team take a profitable slice?
 KILL ONLY IF win-conditions are ALSO absent. Then check gates in order; one fail = stop + log kill-type.
+**PASS-PRECONDITION (added v2.3): NAME the top ≥3 incumbents by running direct product-NAME searches before
+  writing any PASS or ledgering a survivor. If you can't name them, the whitespace search is INCOMPLETE → no
+  verdict yet. Never write "no incumbent / empty middle" on the strength of a category search alone — the cycle-24
+  batch ledgered 4 "empty" markets that a product-name search instantly falsified (Assent, Pearl Street/Enverus,
+  Citrin/Massarsky, Sensitech Lynx FacTOR). "Empty" almost always means "search not finished."**
   G0 hunting-ground (foreigner-proof?) · G1a budget exists · G1b budget winnable ·
   G2 named TRUE-MOAT asset (not "relationships") · G3 moat type (not data-scale/GPU/capital wall) ·
-  G4 disconfirm survived · G5 distribution <90-day test path · G6 ceiling (per MODE) ·
-  G7 why-now catalyst · G8 BANDWIDTH-FIT (path to revenue fits ~10-13 hr/wk now?).
+  G4 disconfirm survived · G5 distribution <90-day test path ·
+  G6 ceiling (per MODE) — AND market-TRANSACTS-TODAY (buyers paying NOW, not a hoped-for future market) +
+    buyer-pool × ACV clears the MODE ceiling as a REAL number (a sub-scale services market ≠ a big software market) ·
+  G7 why-now catalyst — must be DURABLE: survives a single policy/regulation REVERSAL (no single-point-of-failure
+    why-now); prefer a 2nd, market-driven catalyst alongside any regulatory one ·
+  G8 BANDWIDTH-FIT (path to revenue fits ~10-13 hr/wk now?).
 ANTI-GAMING CHECK (mandatory after any segment-narrowing): "Does the narrowed segment that saved G4
 still pass G6 (ceiling) ON ITS OWN?" If narrowing to dodge competitors breaks the ceiling, the idea is
 GAMED — mark it and either widen (and re-face competitors) or accept it as MODE-CASH/niche only.
 KILL-TYPES: T1 commodity · T2 incumbent-owns-wedge · T3 capital/license/data wall · T4 ceiling-low ·
-  T5 wrong-team/no-distribution · T6 bandwidth-incompatible-now.
+  T5 wrong-team/no-distribution · T6 bandwidth-incompatible-now ·
+  T7 catalyst-fragile (why-now rests on ONE policy that can be repealed/paused — added v2.3) ·
+  T8 value-capture-mismatch (real value flows to services/credits/hardware, NOT the software we'd sell — added v2.3).
 
 ═══════════════════════════════════════════════════════════════
 ## 4. HARDEN (make survivors stronger; same loop, now adversarial)
@@ -123,7 +139,10 @@ CROSS-IDEA SYNTHESIS every 3-4 ideas: same-buyer? same-moat-shape? convergence? 
 ═══════════════════════════════════════════════════════════════
 ## 8. THE 8 LAWS (current best; the META-LOOP may rewrite any of them)
 ═══════════════════════════════════════════════════════════════
-L1 build the accountability layer, not the commodity primitive · L2 loud pain in a mature market = served ·
+L1 build the accountability layer, not the commodity primitive — and note (refined v2.3) a regulatory why-now
+  reliably spawns a HORIZONTAL compliance-SaaS swarm within ~18 months that commoditizes the form-filling/reporting
+  layer FIRST; a survivor must sit at a layer the swarm structurally CAN'T occupy (liability-bearing judgment,
+  cross-client data byproduct, regulator-accepted standard) · L2 loud pain in a mature market = served ·
 L3 warm channel ≠ winnable without buildable product · L4 durable moat = liability-entity + data-byproduct-
 of-a-regulated-SERVICE (customer-handed/siloed, NOT scale-aggregated — refined v2.1) · L5 own the unglamorous
 workflow regulation creates, not the headline tool · L6 no teeth/grace
@@ -132,7 +151,20 @@ hardware/build skill = capability, not moat · L9 (provisional, v2.2; calibrated
 unproven software-WTP but proven service-WTP → enter as service-wrapped-software (managed service). Precedent:
 KR FIs already buy MSSP/RegTech on subscription. Boundary: managed service triggers 업무위탁 규정 + cannot
 replace the internal 준법감시인 (it supports, not replaces); ACV still buyer-unvalidated.
+L10 (added v2.3) why-now must be DURABLE — an idea whose entire model rests on ONE regulation that can be
+repealed, paused, or have its methodology rewritten is a single-point-of-failure (T7); require a 2nd, market-driven
+catalyst alongside any regulatory one. Precedents that justify this Law: EPA Methane Charge (CRA-repealed Mar 2025),
+ACR orphaned-well methodology (paused for 2026 rewrite), FSMA-204 (deadline slipped) — each would have passed a
+naive "why-now + TAM" screen and died to a policy reversal.
+L11 (added v2.3) verify the market TRANSACTS TODAY and that buyer-pool × ACV clears the MODE ceiling as a REAL
+number before any PASS — don't bet on a market that hasn't started transacting (SGMA groundwater trading: a free
+public incumbent + a market that wasn't actually trading), and don't mistake a sub-scale SERVICES market for a big
+SOFTWARE market (a digital logbook is a feature, not a vertical — own where money MOVES).
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
+**REJECTED (v2.3, logged so it's never re-adopted): "conflicted incumbents won't build a tool that cannibalizes
+their revenue, so the space stays open." Web-falsified in cycle 24 — testing labs (Battelle, Eurofins) actively
+SELL tiered screening to REDUCE testing, and it was the load-bearing assumption under a "survivor" (PFAS triage)
+that was actually dead. A conflict-of-interest assumption is NOT a moat; verify by product-name search, never assume.**
 
 ═══════════════════════════════════════════════════════════════
 ## 9. WEEKLY CADENCE
@@ -141,7 +173,16 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 23 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 24 — May 30 2026; full detail in LEDGER.md)
+🔁 CYCLE 24 = OFF-FRAMEWORK BATCH INTAKE + META-LOOP. Ingested 5 external "routine dives" (new_raw_ideations.md)
+   run by a GENERIC VC screen, NOT this OS. The 4 "survivors" (PFAS triage · multi-RTO interconnection · music-ABS
+   verification · CAR-T excursion-disposition) were re-checked on the web and ALL 4 were incumbent-killed (T2 ±
+   T1/T3/T4): Assent/Source-Intelligence; Pearl Street/Enverus + GridUnity; Citrin-Massarsky + Shot-Tower/RedBrick;
+   Sensitech Lynx FacTOR. They ALSO fail G0/G2/G5/G8 (all US-market, no KR ground, no warm channel, no bandwidth-fit
+   — zero founder edge). 3 → KILL (K19–K21), 1 → PARK (music, PARK-4, narrow surviving angle only). OS → v2.3:
+   adopted G7-durability, G6-transacts-today, the §3 incumbent-naming PASS-precondition, refined L1 (swarm),
+   added L10/L11; REJECTED the batch's "conflicted-incumbents-won't-build" rule (web-falsified). The board's own
+   KR-FI ideas (LEAD-1/CASH-D1) are UNCHANGED — still the focus; bottleneck is still VALIDATION (0/3 signals).
 🔁 CYCLE 23 = META-LOOP. Pressure-tested L9 before it hardened: CONFIRMED via MSSP/RegTech subscription
    precedent (FIs do buy managed services); REFINED with the 업무위탁-규정 + internal-준법감시인 boundary;
    ACV (₩100-300M) left buyer-unvalidated. No version bump (calibration, not a new rule). New watch-risk:
