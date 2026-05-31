@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 31, 2026 | **OS version:** 2.6
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 31, 2026 | **OS version:** 2.7
 
 ---
 
@@ -14,11 +14,11 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        CASH (physical) — operator dive: "don't be stuck on SaaS; physical or any idea; be open"
-AXIS:        F (new-field) + B (asset-pair: KR trade network × Guam) — both web-gated with incumbent-naming
-CYCLE #:     27  (2 operator-seeded ideas — Guam import + intl-student housing — BOTH KILLED T2; OS → v2.6)
+MODE:        CASH (operator-selected) — fast time-to-revenue, recurring, bandwidth-fit, weak moat tolerated
+AXIS:        C (data-byproduct) + A (regulation) + F (new-field) — operator-selected; all web-gated, incumbent-named
+CYCLE #:     28  (3 generated ideas — VASP surveillance + KR financial-ad review + Japan FI accountability — ALL KILLED T2; OS → v2.7)
 DECISION DATE: 2026-07-02 (unchanged — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
-ANTI-LOOP:   operator-WAIVED for this exploratory dive (LEAD-1/CASH-D1 still 🔬 0/3 — validation remains binding)
+ANTI-LOOP:   operator-WAIVED again (LEAD-1/CASH-D1 still 🔬 0/3 — validation remains the binding constraint)
 ```
 
 ---
@@ -73,6 +73,82 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 28 — MODE-CASH GENERATION (AXIS C+A+F) + META-LOOP · May 31, 2026
+**Operator directive:** *"Begin the search for new ideas. Follow askmequestions for initial routes. Add findings to ledger."*
+Routes chosen via AskUserQuestion: **MODE-CASH**; **AXES C (data-byproduct) + A (regulation) + F (new-field)**; **anti-loop
+WAIVED**. One concrete candidate generated per axis, each run through the full v2.6 gauntlet incl. the §3 product-NAME
+incumbent search (run as 3 parallel web verifications). **All 3 KILLED on T2.** OS → v2.7 (new L13: counterparty-owned moat).
+
+### 🔴 CASH-A2 · KR VASP 이상거래 상시감시 / 소명-evidence Service (AXIS-A) — KILLED (→ K27)
+**One-sentence (MODE-CASH):** mid/small KR 가상자산사업자 under 가상자산이용자보호법 (in force Jul 19 2024) must run 이상거래
+상시감시 + FIU/FSS 소명·보고; we'd sell a service-wrapped surveillance + 소명-evidence layer to the small VASPs who can't build
+like Upbit/Bithumb.
+**Incumbent search (FALSIFIES the wedge — named, every layer):** **옥타솔루션** (cryptoAML-PRISM — *co-built with Bithumb 2020,
+supplies Binance KR, explicitly markets to 소규모 사업자* — already the exact service-wrapped wedge; also the cycle-23 watch-risk),
+**아르고스/ARGOS** (KYC-AML purpose-built for startup/small VASPs), **Chainalysis KYT** (KR office), **TRM Labs × CODE** (travel-rule
+JV owned by Bithumb/Coinone/Korbit). Self-build: Coinone C-FDS, Upbit/Lambda256.
+**Market reality (G6 — buyer pool COLLAPSING):** registered VASPs **42→31** (10 coin-market exchanges + a wallet provider dropped
+renewal); FIU H1-2025 survey covers only **25**; coin-market daily volume **−81% YoY**, **−₩12.6B operating loss**, operators
+shutting down. Addressable small-VASP pool **~10-15 and falling** × price-pressured ACV ≈ **<$1M total market, contracting.**
+**Verdict: 🔴 KILL — T2 (옥타솔루션/아르고스/Chainalysis/TRM own every layer, already service-wrapped to small VASPs) + T4
+(sub-$1M shrinking ceiling) + G7 HEADWIND (regulation durable but the regulated-entity COUNT is shrinking — a negative why-now per
+v2.6).** Bull (watch-risk): mandatory, FSS actively inspecting surveillance (Nov 2024), small VASPs genuinely can't build like Upbit.
+Bear (decisive): selling into a 15-and-shrinking pool of loss-making firms against an incumbent that co-built Bithumb's system.
+
+### 🔴 CASH-C2 · KR Financial-Ad Compliance Review AI + 협회-Approval Corpus (AXIS-C) — KILLED (→ K28)
+**One-sentence (MODE-CASH + data-byproduct moat):** KR FIs' 준법감시인 must pre-review every 광고/marketing piece under 금소법
+광고규제 + 협회 사전심의; we'd sell AI 광고 사전심의 drafting/pre-check, and the byproduct would be a proprietary corpus of what
+the 준법감시/협회 actually approve vs reject.
+**Incumbent search (FALSIFIES the wedge — named, shipped):** **코그넷나인 (CognetNine)** built Korea's *"국내 금융권 최초"* AI 광고심의
+automation for **롯데카드** (project completed) and sells it as a productized "인공지능 광고 심의 솔루션" AI managed service —
+exactly the wedge, pre-checking 금칙어/의무표기/글자크기 before submission. Global analogs (Red Marker/Saifr/PerformLine) prove maturity.
+**The moat-killer (NEW failure mode → L13):** the data byproduct ("what the 협회 approve/reject") is **natively owned by the
+counterparty** — **KOFIA already runs a 광고심사시스템**, and **은행연합회 launched procurement Feb 2026 to build its OWN shared AI
+광고심의 platform** (우선협상 Feb 26, live H2 2026). You cannot accrue an approve/reject dataset the rejecting authority already holds
+and is now systematizing — the moat belongs to your counterparty.
+**Market reality (G6):** ~100-150 meaningful ad-review buyers (banks covered by KFB's own incoming system) × ACV ₩20-60M ≈ ₩3-9B
+(~$2-7M) TAM, *before* incumbents take the anchor logos — sub-scale even for MODE-CASH.
+**Verdict: 🔴 KILL — T2 (코그넷나인 owns the wedge; KOFIA + 은행연합회 own the moat layer) + data-byproduct pre-empted by the
+counterparty.** Bull (watch-risk): the mid-tier non-bank tail (저축은행/중소 증권·자산운용) is underserved + below CognetNine's reach —
+an L9 managed-service "광고심의 as a service" could book a 12-18mo cash window. Bear (wins): a funded vendor already shipped to a
+marquee client AND the association is building the form-checking layer for free/dues → the tail is squeezed from both ends.
+
+### 🔴 CASH-F2 · Japan FI Customer-First / Op-Resilience / TPRM Accountability Layer (AXIS-F, off-edge) — KILLED (→ K29)
+**One-sentence (off-edge MODE-CASH):** mid-tier Japanese FIs under tightening FSA rules (顧客本位 2024 revision, op-resilience DP
+Apr 2023, TPRM/outsourcing, CG-Code 2026) need a regulator-ready accountability/evidence layer + cross-client "what the FSA accepts"
+benchmark — the Japan mirror of DORA / KR 책무구조도.
+**SWARM-COUNT pre-check (T2-dead before the deep dive):** funded pure-play **レンズ/Lens RM** (¥844M seed Feb 2025; "委託先管理/TPRM
+for FIs"; *already live at GMOあおぞらネット銀行 Feb 2026*) + listed **GRCS** (FinTech GRC line) + **ServiceNow IRM** (via SCSK) +
+**OneTrust TPRM** (via TrustNow) + **NRI** ("金融機関向けTPRM支援" with its own FSA-監督指針-mapped checklists — the trusted layer the
+idea wants to be) + NTT Data / Deloitte / PwC / KPMG. **Well over the ~5-funded-vendor threshold + a funded pure-play taking FI logos.**
+**Off-edge §3b bar — fails every leg:** no Japan presence, no language fluency, no warm FI channel; Japan FI procurement is the most
+relationship-driven/slow market in the region (9-18mo cycles, incompatible with MODE-CASH <90d + 10-13 hr/wk); the cross-client FSA
+benchmark is cold-start-blocked and NRI already holds it; no nameable hire/partner plan. Also no 책무구조도-style statutory deadline gun
+(accountability lives in dispersed soft-law) → no untooled spike to wedge into.
+**Verdict: 🔴 KILL — T2 (incumbent-owns-wedge; full swarm + funded pure-play) + T5 (no buildable cold distribution) + T6
+(capacity-unreachable on a CASH timeline).** Bull (watch-risk): why-now is genuinely durable/multi-pronged + mid-tier JP FIs are
+under-tooled — revisit ONLY as a partner-led MODE-MOAT play post-discharge, never a cold CASH dive. Bear (wins): Lens + GRCS + NRI +
+ServiceNow/OneTrust = a full swarm in a language-gated market where a cold Korean 2-person team has zero edge and no earnable channel.
+
+### ⚙️ META-LOOP — self-improvement → OS v2.7
+- **HIT-RATE:** **T2 again did 100% of the killing** (now ~13 consecutive off-the-validated-wedge ideas dying on T2 across cycles
+  24-28). The §3 incumbent-naming precondition remains the single load-bearing gate — and this cycle it caught a vendor on EACH idea.
+- **NEW (L13) — COUNTERPARTY-OWNED MOAT:** CASH-C2 surfaced a failure mode distinct from L4 (scale-aggregation) and L7 (seed≠moat):
+  a "what-the-regulator-accepts" data byproduct is **not a moat if the regulator/association counterparty already owns that data
+  natively and can systematize it** (KOFIA 광고심사시스템; 은행연합회 building its own AI 광고심의 platform). Before claiming any
+  benchmark/approval-corpus moat, verify the authority you'd benchmark against isn't already holding/building the system. → **L13 added.**
+- **SHARPENED — "on KR-FI ground" ≠ safe:** CASH-A2 and CASH-C2 were BOTH on the KR-FI home buyer, yet both died to NAMED KR RegTech
+  incumbents (옥타솔루션, 코그넷나인). Lesson: KR-FI ground is necessary but NOT sufficient — every KR-FI wedge OTHER than the precise
+  untooled 책무구조도/관리의무-소명 + accountability niche already has a named KR incumbent. The defensible whitespace is narrow, and
+  the board already holds it (CASH-D1/LEAD-1). This is the strongest evidence yet that the constraint is VALIDATION, not generation.
+- **G7 headwind generalized:** CASH-A2 extends the v2.6 tailwind-not-headwind rule from demand-shrink to **regulated-ENTITY-COUNT
+  shrink** (VASPs 42→31) — a mandatory law over a vanishing buyer set is still a negative why-now.
+- **STRATEGIC:** MODE-CASH + a fresh axis trio (C/A/F) did not change the outcome. 3 cycles of generation (26→28) since the last
+  build-quota reset have produced **0 survivors** → per the Prime Directive's BUILD QUOTA, the bottleneck is not the axis, it's the
+  posture: STOP generating, VALIDATE LEAD-1/CASH-D1. No Cycle 29 generation should outrank sending the Cycle-19 discovery messages.
 
 ---
 
@@ -663,8 +739,11 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | K24 | FuelEU Maritime / EU-ETS compliance-balance & pooling (AXIS-F) | T2/T8/T4 | OceanScore (2,500 vessels, €5M A) + BetterSea (5,000 vessels) own pooling marketplace + proprietary indices; value flows to fuel/EUA traders not SaaS; durable why-now ≠ moat (cycle 26) |
 | K25 | Guam Korea-food import / grow-local (PHYSICAL; operator-seeded) | T2/T1/T4 | Korea→Guam arbitrage REAL (foreign-flag lane, weekly APL Busan transship) but already owned by Pacific Grocers (Korea-sources)/PDC-Pay-Less/J&G + a dozen Korean marts; KR network = SEED≠MOAT; grow-local fails soil/typhoon/capital/bandwidth (cycle 27) |
 | K26 | International-student US housing platform (operator-seeded, "stress-test hard") | T2/T8/T1 | Every layer owned: Amber/University Living/Student.com + Nova Credit Credit Passport + TheGuarantors + Places4Students/College Pads (runs NYU) + HeyKorean; AI lease translation = commodity; INVERTED why-now (US intl-student demand −17-35% YoY on visa policy) (cycle 27) |
+| K27 | KR VASP 이상거래 상시감시 / 소명-evidence service (AXIS-A, MODE-CASH) | T2/T4 + G7-headwind | 옥타솔루션 cryptoAML-PRISM (co-built w/ Bithumb, targets 소규모 사업자) + 아르고스/ARGOS + Chainalysis KYT + TRM×CODE own every layer, already service-wrapped; buyer pool COLLAPSING (VASPs 42→31, coin-market vol −81% YoY, −₩12.6B loss) → <$1M shrinking market; mandatory law over a vanishing buyer set = negative why-now (cycle 28) |
+| K28 | KR financial-ad compliance review AI + 협회-approval corpus (AXIS-C, MODE-CASH) | T2 + counterparty-moat | 코그넷나인 (CognetNine) shipped "금융권 최초" AI 광고심의 to 롯데카드, productized AI managed service; data-byproduct moat PRE-EMPTED — KOFIA already runs 광고심사시스템 + 은행연합회 building its own shared AI 광고심의 platform (proc. Feb 2026, live H2 2026); the "what passes" corpus is owned natively by the counterparty (→ new L13) (cycle 28) |
+| K29 | Japan FI customer-first / op-resilience / TPRM accountability layer (AXIS-F, off-edge) | T2/T5/T6 | SWARM: funded pure-play レンズ/Lens RM (¥844M, live at GMOあおぞらネット銀行) + listed GRCS + ServiceNow/SCSK + OneTrust/TrustNow + NRI's FSA-監督指針-mapped TPRM checklists; off-edge §3b fails every leg (no JP presence/language/channel, 9-18mo procurement vs CASH <90d, benchmark cold-start-blocked); Japan mirror of DORA/책무구조도, edge stripped (cycle 28) |
 
-*(Music-backed-credit (batch) → PARK-4, re-gated under v2.4, stays PARK — see Active Ideas. DORA/NIS2/FuelEU surviving slivers logged as parked patterns, not standalone ventures.)*
+*(Music-backed-credit (batch) → PARK-4, re-gated under v2.4, stays PARK — see Active Ideas. DORA/NIS2/FuelEU + Japan-FI surviving slivers logged as parked patterns, not standalone ventures.)*
 
 ---
 
@@ -691,6 +770,10 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | Physical ≠ exempt (cycle 27) | The Guam Korea-import arbitrage was real but already captured by named wholesalers (Pacific Grocers); intl-student housing had every layer owned | Going PHYSICAL / non-SaaS does NOT escape the incumbent problem. L2 generalized: a real, visible arbitrage is already run by someone — name the distributors. The "real arbitrage" is the bait, not the moat. |
 | Off-edge T2 streak (cycles 24-27) | ~10 consecutive off-edge ideas (SaaS US/EU + physical Guam + US fintech) ALL died on T2 incumbents; 0 survivors | This is now a strong empirical law, not anecdote: off the founders' edge, the binding killer is always incumbents. Edge (v2.4) is the discount that matters precisely because everywhere we're cold is already occupied. The board's value is the on-edge KR-FI engine — and its only gap is buyer signal, not idea supply. |
 | Inverted why-now (cycle 27) | Intl-student housing's catalyst points DOWN (visas −17-35% YoY) — a contracting buyer pool | Added G7 tailwind-not-headwind check: a why-now that shrinks the buyer pool is a NEGATIVE why-now, worse than a fragile one. Distinct from T7 (repealable) — the policy here is actively reducing demand. |
+| Counterparty-owned moat (cycle 28) | CASH-C2's data-byproduct moat ("what the 협회 approve/reject") is held natively by the 협회 — KOFIA runs 광고심사시스템 + 은행연합회 is building its own AI 광고심의 platform | New failure mode → **L13**: a benchmark/approval-corpus moat is void if the regulator/association counterparty already owns/systematizes that data. Distinct from L4 (scale) and L7 (seed). Verify the authority isn't already building the system before claiming the byproduct. |
+| KR-FI ground ≠ safe (cycle 28) | CASH-A2 + CASH-C2 were BOTH on the KR-FI home buyer yet died to NAMED KR incumbents (옥타솔루션, 코그넷나인) | KR-FI ground is necessary but NOT sufficient. Every KR-FI wedge OTHER than the precise untooled 책무구조도/관리의무-소명 accountability niche already has a named KR RegTech incumbent. The defensible whitespace is narrow — and the board already holds it (CASH-D1/LEAD-1). |
+| Entity-count headwind (cycle 28) | CASH-A2: a mandatory law (가상자산이용자보호법) over a SHRINKING regulated-entity count (VASPs 42→31, firms posting −₩12.6B losses) | Generalizes the v2.6 G7 tailwind rule: a negative why-now isn't only falling demand — it's a falling number of BUYERS (regulated entities exiting). A mandatory obligation over a vanishing buyer set is still a kill. |
+| Generation saturation reconfirmed (cycle 28) | 3 cycles of fresh generation (26 AXIS-F, 27 physical, 28 MODE-CASH C/A/F) = 0 survivors, ~13 straight T2 kills | The BUILD QUOTA (≤3 generate cycles before one idea advances to validate) has now lapsed twice. The constraint is not the axis, mode, or idea type — it is buyer contact for the on-edge KR-FI engine. STOP generating; VALIDATE. |
 
 ---
 
@@ -699,10 +782,11 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 
 - [x] **AXIS-D (DONE cycle 17):** for the mid-tier FI buyer — 3 spreadsheet/overpay pains BEYOND AI compliance? → **#1 = 책무구조도 maintenance (→ CASH-D1, now leads validation); #2 = FSS-exam readiness (→ MOAT-D1); #3 = AML/STR-CTR reg reporting (next to gate).** All confirmed LEAD-1 expansion SKUs / legs.
 - [x] **AXIS-A (DONE cycle 18):** new 2026 KR recurring obligation? → 자율보안-결과책임 (→ MOAT-A1, survives, CISO persona of LEAD-1's engine); 중대재해처벌법 5-49인 (→ KILLED K17, no founder distribution).
-- [ ] **AXIS-C:** what service could Ace's stack run that generates proprietary KR financial data nobody else sells? (partially answered by MOAT-D1 benchmark — revisit)
+- [x] **AXIS-C (DONE cycle 28):** financial-ad compliance review + 협회-approval-corpus data byproduct → KILLED K28 (코그넷나인 owns the wedge; moat owned by the counterparty 협회 → new L13). Earlier partially answered by MOAT-D1 benchmark.
+- [x] **AXIS-A (DONE cycle 28):** new KR recurring obligation → VASP 가상자산이용자보호법 surveillance → KILLED K27 (옥타솔루션/아르고스 own it; buyer pool collapsing). (cycle-18 also: 자율보안 → MOAT-A1; 중대재해 → K17.)
 - [ ] **AXIS-D (deferred SKU #3):** gate AML/STR-CTR reg-reporting automation for the same mid-tier FI buyer — watch for T2 (NICE Actimize / 한국NICE incumbents)
 - [ ] **AXIS-E (standing):** monitor for any KR regulator enforcement-shock → instant WTP trigger for parked compliance ideas
-- [x] **AXIS-F (DONE cycle 26):** first off-edge new-field dive — DORA / NIS2 / FuelEU-Maritime, all KILLED T2 (funded swarms). Lesson: visible big-market regulatory why-now = swarm magnet (L1 corollary). Future AXIS-F must bring an EARNED edge the swarm can't replicate, or pass the §3b SWARM-COUNT pre-check first. **Off-edge supply is not the constraint — validation is.**
+- [x] **AXIS-F (DONE cycles 26 + 28):** off-edge new-field dives — DORA/NIS2/FuelEU (cycle 26) + Japan FI accountability (cycle 28, K29), all KILLED T2 (funded swarms incl. pure-play Lens RM). Lesson: visible big-market regulatory why-now = swarm magnet (L1 corollary). Future AXIS-F must bring an EARNED edge the swarm can't replicate, or pass the §3b SWARM-COUNT pre-check first. **Off-edge supply is not the constraint — validation is.**
 
 ---
 
@@ -721,6 +805,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | **v2.4** | May 30 2026 | **Cycle 25 framework relaxation (operator directive).** Demoted the founders'-edge gates from hard kills to accelerants + scoring weights: G0 → winnable-in-field; G2 → owned-OR-buildable moat; G5 → warm-OR-earned channel; G8/T6 → sequencing (PARK-till-capacity/fund/hire). Added §3b off-edge higher bar, AXIS-F, L12, EXECUTION off-edge note. | Operator: "too rigid — we're willing to enter new fields, don't only limit to direct networks." The edge map was over-filtering on geography/network before the real gates (incumbents/ceiling/why-now) ran. Loosened WHO can play while retaining ALL v2.3 market rigor + a higher bar so off-edge ideas still earn their entry. |
 | **v2.5** | May 31 2026 | **Cycle 26 AXIS-F dive + calibration.** First new-field dive (DORA/NIS2/FuelEU) — all 3 KILLED T2. HIT-RATE audit (~24 ideas): T2 did 100% of recent killing; §3 incumbent-naming precondition is load-bearing; G6/G7 didn't bind (passed). Sharpened **L1** (swarm-magnet corollary) + added **§3b SWARM-COUNT pre-check** (≥~5 funded vendors OR a roll-up → off-edge T2-dead; require an earned edge or skip the deep dive). | Evidence: a visible + durable regulatory why-now in a big Western market draws a funded swarm FASTEST exactly where we lack edge. The v2.4 relaxation was validated as the right knob (we looked freely; gauntlet killed on incumbents, not geography). DORA/NIS2 = EU mirror of the on-edge KR engine → confirms L12; the home-field version dominates. |
 | **v2.6** | May 31 2026 | **Cycle 27 physical/non-SaaS dive (operator-seeded).** Guam KR-import + intl-student housing — both KILLED T2. Generalized **L2** to PHYSICAL markets (a real, visible cost arbitrage is already captured — name the distributors) + added **G7 tailwind-not-headwind** check (a market shrinking on a policy basis = negative why-now) + extended the incumbent-naming precondition to distributors/wholesalers. | Operator opened the aperture beyond SaaS. The dive proved going physical doesn't escape incumbents — the Korea→Guam arbitrage was owned by Pacific Grocers et al., and intl-student housing was owned layer-by-layer with an inverted why-now. The framework's core (name incumbents, check why-now direction/durability, price edge honestly) holds across SaaS AND physical. |
+| **v2.7** | May 31 2026 | **Cycle 28 MODE-CASH generation (AXIS C+A+F).** 3 ideas (VASP surveillance / KR financial-ad review / Japan FI accountability) — all KILLED T2. Added **L13 (counterparty-owned moat):** a benchmark/approval-corpus data byproduct is void if the regulator/association you'd benchmark against already owns that data natively + can systematize it. Generalized **G7** headwind to regulated-ENTITY-COUNT shrink (not just demand). | The cycle's real output is L13: CASH-C2's "what-the-협회-approves" moat was natively held by KOFIA/은행연합회 (the latter building its own AI 광고심의 platform) — a moat owned by the counterparty is no moat. Also sharpened the board's self-knowledge: CASH-A2 + CASH-C2 were ON KR-FI ground yet died to named KR incumbents (옥타솔루션/코그넷나인) → KR-FI ground is necessary, not sufficient; the only defensible whitespace is the narrow 책무구조도 accountability niche the board already holds. 3 generate-cycles since reset = 0 survivors → BUILD QUOTA says VALIDATE, don't generate #29. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -736,6 +821,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 - Cycle-18 desk observation (to be tested by buyers): we now have 3 surviving FI-accountability ideas and 0 buyer signals → **the bottleneck is VALIDATION, not generation.** Supply of ideas is no longer the constraint.
 - Cycle-26 desk observation (to be tested by buyers): the first off-edge AXIS-F dive produced 0 survivors (all T2 to swarms), while the on-edge KR-FI engine remains the board's best shape but is still **0/3 buyer signals.** Reconfirms cycle-18: idea supply — even NEW-FIELD supply — is not the constraint; **buyer contact is.** Generation (on- or off-edge) should yield to VALIDATION until LEAD-1/CASH-D1 get real signals.
 - Cycle-27 desk observation: opening to PHYSICAL / any-idea (operator) also produced 0 survivors (Guam + intl-student housing, both T2). ~10 straight off-edge T2 kills across SaaS + physical. The pattern is now overwhelming — **the constraint has never been idea type or idea supply; it is buyer contact for the on-edge KR-FI engine.** Next action should be VALIDATION, not a Cycle 28 generation, absent a new operator directive.
+- Cycle-28 desk observation: a fresh MODE-CASH trio (AXIS C+A+F) ALSO produced 0 survivors (~13 straight T2). The new datum is that even ON KR-FI ground (VASP, ad-review) ideas die to NAMED KR incumbents — so it is not merely "off-edge" that kills; it is that every KR-FI wedge except the narrow 책무구조도 accountability niche is already taken. This *strengthens* the conclusion: the board already holds the one defensible KR-FI slice, and its only gap is buyer signal. **Generation is exhausted as a lever; the next cycle must be VALIDATION (send the Cycle-19 messages), not Cycle 29 generation.**
 
 ---
 
@@ -758,5 +844,6 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 10. *(added v2.3, cycle 24)* **Why-now must be DURABLE.** An idea whose whole model rests on ONE regulation that can be repealed/paused/rewritten is a single-point-of-failure (kill-type T7); require a 2nd, market-driven catalyst alongside any regulatory one. **Precedents:** EPA Methane Charge (CRA-repealed Mar 2025), ACR orphaned-well methodology (paused for 2026 rewrite), FSMA-204 (deadline slipped) — all would pass a naive "why-now + TAM" screen and die to a policy reversal.
 11. *(added v2.3, cycle 24)* **Verify the market TRANSACTS TODAY** and that buyer-pool × ACV clears the MODE ceiling as a REAL number before any PASS. Don't bet on a market that hasn't started transacting (SGMA groundwater trading: free public incumbent + market not actually trading), and don't mistake a sub-scale SERVICES market for a big SOFTWARE market (a digital logbook is a feature, not a vertical — own where money MOVES).
 12. *(added v2.4, cycle 25)* **Edge is a DISCOUNT, not an entry ticket.** The founders' network/assets lower the cost of winning where they apply, but a NEW FIELD is open if the wedge justifies BUILDING the moat and EARNING the channel. Price the field-entry tax honestly (§3b higher bar, lower execution score, possible fund/hire/park) — don't kill for being off the home turf. **Corollary:** never let "it's not in our network" do the killing that an incumbent search, a ceiling check, or a why-now check should be doing.
+13. *(added v2.7, cycle 28)* **A data-byproduct moat is void if the COUNTERPARTY already owns the data.** A "what-the-regulator/association-accepts" benchmark or approval-corpus is only a moat if no existing counterparty holds it natively. If the authority you'd benchmark against already owns the approve/reject data and can systematize it (KOFIA runs 광고심사시스템; 은행연합회 built its own AI 광고심의 platform), the moat belongs to THEM — you cannot accrue a dataset the rejecting authority already holds. **Distinct from L4** (scale-aggregation, owned by 캐시노트-type incumbents) and **L7** (seed≠moat): here the data is structurally the counterparty's. Before claiming any benchmark/byproduct moat, verify the regulator/association isn't already building or holding the system.
 
 **🔴 REJECTED LAW (logged so it is never re-adopted, v2.3):** *"Conflicted incumbents won't build a tool that cannibalizes their revenue, so the space stays open."* Web-falsified in cycle 24 — testing labs (Battelle, Eurofins) actively SELL tiered screening to REDUCE testing, and this was the load-bearing assumption under a "survivor" (PFAS triage) that was actually dead. A conflict-of-interest assumption is NOT a moat; verify by product-name search, never assume.
