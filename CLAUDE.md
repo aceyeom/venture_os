@@ -20,6 +20,13 @@
 ### (PARK-till-capacity or fund/hire), not auto-kill. Trade-off kept honest: an OFF-EDGE idea must clear a
 ### HIGHER market+moat+why-now bar (§3b) to offset lost home-field advantage. ALL v2.3 incumbent/catalyst/
 ### market-reality discipline is retained — we loosened WHO can play, not the rigor of the gauntlet.
+### v2.5 changelog (cycle 26): first AXIS-F new-field dive (DORA · NIS2 · FuelEU-Maritime) — ALL 3 KILLED on T2
+### (funded swarms already present; DORA roll-up Diligent→3rdRisk underway). Lesson: a VISIBLE + DURABLE regulatory
+### why-now in a big Western market is a SWARM MAGNET — it draws a funded compliance-SaaS swarm fastest exactly
+### where the founders have NO edge. Sharpened L1 (swarm-magnet corollary) + added a SWARM-COUNT pre-check to §3b/
+### AXIS-F (if ≥~5 funded named vendors OR a roll-up has begun, off-edge entry is T2-dead — require an earned edge
+### the swarm can't replicate, or skip the deep dive). Calibration confirms v2.4 was the right knob: relaxation let
+### us LOOK at new fields; the gauntlet still killed them on incumbents, not on edge.
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -115,6 +122,12 @@ on-edge idea would need; (2) G6 ceiling should sit comfortably in MODE-MOAT terr
 pays for the field-entry tax); (3) G7 why-now must be strong AND durable; (4) name the EARNED-EDGE plan explicitly
 (what moat we build, what channel we earn, who we hire/partner with). On-edge ideas keep the lighter bar — edge is the
 discount, not the entry ticket.
+**SWARM-COUNT PRE-CHECK (added v2.5, cycle 26 — a fast off-edge pre-filter, run BEFORE the deep dive):** for any
+OFF-EDGE regulatory/why-now idea, first count the funded, NAMED incumbents on the exact wedge. If ≥~5 funded vendors
+already ship it OR a roll-up/M&A has begun (e.g., DORA: 15+ vendors + Diligent→3rdRisk), the wedge is T2-dead for a
+cold entrant — STOP, log T2, don't spend the deep-dive. The only thing that reopens it is an EARNED edge the swarm
+structurally can't replicate fast (a proprietary dataset, a regulator/agency-accepted standard, a channel/liability
+entity). "Lots of funded vendors + a visible durable why-now" is the L1 swarm, observed — not whitespace.
 
 ANTI-GAMING CHECK (mandatory after any segment-narrowing): "Does the narrowed segment that saved G4
 still pass G6 (ceiling) ON ITS OWN?" If narrowing to dodge competitors breaks the ceiling, the idea is
@@ -186,7 +199,13 @@ CROSS-IDEA SYNTHESIS every 3-4 ideas: same-buyer? same-moat-shape? convergence? 
 L1 build the accountability layer, not the commodity primitive — and note (refined v2.3) a regulatory why-now
   reliably spawns a HORIZONTAL compliance-SaaS swarm within ~18 months that commoditizes the form-filling/reporting
   layer FIRST; a survivor must sit at a layer the swarm structurally CAN'T occupy (liability-bearing judgment,
-  cross-client data byproduct, regulator-accepted standard) · L2 loud pain in a mature market = served ·
+  cross-client data byproduct, regulator-accepted standard). **SWARM-MAGNET corollary (v2.5, cycle 26): the swarm is
+  BIGGEST and FASTEST exactly where the why-now is most VISIBLE and the market is largest/English-speaking (EU/US) —
+  DORA had 15+ funded vendors + a roll-up inside its first year; NIS2 + FuelEU same. So a VISIBLE durable regulatory
+  why-now on a board where we have NO edge is the worst hunting ground, not the best: the discount (edge) is the whole
+  game precisely because the wedge is commoditized everywhere we're cold. Where money MOVES is the home turf the swarm
+  hasn't reached or where we hold the liability entity / channel / data it can't quickly replicate.** · L2 loud pain
+  in a mature market = served ·
 L3 warm channel ≠ winnable without buildable product · L4 durable moat = liability-entity + data-byproduct-
 of-a-regulated-SERVICE (customer-handed/siloed, NOT scale-aggregated — refined v2.1) · L5 own the unglamorous
 workflow regulation creates, not the headline tool · L6 no teeth/grace
@@ -222,7 +241,16 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 25 — May 30 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 26 — May 31 2026; full detail in LEDGER.md)
+🧭 CYCLE 26 = FIRST AXIS-F NEW-FIELD DIVE (operator: "run new verticals on the relaxed framework"). Generated 3
+   off-edge candidates that leverage the founders' repeatable SHAPE (regulator-ready accountability/evidence + cross-
+   client benchmark) in new geographies, web-gated each with the §3 incumbent-naming precondition. **ALL 3 KILLED on
+   T2** — DORA (EU FI ICT-risk; 15+ vendors + Diligent→3rdRisk roll-up), NIS2 (EU mgmt-accountability; Vanta/DataGuard/
+   Formalize swarm), FuelEU-Maritime (OceanScore/BetterSea own pooling + proprietary indices). PARK-4 (music) re-gated
+   under v2.4 → stays PARK (fails §3b on incumbent-gap + thin ceiling, NOT on edge). Net: 0 survivors, but a clean
+   self-improvement — OS → v2.5 (L1 swarm-magnet corollary + §3b SWARM-COUNT pre-check). Confirms v2.4 was the right
+   knob: we LOOKED at new fields freely; the gauntlet killed them on incumbents, not geography. DORA/NIS2 are the EU
+   mirror of the board's OWN KR-FI engine — same shape, edge stripped, swarm-first → on-edge KR version dominates.
 🔓 CYCLE 25 = FRAMEWORK RELAXATION (operator directive: "too rigid — don't only limit to the founders' direct
    networks; we'll enter new fields"). OS → v2.4. Edge demoted from a HARD GATE to an ACCELERANT + scoring weight:
    G0 foreigner-proof → winnable-in-field; G2 accepts BUILDABLE moats; G5 accepts an EARNED/cold channel; G8/T6

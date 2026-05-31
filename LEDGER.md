@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 30, 2026 | **OS version:** 2.4
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 31, 2026 | **OS version:** 2.5
 
 ---
 
@@ -14,10 +14,11 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        FRAMEWORK RELAXATION (operator directive) — edge demoted from hard gate to accelerant; OS → v2.4
-AXIS:        n/a (meta) — AXIS-F (new-field) now available for future generation
-CYCLE #:     25  (G0/G2/G5/G8 relaxed; §3b off-edge bar + L12 added; v2.3 incumbent/market rigor retained)
+MODE:        MODE-MOAT — first AXIS-F new-field dive (operator: "run new verticals on the relaxed framework")
+AXIS:        F (new-field, off home turf) — DORA · NIS2 · FuelEU-Maritime, all web-gated with incumbent-naming
+CYCLE #:     26  (3 off-edge candidates ALL KILLED T2; PARK-4 re-gated → stays PARK; OS → v2.5)
 DECISION DATE: 2026-07-02 (unchanged — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
+ANTI-LOOP:   operator-WAIVED for this exploratory dive (LEAD-1/CASH-D1 still 🔬 0/3 — validation remains binding)
 ```
 
 ---
@@ -72,6 +73,95 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 26 — FIRST AXIS-F NEW-FIELD DIVE + META-LOOP · May 31, 2026
+**Operator directive:** *"Based on the updated framework, run new verticals; or if any ambiguous 'maybe' signals,
+rethink them. Else keep diving. Keep updating ledger + improving yourself."* Anti-loop operator-WAIVED for this
+exploratory dive (logged; LEAD-1/CASH-D1 remain the binding near-term constraint at 0/3 signals).
+
+**Hunting thesis (AXIS-F):** play the founders' *repeatable SHAPE* — a regulator-ready accountability/evidence layer +
+cross-client "what-supervisors-accept" benchmark — in NEW geographies/fields, exactly what §3b is designed to reward.
+Every candidate got the v2.3 §3 PASS-precondition the cycle-24 batch skipped: a direct **product-NAME incumbent search**
+(run as 3 parallel web verifications) + catalyst-durability (G7/L10) + transacts-today/ceiling (G6/L11) + §3b off-edge bar.
+
+### 🔴 AXIS-F-1 · DORA ICT Third-Party-Risk / Operational-Resilience Evidence Layer (EU FIs) — KILLED (→ K22)
+**One-sentence (off-edge):** mid-tier EU financial entities under DORA (in force Jan 17 2025) pay consultants + GRC suites
+to maintain the Register of Information + incident classification + resilience evidence; we'd run it as a continuous
+regulator-ready evidence layer + a cross-client "what NCAs accept" benchmark; MODE-MOAT.
+**Why-now (DURABLE — passes G7/L10):** DORA in force + Register of Information (first collection Apr 30 2025) + TLPT RTS
+(Feb 2025) + first Critical-ICT-Provider designations (Nov 18 2025); 2nd market catalyst = CrowdStrike outage (~$1.15B
+banking-sector loss) → board-level concentration-risk driver. NOT a T7 kill. Watch-risk: EU Digital Omnibus "report-once"
+portal could absorb the incident-reporting slice.
+**Incumbent search (FALSIFIES whitespace — full L1 swarm):** 15+ named products — DORA-native (Vendorica, Copla, 3rdRisk,
+RISMA, doraregister.io), TPRM (ProcessUnity, Panorays "one-click RoI"), enterprise GRC (OneTrust "two-click RoI",
+ServiceNow, Archer, MetricStream), continuous-evidence (Vanta ships a DORA product — *our* differentiator is *their* core
+motion). **Roll-up already underway: Diligent acquired 3rdRisk (Jan 14 2026).** TAM clears $30M arithmetically (22,000+
+entities × €30-100K) so NOT T4 — the binding constraint is competitive density + zero founder edge.
+**Verdict: 🔴 KILL — T2 (incumbent-owns-wedge), the live L1 swarm; §3b off-edge bar NOT met (wedge identical to
+incumbents', no EU FI channel/liability entity). Surviving sliver (cross-client supervisor-acceptance benchmark; ESA
+dry-run: only 6.5% of registers passed all checks) is a cold-start data moat incumbents are better placed to build →
+PARK-as-pattern only. NOTE: this is the EXACT EU mirror of the board's on-edge KR 책무구조도 engine — same shape, edge
+stripped, swarm-first → the KR version dominates.**
+
+### 🔴 AXIS-F-2 · NIS2 Management-Accountability Evidence Layer (EU) — KILLED (→ K23)
+**One-sentence (off-edge):** organizations in NIS2 scope must have senior management *approve/oversee* cyber risk measures
+(personal liability, non-delegable) + report incidents (24h/72h/1-month); we'd sell the board-evidence + reporting workflow
++ a "what-authorities-accept" benchmark; MODE-MOAT.
+**Why-now (DURABLE but purchase-trigger SOFT):** transposed into 21/27 national laws by Mar 2026 (no single-policy-of-
+failure → not T7); 2nd catalyst = ransomware +52% YoY + insurer pressure (L10 satisfied). BUT enforcement hasn't fired
+(no major fines as of Apr 2026; GDPR analogue → fines lag 12-24mo) → near-term software-WTP for a *liability-evidence* SKU
+is soft (L6 pattern).
+**Incumbent search (FALSIFIES whitespace — swarm):** the management-accountability/executive-attestation angle is
+*explicitly marketed* by Vanta (NIS2 product), Drata, DataGuard, Formalize, OneTrust, 6clicks + a dozen EU-native GRC
+tools. Verbatim "document management approvals, track leadership training, board-ready oversight reports."
+**Transacts-today/TAM:** 160,000+ in-scope entities BUT fragmented across 21 jurisdictions + sectors + languages; spend
+flows to broad GRC platforms (NIS2 = one framework among many), not a standalone liability SKU → low-ACV, distribution-
+nightmare.
+**Verdict: 🔴 KILL — T2 (incumbent-owns-wedge) + T4 (standalone = feature, not a $30M vertical) + T5 (fragmented low-ACV,
+no founder channel; §3b off-edge bar fails — wedge not sharper than incumbents'). Same EU-mirror finding as DORA.**
+
+### 🔴 AXIS-F-3 · FuelEU Maritime / EU-ETS Compliance-Balance & Penalty-Liability Platform — KILLED (→ K24)
+**One-sentence (far-field test):** shipping operators under FuelEU Maritime (in force Jan 1 2025) + EU-ETS-maritime phase-in
+must track GHG-intensity compliance balances, optimize pooling/banking/borrowing, and manage penalty + EUA-surrender
+liability; we'd run the compliance-balance + neutral pooling-marketplace + liability layer; MODE-MOAT.
+**Why-now (STRONG/DURABLE — passes G7/L10):** FuelEU penalty €2,400/t deficit + pooling/banking/borrowing confirmed; EU-ETS
+maritime 40→70→100% phase-in; both already transacting (~€1.3B penalties accruing for 2025). 2nd catalyst (IMO Net-Zero
+Framework) WEAKER — approved MEPC 83 but adjourned Oct 2025, not yet binding. Low repeal risk (Omnibus I hit CSRD, not
+FuelEU/ETS).
+**Incumbent search (FALSIFIES whitespace — saturated 8-deep):** the exact wedge is the FLAGSHIP of OceanScore (Compliance
+Manager + Pooling Marketplace + OPX index; 2,500 vessels; €5M Series A Sep 2024) and BetterSea (Pooling Marketplace + FuelEU
+Index; 5,000 vessels), with ZeroNorth (EUA purchase via Vitol), Gasum, STX, Navatom on the liability/pooling flank. The
+"neutral pooling marketplace" sliver is the MOST-occupied part + already has proprietary indices (first-mover data network).
+**Transacts-today/TAM:** ~13,000 vessels in scope, "9 of 10 already using pooling" (May 2026) — transacts today, YES, but
+software ACV is modest and value flows to fuel/EUA TRADERS (Vitol/STX/Gasum), not SaaS (marketplaces run 0-fee to win data).
+**Verdict: 🔴 KILL — T2 (incumbent-owns-wedge) + T8 (value-capture-mismatch: money moves through trading, not software) +
+T4 (pure-software slice doesn't clear $30M, split 8 ways). §3b off-edge bar fails on every axis except why-now — and L7:
+why-now is not a moat. Clean live confirmation of the L1 swarm-magnet.**
+
+### 🟡 PARK-4 (music-backed credit) — RE-GATED under v2.4, stays PARK
+The genuine "maybe." Under v2.4 off-edge is no longer a blocker, so re-gated honestly: it fails **§3b** because the
+incumbent gap is NOT wide (Citrin/Massarsky + Shot Tower/RedBrick serve lenders; KBRA *requires* third-party valuation;
+IRIS pitches investors) and the MODE-MOAT ceiling is thin (few-dozen buyers). Stays **PARK on the market**, not on edge.
+Revive-trigger unchanged. No status change.
+
+### ⚙️ META-LOOP — self-improvement (hit-rate audit @ ~24 ideas + new calibration) → OS v2.5
+- **HIT-RATE AUDIT:** across K19–K24, **T2 (incumbent-owns-wedge) did 100% of the killing.** The v2.3 §3 incumbent-naming
+  precondition is the load-bearing gate — it caught every off-edge "empty middle" claim. G7-durability and G6-transacts-
+  today did NOT fire as kills this cycle (all 3 ideas PASSED both) → not dead weight, just not the binding constraint when
+  the swarm is the killer. No gate proved wrong; no false-negative surfaced.
+- **NEW PATTERN (the cycle's real output):** a **VISIBLE + DURABLE regulatory why-now in a big Western market is a SWARM
+  MAGNET** — DORA drew 15+ funded vendors + a roll-up inside year one; NIS2 + FuelEU the same. The swarm is biggest exactly
+  where the founders have NO edge → off-edge regulatory plays in big visible markets are the WORST AXIS-F ground.
+- **APPLIED (v2.5):** sharpened **L1** (swarm-magnet corollary) + added a **SWARM-COUNT pre-check to §3b/AXIS-F** (≥~5 funded
+  named vendors OR a roll-up begun → off-edge entry is T2-dead; require an earned edge the swarm can't replicate, or skip the
+  deep dive — a fast pre-filter that would've saved this cycle's three deep dives).
+- **STRATEGIC confirmation:** the relaxation (v2.4) was the RIGHT knob — it let us look at new fields freely, and the gauntlet
+  still killed them on **incumbents, not geography.** And DORA/NIS2 being the EU mirror of the board's own KR-FI engine
+  empirically proves L12: when an off-edge idea is the SAME SHAPE as an on-edge idea you already hold, the on-edge version
+  (edge attached, swarm not yet arrived) dominates. **Action: stop hunting the FI-accountability shape off-edge; the value is
+  the KR home-field version — VALIDATE it (LEAD-1/CASH-D1 still 0/3, the binding constraint).**
 
 ---
 
@@ -513,8 +603,11 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | K19 | PFAS exposure-triage for US manufacturers (off-framework batch) | T2/T1 | Assent (550+ cust)/Source Intelligence/Certivo/Sphere/CDX/EcoPulse own "predict what to test"; cheap total-fluorine pre-screen = commodity substitute; also fails G0/G2/G5/G8 (cycle 24) |
 | K20 | Multi-RTO interconnection deposit/penalty exposure (off-framework batch) | T2 | Pearl Street/Enverus (Interconnect®), Nira, GridUnity already track Order-2023 deposits/obligations; thin-layer feature; off-edge G0/G2/G5/G8 (cycle 24) |
 | K21 | CAR-T cold-chain excursion-disposition desk (off-framework batch) | T2/T3/T4 | Sensitech Lynx FacTOR (Mar 2025) does it; Berlinger/Cryoport adjacent; Annex 16 makes QP disposition non-delegable; off-edge G0/G2/G5/G8 (cycle 24) |
+| K22 | DORA ICT-risk / resilience evidence layer (EU FIs; AXIS-F) | T2 | 15+ named vendors (Vendorica/Copla/ProcessUnity/Panorays/OneTrust/ServiceNow/Archer/Vanta) + Diligent→3rdRisk roll-up Jan 2026; live L1 swarm; EU mirror of on-edge KR engine, edge stripped (cycle 26) |
+| K23 | NIS2 management-accountability evidence layer (EU; AXIS-F) | T2/T4/T5 | Vanta/Drata/DataGuard/Formalize/OneTrust/6clicks already market the board-evidence wedge; fragmented 160k-entity low-ACV swarm; enforcement not yet fired (cycle 26) |
+| K24 | FuelEU Maritime / EU-ETS compliance-balance & pooling (AXIS-F) | T2/T8/T4 | OceanScore (2,500 vessels, €5M A) + BetterSea (5,000 vessels) own pooling marketplace + proprietary indices; value flows to fuel/EUA traders not SaaS; durable why-now ≠ moat (cycle 26) |
 
-*(Music-backed-credit verification from the same batch → PARK-4, not killed — one narrow surviving angle; see Active Ideas.)*
+*(Music-backed-credit (batch) → PARK-4, re-gated under v2.4, stays PARK — see Active Ideas. DORA/NIS2/FuelEU surviving slivers logged as parked patterns, not standalone ventures.)*
 
 ---
 
@@ -536,6 +629,8 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | Data-moat refinement (cycle 20) | DATA-C2 died to 캐시노트 (data-SCALE incumbent); DATA-C1's data survives because the SERVICE generates it per-FI | Defensible founder data = byproduct of a regulated SERVICE (customer-handed, siloed), NOT data you must aggregate at scale. → L4 refined, OS v2.1. |
 | Off-edge intake (cycle 24, **revised cycle 25**) | 4 externally-generated "survivors" (US PFAS/grid/music/CAR-T) were off the home edge *and* all 4 were incumbent-killed once a real product-name search was run | **Revised under v2.4:** off-edge is no longer the kill reason (we WILL enter new fields) — the durable kill was **incumbents (T2)**. Lesson kept: run the incumbent/product-name search FIRST; let edge be a scored cost (§3b), not the disqualifier. Don't import generic-screen "survivors" un-gated — but don't reject them for geography either. |
 | Whitespace-search discipline (cycle 24) | Every "empty middle / nobody serves this" claim in the batch was falsified by a single product-NAME search (Assent, Enverus, Citrin, Sensitech) | "Empty" = "search not finished." Hard PASS-precondition added to §3: name ≥3 incumbents before any survivor verdict. |
+| Swarm-magnet (cycle 26) | All 3 AXIS-F off-edge regulatory ideas (DORA/NIS2/FuelEU) died T2 to funded swarms; DORA had 15+ vendors + a roll-up in year one | A visible + durable regulatory why-now in a big Western market draws the swarm FASTEST exactly where we have no edge. → L1 swarm-magnet corollary + §3b SWARM-COUNT pre-check (v2.5). Off-edge big-market regulation = worst AXIS-F ground. |
+| Same-shape-edge-stripped (cycle 26) | DORA & NIS2 are the literal EU mirror of the board's on-edge KR-FI accountability engine — same shape, but swarm-first + zero founder edge | Empirically proves L12: when an off-edge idea is the SAME SHAPE as an on-edge idea you hold, the on-edge version (edge attached, swarm not yet there) dominates. Stop hunting the FI-accountability shape off-edge; VALIDATE the KR home version. |
 
 ---
 
@@ -547,6 +642,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 - [ ] **AXIS-C:** what service could Ace's stack run that generates proprietary KR financial data nobody else sells? (partially answered by MOAT-D1 benchmark — revisit)
 - [ ] **AXIS-D (deferred SKU #3):** gate AML/STR-CTR reg-reporting automation for the same mid-tier FI buyer — watch for T2 (NICE Actimize / 한국NICE incumbents)
 - [ ] **AXIS-E (standing):** monitor for any KR regulator enforcement-shock → instant WTP trigger for parked compliance ideas
+- [x] **AXIS-F (DONE cycle 26):** first off-edge new-field dive — DORA / NIS2 / FuelEU-Maritime, all KILLED T2 (funded swarms). Lesson: visible big-market regulatory why-now = swarm magnet (L1 corollary). Future AXIS-F must bring an EARNED edge the swarm can't replicate, or pass the §3b SWARM-COUNT pre-check first. **Off-edge supply is not the constraint — validation is.**
 
 ---
 
@@ -563,6 +659,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | **v2.3** | May 30 2026 | **Cycle 24 batch intake.** Adopted only the genuine deltas from an external batch's 13 proposed rules: refined **L1** (regulatory why-now → horizontal compliance-SaaS swarm in ~18mo); added **L10** (durable why-now / no single-policy-of-failure) + kill-type **T7**; added **L11** (market-transacts-today + buyer-pool×ACV) → G6/G7 sharpened; added **§3 PASS-precondition** (name ≥3 incumbents before any PASS); added kill-type **T8** (value-capture-mismatch). | The external dives skipped the very gates that matter (G0/G2/G5/G8) and the incumbent search — their 4 "survivors" all died on web-recheck. The useful residue was a handful of universal sharpenings; most proposed rules duplicated existing OS machinery and were dropped. |
 | **REJECT (logged)** | May 30 2026 | **Rejected the batch's "conflicted-incumbents-won't-build-it" rule (AR-004).** Marked do-not-readopt. | **False-positive caught by the meta-loop:** web-falsified — Battelle/Eurofins actively sell tiered screening to REDUCE testing. This assumption was load-bearing under "PFAS triage," which was actually dead. A conflict-of-interest hope is not a moat. |
 | **v2.4** | May 30 2026 | **Cycle 25 framework relaxation (operator directive).** Demoted the founders'-edge gates from hard kills to accelerants + scoring weights: G0 → winnable-in-field; G2 → owned-OR-buildable moat; G5 → warm-OR-earned channel; G8/T6 → sequencing (PARK-till-capacity/fund/hire). Added §3b off-edge higher bar, AXIS-F, L12, EXECUTION off-edge note. | Operator: "too rigid — we're willing to enter new fields, don't only limit to direct networks." The edge map was over-filtering on geography/network before the real gates (incumbents/ceiling/why-now) ran. Loosened WHO can play while retaining ALL v2.3 market rigor + a higher bar so off-edge ideas still earn their entry. |
+| **v2.5** | May 31 2026 | **Cycle 26 AXIS-F dive + calibration.** First new-field dive (DORA/NIS2/FuelEU) — all 3 KILLED T2. HIT-RATE audit (~24 ideas): T2 did 100% of recent killing; §3 incumbent-naming precondition is load-bearing; G6/G7 didn't bind (passed). Sharpened **L1** (swarm-magnet corollary) + added **§3b SWARM-COUNT pre-check** (≥~5 funded vendors OR a roll-up → off-edge T2-dead; require an earned edge or skip the deep dive). | Evidence: a visible + durable regulatory why-now in a big Western market draws a funded swarm FASTEST exactly where we lack edge. The v2.4 relaxation was validated as the right knob (we looked freely; gauntlet killed on incumbents, not geography). DORA/NIS2 = EU mirror of the on-edge KR engine → confirms L12; the home-field version dominates. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -576,6 +673,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 **Calibration notes** *(where buyers disagreed with desk research — trust buyers):*
 - [ ] None yet (no buyer conversations held — LEAD-1/CASH-D1 still 0/3 signals; this is the binding constraint, not idea supply)
 - Cycle-18 desk observation (to be tested by buyers): we now have 3 surviving FI-accountability ideas and 0 buyer signals → **the bottleneck is VALIDATION, not generation.** Supply of ideas is no longer the constraint.
+- Cycle-26 desk observation (to be tested by buyers): the first off-edge AXIS-F dive produced 0 survivors (all T2 to swarms), while the on-edge KR-FI engine remains the board's best shape but is still **0/3 buyer signals.** Reconfirms cycle-18: idea supply — even NEW-FIELD supply — is not the constraint; **buyer contact is.** Generation (on- or off-edge) should yield to VALIDATION until LEAD-1/CASH-D1 get real signals.
 
 ---
 
@@ -583,7 +681,10 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 1. Build the accountability layer, not the commodity primitive — *and (refined v2.3)* a regulatory why-now reliably
    spawns a **horizontal compliance-SaaS swarm within ~18 months** that commoditizes the form-filling/reporting layer
    first; a survivor must sit where the swarm structurally can't (liability-bearing judgment, cross-client data
-   byproduct, regulator-accepted standard)
+   byproduct, regulator-accepted standard). **SWARM-MAGNET corollary (v2.5, cycle 26):** the swarm is biggest/fastest
+   exactly where the why-now is most VISIBLE and the market largest/English-speaking (EU/US) — DORA drew 15+ vendors +
+   a roll-up in year one. So a visible durable regulatory why-now on a board where we have NO edge is the *worst*
+   hunting ground; the edge is the whole game because the wedge is commoditized everywhere we're cold.
 2. Loud pain in a mature market = already served
 3. Warm channel ≠ winnable without a buildable product
 4. Durable moat = liability-bearing KR entity + data generated as a byproduct of a regulated/accountability SERVICE (customer-handed, per-FI siloed) — NOT data you must aggregate at scale (that's owned by 캐시노트-type incumbents) *(refined v2.1, cycle 20)*
