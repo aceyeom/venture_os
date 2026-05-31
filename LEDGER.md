@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 31, 2026 | **OS version:** 2.5
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 31, 2026 | **OS version:** 2.6
 
 ---
 
@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        MODE-MOAT — first AXIS-F new-field dive (operator: "run new verticals on the relaxed framework")
-AXIS:        F (new-field, off home turf) — DORA · NIS2 · FuelEU-Maritime, all web-gated with incumbent-naming
-CYCLE #:     26  (3 off-edge candidates ALL KILLED T2; PARK-4 re-gated → stays PARK; OS → v2.5)
+MODE:        CASH (physical) — operator dive: "don't be stuck on SaaS; physical or any idea; be open"
+AXIS:        F (new-field) + B (asset-pair: KR trade network × Guam) — both web-gated with incumbent-naming
+CYCLE #:     27  (2 operator-seeded ideas — Guam import + intl-student housing — BOTH KILLED T2; OS → v2.6)
 DECISION DATE: 2026-07-02 (unchanged — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ANTI-LOOP:   operator-WAIVED for this exploratory dive (LEAD-1/CASH-D1 still 🔬 0/3 — validation remains binding)
 ```
@@ -73,6 +73,61 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 27 — PHYSICAL / NON-SaaS DIVE + META-LOOP · May 31, 2026
+**Operator directive:** *"Continue the search. Keep stress-testing new ideas. (1) No need to be stuck on SaaS — physical
+or any idea; be open — Guam commodity prices are extreme (imports from California); import from Korea or grow food there?
+(2) Stress-test HARD: a tech platform for international students to secure US housing (credit-alt screening, AI lease
+translation, calendar-aligned short leases; university-office GTM; free→landlord-commission)."* Anti-loop operator-WAIVED;
+both ideas run through the full v2.5 gauntlet incl. the §3 product-NAME incumbent search (run as 2 parallel web verifications).
+
+### 🔴 IDEA-27A · Guam Korea-Food Import / Grow-Local — KILLED (→ K25)
+**One-sentence (physical, MODE-CASH, AXIS-B/F):** Guam imports ~90% of food (groceries ~28% above US avg) historically from
+the US mainland; we'd (A) IMPORT food from KOREA (cheaper foreign-flag lane, ~2,000mi vs ~6,000) using a Korean family trade
+network, or (B) GROW food locally.
+**The arbitrage is REAL — and that's why it's CAPTURED:** Jones Act "Guam Exemption" (46 USC §12111) waives US-BUILD but still
+requires US-flag/crew → mainland→Guam stays costly; Korea-origin on foreign-flag vessels avoids it, and **APL runs a weekly
+Busan→Guam transship (GSX)**. So Korea→Guam is an established lane, not whitespace.
+**Incumbent search (FALSIFIES the wedge — named):** **Pacific Grocers** (30-yr wholesaler, *explicitly* imports from Korea),
+**PDC Wholesale** (Pay-Less), **J&G Wholesale** (Town House), JJQ, IDI; retail Korean marts since 1968 (California Mart, Seoul
+Mart, San Jose Supermarket, MNF). The arbitrage is owned end-to-end at wholesale AND retail.
+**Other fails:** founder KR trade network = SEED ≠ MOAT (L7 — it's the table-stakes input every incumbent has); price premium
+modest (~28%, not 2-3x); Guam is OUTSIDE US customs territory (duty-free) → no tariff wall protects a local importer either;
+why-now is a steady-state price gap, not a catalyst (fails G7); grow-local fails on limestone soil + typhoons + capital +
+bandwidth (G6/G8). Ceiling = a low-single-digit-$M thin-margin reselling shop.
+**Verdict: 🔴 KILL — T2 (incumbents own the exact Korea-import lane) + T1 (commodity reselling, no pricing power) + T4
+(sub-scale ceiling). Grow-local additionally fails G6/G8.** First PHYSICAL idea gated — confirms L2 generalizes beyond SaaS.
+
+### 🔴 IDEA-27B · International-Student US Housing Platform — KILLED (→ K26)
+**One-sentence (off-edge US fintech/marketplace):** international students can't pass US credit checks; we'd replace it with
+bank-data/enrollment/cosigner screening + AI native-language lease translation + calendar-aligned short leases, GTM via
+university international offices (UC/USC/NYU/Columbia), free→landlord-commission.
+**Incumbent search (every layer OWNED — named):** marketplace = **Amber** ($21M raised, 1M+ listings, US), **University Living**,
+**Student.com**; credit-alt = **Nova Credit "Credit Passport"** (foreign credit history → US underwriting, FREE to landlords,
+already inside Entrata + First Advantage); guarantee = **TheGuarantors** (dedicated student cosigner-replacement product) + Leap/
+Jetty-Rhino/Insurent/LeaseLock; university channel = **Places4Students** (125+ unis) + **College Pads** (*runs NYU's portal*);
+Korean-student niche = **HeyKorean Real Estate** already serves it. AI lease translation = commodity LLM feature (T1).
+**INVERTED why-now (the damning find):** US international-student demand is CONTRACTING — new F-1 visas −35.6% (2024→25), new intl
+students −17% (Open Doors), spring-2026 enrollment −20%, ~$3B tuition loss. The catalyst points DOWN — a negative why-now, worse
+than a fragile one. TheGuarantors already writes defensively about it.
+**Business-model fails:** chicken-egg inventory with "little first-mover advantage" (sector analysts); T8 value flows to the
+guarantee premium (40-130% of a month's rent) + PMS/screening, not a thin booking commission; zero retention (students leave in
+1-4 yrs); university channel = SEED ≠ MOAT and already taken. Off-edge: no KR ground, no warm channel, no buildable moat (G0/G2/G5).
+**Verdict: 🔴 KILL — T2 (every layer owned) + T8 (value-capture mismatch) + T1 (the one gap is a commodity feature) + inverted
+why-now. Textbook L1 swarm-magnet: visible pain, English-speaking US market, zero founder edge.**
+
+### ⚙️ META-LOOP — self-improvement → OS v2.6
+- **HIT-RATE:** both ideas killed on **T2** again (now ~10 consecutive off-edge T2 kills, cycles 24-27). The §3 incumbent-naming
+  precondition remains the load-bearing gate — and this cycle proved it works for PHYSICAL markets (named the distributors).
+- **NEW (1) — L2 generalized to PHYSICAL:** a visible, durable cost ARBITRAGE in an established market is already captured, just
+  like loud SaaS pain — *the arbitrage being real is WHY incumbents run it.* Name the wholesalers/distributors, not just SaaS vendors.
+- **NEW (2) — G7 tailwind-not-headwind:** a why-now whose underlying trend SHRINKS the buyer pool (intl-student visas −17-35% YoY)
+  is a NEGATIVE why-now, worse than a fragile/repealable one. Added to G7.
+- **STRATEGIC:** opening to physical/any-idea (operator) did NOT change the outcome — off-edge dies on incumbents whether SaaS or
+  physical. The repeatable, swarm-free edge remains the KR-FI home turf. Generation (SaaS, physical, on- or off-edge) is not the
+  constraint; **buyer contact for LEAD-1/CASH-D1 (0/3) is.** No new ideas should outrank sending the Cycle-19 discovery messages.
 
 ---
 
@@ -606,6 +661,8 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | K22 | DORA ICT-risk / resilience evidence layer (EU FIs; AXIS-F) | T2 | 15+ named vendors (Vendorica/Copla/ProcessUnity/Panorays/OneTrust/ServiceNow/Archer/Vanta) + Diligent→3rdRisk roll-up Jan 2026; live L1 swarm; EU mirror of on-edge KR engine, edge stripped (cycle 26) |
 | K23 | NIS2 management-accountability evidence layer (EU; AXIS-F) | T2/T4/T5 | Vanta/Drata/DataGuard/Formalize/OneTrust/6clicks already market the board-evidence wedge; fragmented 160k-entity low-ACV swarm; enforcement not yet fired (cycle 26) |
 | K24 | FuelEU Maritime / EU-ETS compliance-balance & pooling (AXIS-F) | T2/T8/T4 | OceanScore (2,500 vessels, €5M A) + BetterSea (5,000 vessels) own pooling marketplace + proprietary indices; value flows to fuel/EUA traders not SaaS; durable why-now ≠ moat (cycle 26) |
+| K25 | Guam Korea-food import / grow-local (PHYSICAL; operator-seeded) | T2/T1/T4 | Korea→Guam arbitrage REAL (foreign-flag lane, weekly APL Busan transship) but already owned by Pacific Grocers (Korea-sources)/PDC-Pay-Less/J&G + a dozen Korean marts; KR network = SEED≠MOAT; grow-local fails soil/typhoon/capital/bandwidth (cycle 27) |
+| K26 | International-student US housing platform (operator-seeded, "stress-test hard") | T2/T8/T1 | Every layer owned: Amber/University Living/Student.com + Nova Credit Credit Passport + TheGuarantors + Places4Students/College Pads (runs NYU) + HeyKorean; AI lease translation = commodity; INVERTED why-now (US intl-student demand −17-35% YoY on visa policy) (cycle 27) |
 
 *(Music-backed-credit (batch) → PARK-4, re-gated under v2.4, stays PARK — see Active Ideas. DORA/NIS2/FuelEU surviving slivers logged as parked patterns, not standalone ventures.)*
 
@@ -631,6 +688,9 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | Whitespace-search discipline (cycle 24) | Every "empty middle / nobody serves this" claim in the batch was falsified by a single product-NAME search (Assent, Enverus, Citrin, Sensitech) | "Empty" = "search not finished." Hard PASS-precondition added to §3: name ≥3 incumbents before any survivor verdict. |
 | Swarm-magnet (cycle 26) | All 3 AXIS-F off-edge regulatory ideas (DORA/NIS2/FuelEU) died T2 to funded swarms; DORA had 15+ vendors + a roll-up in year one | A visible + durable regulatory why-now in a big Western market draws the swarm FASTEST exactly where we have no edge. → L1 swarm-magnet corollary + §3b SWARM-COUNT pre-check (v2.5). Off-edge big-market regulation = worst AXIS-F ground. |
 | Same-shape-edge-stripped (cycle 26) | DORA & NIS2 are the literal EU mirror of the board's on-edge KR-FI accountability engine — same shape, but swarm-first + zero founder edge | Empirically proves L12: when an off-edge idea is the SAME SHAPE as an on-edge idea you hold, the on-edge version (edge attached, swarm not yet there) dominates. Stop hunting the FI-accountability shape off-edge; VALIDATE the KR home version. |
+| Physical ≠ exempt (cycle 27) | The Guam Korea-import arbitrage was real but already captured by named wholesalers (Pacific Grocers); intl-student housing had every layer owned | Going PHYSICAL / non-SaaS does NOT escape the incumbent problem. L2 generalized: a real, visible arbitrage is already run by someone — name the distributors. The "real arbitrage" is the bait, not the moat. |
+| Off-edge T2 streak (cycles 24-27) | ~10 consecutive off-edge ideas (SaaS US/EU + physical Guam + US fintech) ALL died on T2 incumbents; 0 survivors | This is now a strong empirical law, not anecdote: off the founders' edge, the binding killer is always incumbents. Edge (v2.4) is the discount that matters precisely because everywhere we're cold is already occupied. The board's value is the on-edge KR-FI engine — and its only gap is buyer signal, not idea supply. |
+| Inverted why-now (cycle 27) | Intl-student housing's catalyst points DOWN (visas −17-35% YoY) — a contracting buyer pool | Added G7 tailwind-not-headwind check: a why-now that shrinks the buyer pool is a NEGATIVE why-now, worse than a fragile one. Distinct from T7 (repealable) — the policy here is actively reducing demand. |
 
 ---
 
@@ -660,6 +720,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | **REJECT (logged)** | May 30 2026 | **Rejected the batch's "conflicted-incumbents-won't-build-it" rule (AR-004).** Marked do-not-readopt. | **False-positive caught by the meta-loop:** web-falsified — Battelle/Eurofins actively sell tiered screening to REDUCE testing. This assumption was load-bearing under "PFAS triage," which was actually dead. A conflict-of-interest hope is not a moat. |
 | **v2.4** | May 30 2026 | **Cycle 25 framework relaxation (operator directive).** Demoted the founders'-edge gates from hard kills to accelerants + scoring weights: G0 → winnable-in-field; G2 → owned-OR-buildable moat; G5 → warm-OR-earned channel; G8/T6 → sequencing (PARK-till-capacity/fund/hire). Added §3b off-edge higher bar, AXIS-F, L12, EXECUTION off-edge note. | Operator: "too rigid — we're willing to enter new fields, don't only limit to direct networks." The edge map was over-filtering on geography/network before the real gates (incumbents/ceiling/why-now) ran. Loosened WHO can play while retaining ALL v2.3 market rigor + a higher bar so off-edge ideas still earn their entry. |
 | **v2.5** | May 31 2026 | **Cycle 26 AXIS-F dive + calibration.** First new-field dive (DORA/NIS2/FuelEU) — all 3 KILLED T2. HIT-RATE audit (~24 ideas): T2 did 100% of recent killing; §3 incumbent-naming precondition is load-bearing; G6/G7 didn't bind (passed). Sharpened **L1** (swarm-magnet corollary) + added **§3b SWARM-COUNT pre-check** (≥~5 funded vendors OR a roll-up → off-edge T2-dead; require an earned edge or skip the deep dive). | Evidence: a visible + durable regulatory why-now in a big Western market draws a funded swarm FASTEST exactly where we lack edge. The v2.4 relaxation was validated as the right knob (we looked freely; gauntlet killed on incumbents, not geography). DORA/NIS2 = EU mirror of the on-edge KR engine → confirms L12; the home-field version dominates. |
+| **v2.6** | May 31 2026 | **Cycle 27 physical/non-SaaS dive (operator-seeded).** Guam KR-import + intl-student housing — both KILLED T2. Generalized **L2** to PHYSICAL markets (a real, visible cost arbitrage is already captured — name the distributors) + added **G7 tailwind-not-headwind** check (a market shrinking on a policy basis = negative why-now) + extended the incumbent-naming precondition to distributors/wholesalers. | Operator opened the aperture beyond SaaS. The dive proved going physical doesn't escape incumbents — the Korea→Guam arbitrage was owned by Pacific Grocers et al., and intl-student housing was owned layer-by-layer with an inverted why-now. The framework's core (name incumbents, check why-now direction/durability, price edge honestly) holds across SaaS AND physical. |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -674,6 +735,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 - [ ] None yet (no buyer conversations held — LEAD-1/CASH-D1 still 0/3 signals; this is the binding constraint, not idea supply)
 - Cycle-18 desk observation (to be tested by buyers): we now have 3 surviving FI-accountability ideas and 0 buyer signals → **the bottleneck is VALIDATION, not generation.** Supply of ideas is no longer the constraint.
 - Cycle-26 desk observation (to be tested by buyers): the first off-edge AXIS-F dive produced 0 survivors (all T2 to swarms), while the on-edge KR-FI engine remains the board's best shape but is still **0/3 buyer signals.** Reconfirms cycle-18: idea supply — even NEW-FIELD supply — is not the constraint; **buyer contact is.** Generation (on- or off-edge) should yield to VALIDATION until LEAD-1/CASH-D1 get real signals.
+- Cycle-27 desk observation: opening to PHYSICAL / any-idea (operator) also produced 0 survivors (Guam + intl-student housing, both T2). ~10 straight off-edge T2 kills across SaaS + physical. The pattern is now overwhelming — **the constraint has never been idea type or idea supply; it is buyer contact for the on-edge KR-FI engine.** Next action should be VALIDATION, not a Cycle 28 generation, absent a new operator directive.
 
 ---
 
@@ -685,7 +747,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
    exactly where the why-now is most VISIBLE and the market largest/English-speaking (EU/US) — DORA drew 15+ vendors +
    a roll-up in year one. So a visible durable regulatory why-now on a board where we have NO edge is the *worst*
    hunting ground; the edge is the whole game because the wedge is commoditized everywhere we're cold.
-2. Loud pain in a mature market = already served
+2. Loud pain — OR a visible, durable cost ARBITRAGE — in an established market = already served/captured, **SaaS or PHYSICAL** *(generalized v2.6, cycle 27)*. The arbitrage being REAL is usually WHY incumbents already run it (Guam Korea-food sourcing was owned by Pacific Grocers + a dozen marts). Verify by NAMING the distributors/wholesalers, exactly as for software.
 3. Warm channel ≠ winnable without a buildable product
 4. Durable moat = liability-bearing KR entity + data generated as a byproduct of a regulated/accountability SERVICE (customer-handed, per-FI siloed) — NOT data you must aggregate at scale (that's owned by 캐시노트-type incumbents) *(refined v2.1, cycle 20)*
 5. Own the unglamorous workflow regulation creates, not the headline tool

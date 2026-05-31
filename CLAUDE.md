@@ -27,6 +27,13 @@
 ### AXIS-F (if ≥~5 funded named vendors OR a roll-up has begun, off-edge entry is T2-dead — require an earned edge
 ### the swarm can't replicate, or skip the deep dive). Calibration confirms v2.4 was the right knob: relaxation let
 ### us LOOK at new fields; the gauntlet still killed them on incumbents, not on edge.
+### v2.6 changelog (cycle 27): operator opened the aperture to PHYSICAL / non-SaaS ideas (Guam KR-food import; intl-
+### student housing). Both KILLED on T2. Two generalizations adopted: (1) L2 now covers PHYSICAL markets — a visible,
+### durable cost ARBITRAGE in an established market is already CAPTURED (the arbitrage being real is WHY incumbents run
+### it; Guam Korea-sourcing was already owned by Pacific Grocers et al.) — name the distributors/wholesalers exactly as
+### you'd name SaaS vendors. (2) G7 why-now must be a TAILWIND, not a headwind — a market shrinking on a structural/
+### policy basis (US intl-student visas −17-35% YoY) is a NEGATIVE why-now, worse than a fragile one. Incumbent-naming
+### precondition + SWARM-COUNT pre-check apply to physical trade too. Edge-as-accelerant (v2.4) unchanged.
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -96,7 +103,9 @@ KILL ONLY IF win-conditions are ALSO absent. Then check gates in order; one fail
   writing any PASS or ledgering a survivor. If you can't name them, the whitespace search is INCOMPLETE → no
   verdict yet. Never write "no incumbent / empty middle" on the strength of a category search alone — the cycle-24
   batch ledgered 4 "empty" markets that a product-name search instantly falsified (Assent, Pearl Street/Enverus,
-  Citrin/Massarsky, Sensitech Lynx FacTOR). "Empty" almost always means "search not finished."**
+  Citrin/Massarsky, Sensitech Lynx FacTOR). "Empty" almost always means "search not finished." This applies to
+  PHYSICAL businesses too (v2.6): name the distributors/wholesalers/retailers, not just SaaS vendors (Guam: Pacific
+  Grocers, PDC/Pay-Less, J&G/Town House were all already on the Korea-import lane).**
   G0 WINNABLE-IN-FIELD (relaxed v2.4): can a 2-person team realistically win HERE? Field/geography barriers
     (language, local regulation, domain knowledge) must either FAVOR us OR be surmountable with a named plan
     (hire/partner/build). Foreign or new-field is NOT an auto-fail — an unsurmountable structural barrier IS. ·
@@ -111,7 +120,9 @@ KILL ONLY IF win-conditions are ALSO absent. Then check gates in order; one fail
   G6 ceiling (per MODE) — AND market-TRANSACTS-TODAY (buyers paying NOW, not a hoped-for future market) +
     buyer-pool × ACV clears the MODE ceiling as a REAL number (a sub-scale services market ≠ a big software market) ·
   G7 why-now catalyst — must be DURABLE: survives a single policy/regulation REVERSAL (no single-point-of-failure
-    why-now); prefer a 2nd, market-driven catalyst alongside any regulatory one ·
+    why-now); prefer a 2nd, market-driven catalyst alongside any regulatory one. AND it must be a TAILWIND, not a
+    headwind (v2.6): reject a why-now whose underlying trend SHRINKS the buyer pool (US intl-student visas −17-35% YoY =
+    a NEGATIVE why-now, worse than a fragile one) ·
   G8 BANDWIDTH/CAPACITY (relaxed v2.4): does the path-to-first-revenue fit ~10-13 hr/wk now — OR a named
     fund/hire/partner plan to reach the capacity it needs? If neither now nor buildable → PARK-till-capacity, don't kill.
 
@@ -204,8 +215,10 @@ L1 build the accountability layer, not the commodity primitive — and note (ref
   DORA had 15+ funded vendors + a roll-up inside its first year; NIS2 + FuelEU same. So a VISIBLE durable regulatory
   why-now on a board where we have NO edge is the worst hunting ground, not the best: the discount (edge) is the whole
   game precisely because the wedge is commoditized everywhere we're cold. Where money MOVES is the home turf the swarm
-  hasn't reached or where we hold the liability entity / channel / data it can't quickly replicate.** · L2 loud pain
-  in a mature market = served ·
+  hasn't reached or where we hold the liability entity / channel / data it can't quickly replicate.** · L2 loud pain —
+  OR a visible, durable cost ARBITRAGE — in an established market = already served/captured, SaaS **or PHYSICAL**
+  (generalized v2.6): the arbitrage being REAL is usually WHY incumbents already run it (Guam Korea-food sourcing was
+  owned by Pacific Grocers + a dozen marts); verify by NAMING the distributors/wholesalers, exactly as for software ·
 L3 warm channel ≠ winnable without buildable product · L4 durable moat = liability-entity + data-byproduct-
 of-a-regulated-SERVICE (customer-handed/siloed, NOT scale-aggregated — refined v2.1) · L5 own the unglamorous
 workflow regulation creates, not the headline tool · L6 no teeth/grace
@@ -241,7 +254,17 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 26 — May 31 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 27 — May 31 2026; full detail in LEDGER.md)
+🧭 CYCLE 27 = PHYSICAL / NON-SaaS DIVE (operator: "don't be stuck on SaaS — physical or any idea; be open"). Stress-
+   tested 2 operator-seeded ideas: (1) Guam Korea-food IMPORT / grow-local — 🔴 KILL T2/T1/T4 (Korea→Guam arbitrage is
+   REAL but already captured by Pacific Grocers + PDC/Pay-Less + J&G + a dozen Korean marts; founder KR network = SEED
+   not MOAT per L7; grow-local fails soil/typhoon/capital/bandwidth). (2) Intl-student US housing platform — 🔴 KILL
+   T2/T8/T1 (every layer owned: Amber/University Living/Student.com marketplace, Nova Credit credit-alt, TheGuarantors
+   guarantee, Places4Students/College Pads university channel, HeyKorean for Korean niche) + INVERTED why-now (US
+   intl-student demand −17-35% YoY on visa policy). OS → v2.6: generalized L2 to PHYSICAL arbitrage, added G7 tailwind-
+   not-headwind check, extended incumbent-naming to distributors. Pattern across cycles 24-27: EVERY off-edge idea
+   (SaaS or physical) dies on T2 incumbents; the on-edge KR-FI engine stays best-but-unvalidated. VALIDATION is still
+   the binding constraint.
 🧭 CYCLE 26 = FIRST AXIS-F NEW-FIELD DIVE (operator: "run new verticals on the relaxed framework"). Generated 3
    off-edge candidates that leverage the founders' repeatable SHAPE (regulator-ready accountability/evidence + cross-
    client benchmark) in new geographies, web-gated each with the §3 incumbent-naming precondition. **ALL 3 KILLED on
