@@ -62,7 +62,8 @@ a buyer-validated BUILD PLAN. Killing is a means, not the product.
 ═══════════════════════════════════════════════════════════════
 Operator picks ONE mode per cycle. Gates/weights flex with it. Both are valid wins.
 - MODE-CASH: optimize time-to-revenue + margin + bandwidth-fit. Tolerate a weak moat. Ceiling gate
-  LOWERED (any profitable business qualifies). Target: revenue in <90 days. (Serves goal #2.)
+  LOWERED (any profitable business qualifies). Target: revenue in <300 days. (Serves goal #2.) *(operator-recalibrated
+  v2.8, cycle 29: <90d was too short — first revenue within <300 days.)*
 - MODE-MOAT: optimize defensibility + ceiling + data-byproduct. Tolerate slow + unproven. Ceiling gate
   RAISED ($30M+). Target: a venture. (Serves goal #3.)
 Default this season: run BOTH in parallel — one MODE-CASH idea and one MODE-MOAT idea per cycle, so the
@@ -84,8 +85,8 @@ EARNED EDGE (the new-field path): in a field where we start cold, edge is BUILT 
   domain operator. A buildable moat counts (G2); a credible earned-distribution plan counts (G5).
 BUILD CAPACITY: Ace solo-ships full-stack+AI; David sells/presents/writes; capital is reachable via David's network
   (fundraise possible — adds time) and we can hire/partner for a domain we lack.
-**BANDWIDTH REALITY (a SEQUENCING constraint, not an auto-kill — softened v2.4): Ace ~10-13 async hrs/wk (military
-service until discharge); David part-time.** An idea whose path-to-first-revenue needs more than this is NOT killed —
+**BANDWIDTH REALITY (a SEQUENCING constraint, not an auto-kill — softened v2.4; recalibrated v2.8 cycle 29): Ace
+~20-25 hrs/wk (operator-updated from 10-13); David part-time.** An idea whose path-to-first-revenue needs more than this is NOT killed —
 it is PARKED-till-capacity (discharge) OR gated behind a fund/hire plan, and scored on speed accordingly. Only kill
 on bandwidth if there is NO buildable path to capacity at all.
 
@@ -132,7 +133,7 @@ KILL ONLY IF win-conditions are ALSO absent. Then check gates in order; one fail
     why-now); prefer a 2nd, market-driven catalyst alongside any regulatory one. AND it must be a TAILWIND, not a
     headwind (v2.6): reject a why-now whose underlying trend SHRINKS the buyer pool (US intl-student visas −17-35% YoY =
     a NEGATIVE why-now, worse than a fragile one) ·
-  G8 BANDWIDTH/CAPACITY (relaxed v2.4): does the path-to-first-revenue fit ~10-13 hr/wk now — OR a named
+  G8 BANDWIDTH/CAPACITY (relaxed v2.4; recalibrated v2.8 cycle 29): does the path-to-first-revenue fit ~20-25 hr/wk now — OR a named
     fund/hire/partner plan to reach the capacity it needs? If neither now nor buildable → PARK-till-capacity, don't kill.
 
 **§3b OFF-EDGE HIGHER BAR (added v2.4):** when an idea is OFF the founders' home edge (new field/geography, moat must
