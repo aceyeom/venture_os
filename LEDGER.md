@@ -1,6 +1,6 @@
 # VENTURE LEDGER
 > Living state of the Founder's OS. Updated every cycle. Read alongside `CLAUDE.md`.
-> **Team:** Ace Yeom · David Mun | **Last updated:** May 31, 2026 | **OS version:** 2.7
+> **Team:** Ace Yeom · David Mun | **Last updated:** May 31, 2026 | **OS version:** 2.8
 
 ---
 
@@ -14,9 +14,9 @@ Goal = COMMIT to the best available idea by the decision date. Killing is a mean
 
 ## CURRENT MODE
 ```
-MODE:        CASH (operator-selected) — fast time-to-revenue, recurring, bandwidth-fit, weak moat tolerated
-AXIS:        C (data-byproduct) + A (regulation) + F (new-field) — operator-selected; all web-gated, incumbent-named
-CYCLE #:     28  (3 generated ideas — VASP surveillance + KR financial-ad review + Japan FI accountability — ALL KILLED T2; OS → v2.7)
+MODE:        CASH (operator-selected) — recalibrated v2.8: first revenue <300 days; bandwidth 20-25 hr/wk; weak moat OK
+AXIS:        cybersecurity / AI보안 / physical(세절기) / Naver — 4 operator-seeded ideas; all web-gated, incumbent-named
+CYCLE #:     29  (4 ideas — Shadow-AI DLP + FI AI-security governance + certified-destruction + Naver — ALL KILLED T2; OS → v2.8)
 DECISION DATE: 2026-07-02 (unchanged — mid-tier 책무구조도 statutory deadline; the buyer's clock IS our clock)
 ANTI-LOOP:   operator-WAIVED again (LEAD-1/CASH-D1 still 🔬 0/3 — validation remains the binding constraint)
 ```
@@ -73,6 +73,88 @@ Ran the G6 anti-gaming math on the narrowed segment *on its own*:
 - [ ] Signal 1: _________________ Date: ______
 - [ ] Signal 2: _________________ Date: ______
 - [ ] Signal 3: _________________ Date: ______
+
+---
+
+## CYCLE 29 — MODE-CASH: CYBERSECURITY / AI보안 / PHYSICAL / NAVER + META-LOOP · May 31, 2026
+**Operator directive:** *"Run it once more. Explore: cybersecurity; AI보안 솔루션 / private data / help businesses be more
+secure for AI; or physical — a 세절기-type business to securely dispose of info; maybe something for Naver. Ask me questions."*
+Routes chosen via AskUserQuestion: all 4 ideas, **MODE-CASH**. **Two operator framework recalibrations** (→ OS v2.8): MODE-CASH
+first-revenue target **<90d → <300d**; bandwidth **~10-13 → ~20-25 hr/wk**. Each idea through the full v2.7 gauntlet incl. the §3
+product-NAME incumbent search (4 parallel web verifications). **All 4 KILLED on T2.**
+
+### 🔴 CASH-29A · Shadow-AI DLP for KR enterprise (cybersecurity / AI보안) — KILLED (→ K30)
+**One-sentence:** KR firms whose staff paste 개인정보/영업비밀 into ChatGPT/Copilot have no control; we'd sell an AI-usage
+governance + DLP/redaction + audit-log layer (KR-cloud/on-prem) enforcing PIPA + AI 기본법, with 소명 evidence.
+**Incumbent search (FALSIFIES — KR-localized + global swarm):** the literal product ships from **파수 Fasoo "AI-R DLP"** (since
+Nov 2023, sold into 금융/공공), **안랩 "SecureBridge"** (Jun 2025; LLM engine detects CI/PII/SI, blocks, prompt-injection defense,
+audit log), **소만사 "WebKeeper SG/AI DLP"** (주민번호/계좌 pattern block + ChatGPT logging/playback = the 소명 angle), + SK쉴더스,
+컴트루 Sphinx AI, 지란지교 + a 10+ global swarm (WitnessAI/Nightfall/Palo Alto AI Access/Netskope/Cyberhaven/MS Purview).
+**Why-now:** AI 기본법 effective Jan 22 2026 BUT 계도기간 defers fines to ~2027 → no teeth in the <300d cash window (L6); GenAI
+adoption 85%/2026 + incidents 2.5x are real but DURABLE catalysts that summoned the swarm (L1) — they help incumbents.
+**Verdict: 🔴 KILL — T2 (≥6 named KR products + global swarm) + T1 (GenAI-DLP commoditizing into existing DLP/CASB/SSE) + T7
+(AI 기본법 fines deferred ~2027).** Bull (watch-risk): pain loud + transacting (85% adoption); a 책무구조도-style accountability-
+evidence binding shadow-AI use to a named FI executive could be a sliver — but that's a FEATURE of LEAD-1, not a new product.
+Bear (decisive): Fasoo AI-R DLP + AhnLab SecureBridge ARE the product, KR-localized, on-prem, certified (CC/GS), with the channel.
+
+### 🔴 CASH-29B · AI-security governance for KR FIs (ON-EDGE) — KILLED (→ K31) · but yields a why-now ACCELERANT for MOAT-A1
+**One-sentence:** mid-tier KR FIs newly allowed to use SaaS/생성형AI under the relaxed 망분리 (live Apr 20 2026) must run CSP/SaaS
+risk-assessment + AI-usage controls + 소명; we'd run it service-wrapped — extending the board's FI-accountability engine.
+**Incumbent search (FALSIFIES — owned at every layer + by the regulator):** DLP/usage-control = **파수 AI-R, 소만사 WebKeeper AI DLP**
+(both "제1금융권 선제 도입"); FI AI-governance consulting/platform = **삼성SDS** (delivered AI 거버넌스 컨설팅 to KB국민은행; FabriX at
+우리은행) + **LG CNS** (head-to-head on FI 생성형AI deals) + SK C&C/베스핀/메가존 on 망분리-예외 onboarding; the risk-assessment layer is
+owned by a **regulator** — 금융보안원 runs the SaaS 안전성 평가 (제도화 설명회 Apr 23 2026) and **FSS issued the 금융분야 AI RMF (Jan 15
+2026)** → the counterparty defines the benchmark (L13 trap). Regional groups (JB/BNK/iM) are POOLING to build shared AI governance.
+**Why-now (the idea's one STRONG leg):** multi-catalyst + durable (망분리 로드맵 live Apr 2026 + AI 기본법 Jan 2026 + FSS AI RMF Jan
+2026 + market AI wave); ₩3.2T KR financial-AI market by 2026 (~38% CAGR), 100+ internal-망 SaaS/AI approvals already granted. Passes
+G7/T7 cleanly. BUT teeth weak (AI RMF is 자율규제; AI 기본법 penalties paused ~1yr) → soft near-term WTP for a dedicated tool.
+**Verdict: 🔴 KILL as a standalone — T2 (Fasoo/소만사 on tooling, 삼성SDS/LG CNS on governance, 금융보안원/FSS own the standard) + T8
+(value flows to SIs + cloud + DLP, not a standalone governance layer) + L6 (no teeth yet).** It is NOT meaningfully separable from the
+board's existing **MOAT-A1** (자율보안 소명) — it collapses INTO it. **USEFUL OUTPUT (folded into MOAT-A1/LEAD-1):** the 망분리-relaxation +
+AI RMF + AI 기본법 stack is a genuine, fresh, durable why-now ACCELERANT for the existing accountability engine, and sub-scale FIs that
+삼성SDS/LG CNS won't chase + that lack the AI-RMF-required 전담조직 are a real underserved sliver — pursue it as a MOAT-A1 why-now, not CASH-29B.
+
+### 🔴 CASH-29C · Certified secure data/media destruction-as-evidence (세절기 / physical) — KILLED (→ K32)
+**One-sentence:** under PIPA 파기 의무, KR firms must destroy personal data/media + keep records; we'd offer certified paper/HDD/SSD
+destruction with chain-of-custody + auto-generated 파기 증빙 tied to compliance (physical service + a software/evidence layer).
+**Incumbent search (FALSIFIES both legs — L2):** physical destroyers already issue 파기 증명서 as standard — **더부러, 월드브릿지익스프레스,
+CNR(시큐리티존), 코리아쉬레드, 바른문서파쇄, 한길시큐리티** (mobile 5t/10t shred trucks + HDD 파쇄/디가우징 + same-day certificate +
+photos + 보안서약서). The software/evidence layer is owned by **이지서티 UBI SAFER-PSM** (24-yr, 34 patents, **200+ gov/FI/enterprise installs**,
+GS 1등급, 조달청 우수조달; manages the full personal-data lifecycle incl. 파기, generates 파기확인서, 파기예정일 alerts, destruction logs)
++ 파수 Total Privacy + 지란지교 + 제이시큐어 MISO + PNP Secure INFOSAFER.
+**Capital/bandwidth (G8):** physical leg = trucks/디가우저/facilities/waste-licenses → T3 capital wall + T6 (a 20-25 hr/wk software pair
+can't run logistics); software leg = a thin skin over a commoditized output buyers already get free with the shred contract.
+**Why-now:** PIPA 과징금 cap 3%→**10% of revenue** (effective May 19 2026) is a real durable tailwind — but it's an L1 swarm magnet that
+funds 이지서티/파수's lifecycle/파기 modules, not a cold entrant.
+**Verdict: 🔴 KILL — T2 (wedge owned twice: physical certificate + 이지서티 PSM software, the latter inside the founders' own FI beachhead)
++ T1 (commodity certificate) + T4 (feature-not-vertical) + T3/T6 on the physical leg.** Confirms L2 generalizes again to physical.
+
+### 🔴 CASH-29D · Naver-ecosystem security/compliance play (off-edge) — KILLED (→ K33)
+**One-sentence:** a security/compliance product riding Naver — (1) 개인정보보호/전자상거래법 compliance for ~500k Smart Store SMB sellers, or
+(2) a CSAP/금융보안 compliance partner layer on Naver Cloud Platform (NCP).
+**Incumbent search (FALSIFIES both — platform owner IS the incumbent):** Angle 1 — the core wedge (개인정보처리방침 + 위탁 disclosure)
+**ships FREE natively inside 스마트스토어센터**; seller-ops swarm 사방넷/플레이오토/이지어드민/셀러봇/샵링커 covers the rest; free 처리방침
+generators (개인정보위 + lawform.io + an open-source Claude skill). Angle 2 — **Naver Cloud runs its own 금융규제 대응팀 + CSAP/ISMS-P/CSA-STAR
+compliance portal** and hands customers the 증적; the MSP partner tier is owned by **누리클라우드, 메가존클라우드, 베스핀글로벌, 클루커스**.
+**Why-now:** PIPA 10%-revenue fine regime targets LARGE-breach enterprises, not micro SMB sellers → no SMB WTP; CSAP/sovereign-cloud
+tailwind accrues to Naver Cloud + its named MSPs, not a cold entrant.
+**Verdict: 🔴 KILL — T2 both angles (+ T1/T4 on SMB low-WTP/churn, + T5/long-sales on NCP-partner).** Off-edge §3b fails every leg.
+
+### ⚙️ META-LOOP — self-improvement → OS v2.8
+- **HIT-RATE:** **T2 again did 100% of the killing** (now ~17 consecutive generated ideas dying on T2 across cycles 24-29). §3
+  incumbent-naming remains the single load-bearing gate — a product-name search instantly named ≥3 incumbents on every one of the 4.
+- **OPERATOR RECALIBRATION (v2.8):** MODE-CASH target **<90d → <300d** (operator: 90 days too short) + bandwidth **10-13 → 20-25 hr/wk**.
+  Logged as a version bump because both flex live gates (the MODE-CASH time-to-rev weight + G8). **CALIBRATION FINDING:** relaxing BOTH
+  knobs changed NOTHING about the outcome — all 4 still died on T2. This is direct evidence that bandwidth/time was NEVER the binding
+  constraint; **incumbents + (the standing) validation gap are.** Loosening capacity lets us BUILD more, but it does not create whitespace.
+- **ON-EDGE CONFIRMS THE THESIS (the cycle's real signal):** CASH-29B was the only on-edge candidate and had the BEST why-now on the
+  board (망분리 + AI RMF + AI 기본법, ₩3.2T market) — yet it still KILLED on T2/T8 and **collapsed into the existing MOAT-A1**. The one
+  defensible fragment is a why-now ACCELERANT for the accountability engine the board already holds, not a new product. This is the
+  strongest evidence yet that the board's whitespace is singular (the 책무구조도/관리의무-소명 accountability niche) and already identified.
+- **L13 reconfirmed live:** 29B's risk-assessment/benchmark layer is owned by the regulator (금융보안원 SaaS 안전성 평가 + FSS AI RMF) — the
+  counterparty defines the benchmark. Second consecutive cycle L13 fires (cycle 28 광고심의 → cycle 29 AI RMF). The law is earning its keep.
+- **STRATEGIC:** 4 generate-cycles (26→29) = 0 survivors. The BUILD QUOTA has now lapsed decisively. STOP generating. The next action is
+  VALIDATION of CASH-D1/LEAD-1 (0/3 signals) — now with a fresh, fundable accelerant (the 망분리/AI-RMF why-now) to lead the FI conversation.
 
 ---
 
@@ -585,6 +667,13 @@ All four convergent survivors share ONE bear: **enforcement-gated software-WTP (
 **Score (MODE-MOAT ×3 ceiling + defensibility):** Money = **MID** (ceiling HIGH, defensibility HIGH, WTP-evidence 0, time-to-rev LOW). Exec = **MID** (defensible HIGH, warm-buyers MED, Ace-demo MED on a heavy build, possible license-gap). **GRID = YELLOW.**
 **Status:** ⚙️ HARDENING / 🔬 candidate. **Same engine as LEAD-1 (KR-FI accountability layer + cross-client benchmark), pointed at the CISO persona instead of the CCO** — distinct regulation/buyer-persona/sales-motion, so kept as its own entry, NOT folded. **Subordinate to LEAD-1: do not split Ace's 10-13 hr/wk across two wedges.**
 **Activate-trigger:** if LEAD-1 discovery reveals the FI's #1 unmet pain is security-governance 소명 (not 책무구조도 / AI-compliance), pivot the wedge here. 0/3 signals.
+**➕ CYCLE-29 WHY-NOW ACCELERANT (from the killed CASH-29B dive):** the 망분리 relaxation went LIVE Apr 20 2026 (100+ internal-망 SaaS/AI
+approvals already granted), and the FSS issued the **금융분야 AI RMF (Jan 15 2026)** (governance / 위험평가 / 위험통제) alongside 금융보안원's
+SaaS 안전성 평가 — a fresh, durable, multi-catalyst demand stack in a ₩3.2T (~38% CAGR) market. Two sharp, usable findings for THIS thesis:
+(1) **a fundable conversation-opener** — sub-scale FIs explicitly can't fund a 전사 AI-governance build ("그림의 떡") and lack the AI-RMF-required
+위험관리 전담조직, so a productized 소명/accountability-evidence recorder for the firms 삼성SDS/LG CNS won't chase is a real underserved sliver;
+(2) **L13 boundary confirmed** — do NOT pitch a "what-the-regulator-accepts" AI benchmark; the regulator (금융보안원/FSS) owns that. Lead with
+the accountability/소명 layer, ride the AI-RMF why-now. Folded here as an accelerant, not a separate idea (CASH-29B killed T2/T8).
 
 ---
 
@@ -742,6 +831,10 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | K27 | KR VASP 이상거래 상시감시 / 소명-evidence service (AXIS-A, MODE-CASH) | T2/T4 + G7-headwind | 옥타솔루션 cryptoAML-PRISM (co-built w/ Bithumb, targets 소규모 사업자) + 아르고스/ARGOS + Chainalysis KYT + TRM×CODE own every layer, already service-wrapped; buyer pool COLLAPSING (VASPs 42→31, coin-market vol −81% YoY, −₩12.6B loss) → <$1M shrinking market; mandatory law over a vanishing buyer set = negative why-now (cycle 28) |
 | K28 | KR financial-ad compliance review AI + 협회-approval corpus (AXIS-C, MODE-CASH) | T2 + counterparty-moat | 코그넷나인 (CognetNine) shipped "금융권 최초" AI 광고심의 to 롯데카드, productized AI managed service; data-byproduct moat PRE-EMPTED — KOFIA already runs 광고심사시스템 + 은행연합회 building its own shared AI 광고심의 platform (proc. Feb 2026, live H2 2026); the "what passes" corpus is owned natively by the counterparty (→ new L13) (cycle 28) |
 | K29 | Japan FI customer-first / op-resilience / TPRM accountability layer (AXIS-F, off-edge) | T2/T5/T6 | SWARM: funded pure-play レンズ/Lens RM (¥844M, live at GMOあおぞらネット銀行) + listed GRCS + ServiceNow/SCSK + OneTrust/TrustNow + NRI's FSA-監督指針-mapped TPRM checklists; off-edge §3b fails every leg (no JP presence/language/channel, 9-18mo procurement vs CASH <90d, benchmark cold-start-blocked); Japan mirror of DORA/책무구조도, edge stripped (cycle 28) |
+| K30 | Shadow-AI DLP for KR enterprise (cybersecurity/AI보안, MODE-CASH) | T2/T1/T7 | ≥6 named KR products ship the literal wedge — 파수 Fasoo "AI-R DLP" + 안랩 "SecureBridge" + 소만사 "WebKeeper SG/AI DLP" + SK쉴더스 + 컴트루 Sphinx AI + 지란지교 — atop a 10+ global swarm (WitnessAI/Nightfall/Palo Alto/Netskope/Purview); GenAI-DLP commoditizing into DLP/CASB/SSE; AI 기본법 fines deferred ~2027 (no teeth in cash window) (cycle 29) |
+| K31 | AI-security governance for KR FIs (ON-EDGE, MODE-CASH) | T2/T8 + L6 | Owned at every layer: 파수/소만사 (DLP, "제1금융권 선제 도입") + 삼성SDS (AI 거버넌스 컨설팅 at KB국민은행; FabriX at 우리은행)/LG CNS (FI 생성형AI deals) + 금융보안원 SaaS 안전성 평가/FSS 금융 AI RMF (regulator owns the benchmark, L13); value flows to SIs+cloud+DLP not a standalone governance layer; teeth weak (자율규제). Collapses INTO existing MOAT-A1 → folded as a why-now accelerant, not a new survivor (cycle 29) |
+| K32 | Certified secure data/media destruction-as-evidence (세절기/physical, MODE-CASH) | T2/T1/T4 (+T3/T6 physical) | Physical destroyers already issue 파기 증명서 (더부러/월드브릿지익스프레스/CNR/코리아쉬레드/바른문서파쇄); software/evidence layer owned by 이지서티 UBI SAFER-PSM (200+ gov/FI installs, auto 파기확인서 + logs) + 파수/지란지교/제이시큐어/PNP INFOSAFER; physical leg = capital/license + bandwidth wall; certificate = commodity, feature-not-vertical; PIPA 10%-fine tailwind funds incumbents (L2) (cycle 29) |
+| K33 | Naver-ecosystem security/compliance play (off-edge, MODE-CASH) | T2/T1/T4/T5 | Platform owner IS the incumbent: 스마트스토어센터 ships 개인정보처리방침/위탁 disclosure FREE + 사방넷/플레이오토/이지어드민 seller-ops swarm (Angle 1); Naver Cloud runs its own 금융규제 대응팀 + CSAP/ISMS-P portal, MSP tier owned by 누리클라우드/메가존/베스핀/클루커스 (Angle 2); SMB low-WTP/churn; PIPA 10%-fine targets large breaches not SMB; off-edge §3b fails (cycle 29) |
 
 *(Music-backed-credit (batch) → PARK-4, re-gated under v2.4, stays PARK — see Active Ideas. DORA/NIS2/FuelEU + Japan-FI surviving slivers logged as parked patterns, not standalone ventures.)*
 
@@ -774,6 +867,10 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | KR-FI ground ≠ safe (cycle 28) | CASH-A2 + CASH-C2 were BOTH on the KR-FI home buyer yet died to NAMED KR incumbents (옥타솔루션, 코그넷나인) | KR-FI ground is necessary but NOT sufficient. Every KR-FI wedge OTHER than the precise untooled 책무구조도/관리의무-소명 accountability niche already has a named KR RegTech incumbent. The defensible whitespace is narrow — and the board already holds it (CASH-D1/LEAD-1). |
 | Entity-count headwind (cycle 28) | CASH-A2: a mandatory law (가상자산이용자보호법) over a SHRINKING regulated-entity count (VASPs 42→31, firms posting −₩12.6B losses) | Generalizes the v2.6 G7 tailwind rule: a negative why-now isn't only falling demand — it's a falling number of BUYERS (regulated entities exiting). A mandatory obligation over a vanishing buyer set is still a kill. |
 | Generation saturation reconfirmed (cycle 28) | 3 cycles of fresh generation (26 AXIS-F, 27 physical, 28 MODE-CASH C/A/F) = 0 survivors, ~13 straight T2 kills | The BUILD QUOTA (≤3 generate cycles before one idea advances to validate) has now lapsed twice. The constraint is not the axis, mode, or idea type — it is buyer contact for the on-edge KR-FI engine. STOP generating; VALIDATE. |
+| Capacity ≠ the constraint (cycle 29) | Operator relaxed BOTH cash knobs (time-to-rev <90d→<300d, bandwidth 10-13→20-25 hr/wk) and all 4 ideas STILL died on T2 | Direct proof that bandwidth/time was never the binding constraint. More capacity lets the team BUILD more — it does not create whitespace where incumbents already sit. The constraint is incumbents + the validation gap, full stop. |
+| On-edge confirms singular whitespace (cycle 29) | CASH-29B (FI AI-security) was the only on-edge candidate + had the best why-now on the board (망분리+AI RMF+AI 기본법, ₩3.2T) — yet killed T2/T8 and collapsed INTO the existing MOAT-A1 | The board's defensible whitespace is SINGULAR (the 책무구조도/관리의무-소명 accountability niche) and already identified. New on-edge dives don't open new ground — they re-derive MOAT-A1. Best use of a strong new why-now = ACCELERANT for the existing thesis, not a new product. |
+| Counterparty-owned moat reconfirmed (cycle 29) | 29B's risk-assessment/benchmark layer is owned by the regulator (금융보안원 SaaS 안전성 평가 + FSS 금융 AI RMF) — 2nd consecutive cycle L13 fires (cycle 28 광고심의 → cycle 29 AI RMF) | L13 is earning its keep: whenever a "what-the-regulator-accepts" benchmark is the proposed moat, check first whether the regulator already owns/builds it. In KR-FI it usually does (KOFIA, 은행연합회, 금융보안원, FSS). |
+| Platform-owner-is-incumbent (cycle 29) | Naver ships the core compliance wedge free inside Smart Store + runs its own NCP compliance portal/MSP tier | New phrasing of L2 for platform-ecosystem ideas: when you build ON a platform, the platform owner is a first-class incumbent who can (and often does) give the wedge away free to drive platform stickiness. Name the platform's own features before claiming whitespace on top of it. |
 
 ---
 
@@ -787,6 +884,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 - [ ] **AXIS-D (deferred SKU #3):** gate AML/STR-CTR reg-reporting automation for the same mid-tier FI buyer — watch for T2 (NICE Actimize / 한국NICE incumbents)
 - [ ] **AXIS-E (standing):** monitor for any KR regulator enforcement-shock → instant WTP trigger for parked compliance ideas
 - [x] **AXIS-F (DONE cycles 26 + 28):** off-edge new-field dives — DORA/NIS2/FuelEU (cycle 26) + Japan FI accountability (cycle 28, K29), all KILLED T2 (funded swarms incl. pure-play Lens RM). Lesson: visible big-market regulatory why-now = swarm magnet (L1 corollary). Future AXIS-F must bring an EARNED edge the swarm can't replicate, or pass the §3b SWARM-COUNT pre-check first. **Off-edge supply is not the constraint — validation is.**
+- [x] **CYBERSECURITY / AI보안 / PHYSICAL / NAVER (DONE cycle 29, operator-seeded):** 4 ideas — Shadow-AI DLP (K30), FI AI-security governance (K31), certified-destruction 세절기 (K32), Naver (K33) — ALL KILLED T2. AI-security tooling owned by 파수/소만사/안랩 + SIs 삼성SDS/LG CNS + regulator (금융보안원/FSS); destruction owned by physical shredders + 이지서티 PSM; Naver owns its own ecosystem. Useful residue: the 망분리/AI-RMF why-now is an ACCELERANT for MOAT-A1 (folded). **Confirms again: generation is exhausted; VALIDATE.**
 
 ---
 
@@ -806,6 +904,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 | **v2.5** | May 31 2026 | **Cycle 26 AXIS-F dive + calibration.** First new-field dive (DORA/NIS2/FuelEU) — all 3 KILLED T2. HIT-RATE audit (~24 ideas): T2 did 100% of recent killing; §3 incumbent-naming precondition is load-bearing; G6/G7 didn't bind (passed). Sharpened **L1** (swarm-magnet corollary) + added **§3b SWARM-COUNT pre-check** (≥~5 funded vendors OR a roll-up → off-edge T2-dead; require an earned edge or skip the deep dive). | Evidence: a visible + durable regulatory why-now in a big Western market draws a funded swarm FASTEST exactly where we lack edge. The v2.4 relaxation was validated as the right knob (we looked freely; gauntlet killed on incumbents, not geography). DORA/NIS2 = EU mirror of the on-edge KR engine → confirms L12; the home-field version dominates. |
 | **v2.6** | May 31 2026 | **Cycle 27 physical/non-SaaS dive (operator-seeded).** Guam KR-import + intl-student housing — both KILLED T2. Generalized **L2** to PHYSICAL markets (a real, visible cost arbitrage is already captured — name the distributors) + added **G7 tailwind-not-headwind** check (a market shrinking on a policy basis = negative why-now) + extended the incumbent-naming precondition to distributors/wholesalers. | Operator opened the aperture beyond SaaS. The dive proved going physical doesn't escape incumbents — the Korea→Guam arbitrage was owned by Pacific Grocers et al., and intl-student housing was owned layer-by-layer with an inverted why-now. The framework's core (name incumbents, check why-now direction/durability, price edge honestly) holds across SaaS AND physical. |
 | **v2.7** | May 31 2026 | **Cycle 28 MODE-CASH generation (AXIS C+A+F).** 3 ideas (VASP surveillance / KR financial-ad review / Japan FI accountability) — all KILLED T2. Added **L13 (counterparty-owned moat):** a benchmark/approval-corpus data byproduct is void if the regulator/association you'd benchmark against already owns that data natively + can systematize it. Generalized **G7** headwind to regulated-ENTITY-COUNT shrink (not just demand). | The cycle's real output is L13: CASH-C2's "what-the-협회-approves" moat was natively held by KOFIA/은행연합회 (the latter building its own AI 광고심의 platform) — a moat owned by the counterparty is no moat. Also sharpened the board's self-knowledge: CASH-A2 + CASH-C2 were ON KR-FI ground yet died to named KR incumbents (옥타솔루션/코그넷나인) → KR-FI ground is necessary, not sufficient; the only defensible whitespace is the narrow 책무구조도 accountability niche the board already holds. 3 generate-cycles since reset = 0 survivors → BUILD QUOTA says VALIDATE, don't generate #29. |
+| **v2.8** | May 31 2026 | **Cycle 29 operator recalibration + 4-idea cybersecurity/AI보안/physical/Naver dive.** Operator recalibrated MODE-CASH first-revenue target **<90d → <300d** and bandwidth **~10-13 → ~20-25 hr/wk** (both flex live gates: MODE-CASH time-to-rev weight + G8). 4 ideas (Shadow-AI DLP / FI AI-security governance / certified-destruction / Naver) — all KILLED T2. No new Law (L13 reconfirmed; L2 re-phrased for platform-ecosystems in synthesis). | Key calibration: relaxing BOTH cash knobs changed NOTHING — all 4 still died on T2. Bandwidth/time was never the binding constraint; incumbents + the validation gap are. The on-edge candidate (29B) had the board's best why-now (망분리/AI-RMF, ₩3.2T) yet collapsed into the existing MOAT-A1 → the board's whitespace is singular and already held. 4 generate-cycles = 0 survivors; BUILD QUOTA decisively lapsed → STOP generating, VALIDATE (now with a fresh 망분리/AI-RMF accelerator to lead the FI conversation). |
 
 **False-negative watch** *(ideas we killed that later succeeded — the most valuable signal):*
 - [ ] None logged yet
@@ -822,6 +921,7 @@ founder-fit (G0/G5/G8) must be re-cleared before any build.
 - Cycle-26 desk observation (to be tested by buyers): the first off-edge AXIS-F dive produced 0 survivors (all T2 to swarms), while the on-edge KR-FI engine remains the board's best shape but is still **0/3 buyer signals.** Reconfirms cycle-18: idea supply — even NEW-FIELD supply — is not the constraint; **buyer contact is.** Generation (on- or off-edge) should yield to VALIDATION until LEAD-1/CASH-D1 get real signals.
 - Cycle-27 desk observation: opening to PHYSICAL / any-idea (operator) also produced 0 survivors (Guam + intl-student housing, both T2). ~10 straight off-edge T2 kills across SaaS + physical. The pattern is now overwhelming — **the constraint has never been idea type or idea supply; it is buyer contact for the on-edge KR-FI engine.** Next action should be VALIDATION, not a Cycle 28 generation, absent a new operator directive.
 - Cycle-28 desk observation: a fresh MODE-CASH trio (AXIS C+A+F) ALSO produced 0 survivors (~13 straight T2). The new datum is that even ON KR-FI ground (VASP, ad-review) ideas die to NAMED KR incumbents — so it is not merely "off-edge" that kills; it is that every KR-FI wedge except the narrow 책무구조도 accountability niche is already taken. This *strengthens* the conclusion: the board already holds the one defensible KR-FI slice, and its only gap is buyer signal. **Generation is exhausted as a lever; the next cycle must be VALIDATION (send the Cycle-19 messages), not Cycle 29 generation.**
+- Cycle-29 desk observation: the operator did the right experiment — RELAXED the two constraints most likely to be "the problem" (cash window 90d→300d; bandwidth 10-13→20-25 hr/wk) and re-ran with 4 fresh cybersecurity/AI-security/physical/Naver ideas. Result: **0 survivors, all T2.** This is the cleanest possible proof that the constraint is neither capacity nor idea supply — it is incumbents (everywhere we look is occupied) and the standing validation gap. The on-edge AI-security candidate (29B) even produced the board's best-ever why-now (망분리 relaxation + FSS AI RMF + AI 기본법, ₩3.2T market) — and it folded straight into the existing MOAT-A1. **Net: there is now a fundable, freshly-catalyzed reason to talk to FI buyers; the only missing thing is the conversation itself. Cycle 30 must be VALIDATION.**
 
 ---
 

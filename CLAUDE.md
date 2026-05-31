@@ -1,4 +1,4 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.7)
+# THE FOUNDER'S OPERATING SYSTEM (v2.8)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 ### v2.0 changelog: added forcing function, symmetric judgment, buyer-signal-as-input, anti-gaming check,
@@ -43,6 +43,15 @@
 ### NAMED KR incumbents (옥타솔루션, 코그넷나인) → KR-FI ground is necessary but NOT sufficient; the only defensible whitespace
 ### is the narrow 책무구조도/관리의무-소명 accountability niche the board ALREADY holds. 3 generate-cycles (26-28) = 0 survivors
 ### → BUILD QUOTA fires: STOP generating, VALIDATE. The binding constraint has never been idea supply; it is buyer contact.
+### v2.8 changelog (cycle 29): OPERATOR RECALIBRATION — MODE-CASH first-revenue target <90d → <300d (90d was too short);
+### bandwidth ~10-13 → ~20-25 hr/wk. Both flex live gates (MODE-CASH time-to-rev weight + G8). Ran 4 operator-seeded
+### cybersecurity/AI보안/physical/Naver ideas (Shadow-AI DLP; FI AI-security governance; certified-destruction 세절기; Naver) —
+### ALL KILLED on T2. KEY CALIBRATION: relaxing BOTH cash knobs changed NOTHING — every idea still died on named incumbents →
+### bandwidth/time was NEVER the binding constraint; incumbents + the validation gap are. The ON-EDGE candidate (FI AI-security)
+### had the board's BEST why-now (망분리 relaxation live Apr 2026 + FSS 금융 AI RMF Jan 2026 + AI 기본법, ₩3.2T market) yet still
+### killed on T2/T8 and COLLAPSED INTO the existing MOAT-A1 — proving the board's whitespace is singular + already held. L13 fired
+### a 2nd straight cycle (regulator 금융보안원/FSS owns the AI benchmark). No new Law. 4 generate-cycles (26-29) = 0 survivors →
+### BUILD QUOTA decisively lapsed: STOP generating, VALIDATE — now with a fresh 망분리/AI-RMF accelerant to lead the FI conversation.
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -271,7 +280,20 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 28 — May 31 2026; full detail in LEDGER.md)
+## CURRENT STATE (updated cycle 29 — May 31 2026; full detail in LEDGER.md)
+🧭 CYCLE 29 = MODE-CASH, OPERATOR-SEEDED CYBERSECURITY / AI보안 / PHYSICAL / NAVER (operator: "run it once more; explore
+   cybersecurity, AI보안 솔루션 / private data, a 세절기-type secure-disposal business, maybe something for Naver; ask me"). Chose
+   all 4 ideas via AskUserQuestion + 2 framework recalibrations → OS v2.8: MODE-CASH <90d→<300d; bandwidth 10-13→20-25 hr/wk. 4
+   parallel §3 product-NAME incumbent searches. **ALL 4 KILLED on T2:** (29A) Shadow-AI DLP — 🔴 K30 T2/T1/T7 (파수 AI-R DLP + 안랩
+   SecureBridge + 소만사 WebKeeper + 컴트루/지란지교 + 10+ global swarm; AI 기본법 fines deferred ~2027). (29B) FI AI-security
+   governance [ON-EDGE] — 🔴 K31 T2/T8+L6 (파수/소만사 tooling + 삼성SDS[KB국민은행]/LG CNS governance + 금융보안원/FSS own the AI
+   RMF benchmark; collapses into MOAT-A1). (29C) certified-destruction 세절기 — 🔴 K32 T2/T1/T4 (physical shredders issue 파기증명서 +
+   이지서티 UBI SAFER-PSM owns the evidence software at 200+ FI/gov installs; physical leg = capital/bandwidth wall). (29D) Naver — 🔴
+   K33 T2 (스마트스토어 ships compliance free + 사방넷/플레이오토 swarm; Naver Cloud owns its own CSAP portal + MSP tier). KEY CALIBRATION:
+   relaxing BOTH cash knobs changed NOTHING — bandwidth/time was never the constraint; incumbents + validation gap are. The on-edge 29B
+   had the board's BEST why-now (망분리/AI-RMF, ₩3.2T) yet folded into MOAT-A1 → whitespace is singular + already held. L13 fired again
+   (regulator owns the AI benchmark). 4 generate-cycles (26-29) = 0 survivors → BUILD QUOTA decisively lapsed. **NEXT = VALIDATION:
+   send the Cycle-19 FI messages, now led by the fresh 망분리/AI-RMF accelerant (folded into MOAT-A1).**
 🧭 CYCLE 28 = MODE-CASH GENERATION, AXIS C+A+F (operator: "begin the search for new ideas; ask for initial routes; add to
    ledger"). Routes chosen via AskUserQuestion = MODE-CASH + AXES C/A/F + anti-loop WAIVED. 3 candidates, each through the full
    v2.6 gauntlet incl. §3 product-NAME incumbent search (3 parallel web verifications). **ALL 3 KILLED on T2:** (A2) KR VASP
