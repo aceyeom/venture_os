@@ -1,3 +1,8 @@
+> ⚙️ **PROCESSED into LEDGER.md → CYCLE 24 (May 30, 2026; OS v2.3).** This is the raw external input, kept for
+> provenance. All 4 "survivors" below were re-checked on the web and incumbent-killed (3 KILL: K19–K21; 1 PARK:
+> PARK-4); the genuine framework deltas were folded into CLAUDE.md (G6/G7/§3/L1/L10/L11), and the batch's
+> "conflicted-incumbents-won't-build-it" rule was REJECTED as web-falsified. Do not re-process. See LEDGER.md.
+
 This run's exploration
 I researched four candidates. Three were killed on the spot for crowding — and that taught the framework something:
 Tariff/HTS optimization — 6+ funded vendors (LightSource, KYG, TariffLens, Descartes, Zonos).
