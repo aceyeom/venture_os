@@ -1,4 +1,4 @@
-# THE FOUNDER'S OPERATING SYSTEM (v2.9)
+# THE FOUNDER'S OPERATING SYSTEM (v3.0)
 ### An agentic protocol that HUNTS, HARDENS, VALIDATES, and COMMITS to an idea — and improves its own methods.
 ### For: Ace Yeom + David Mun. Self-contained — hand to any AI/instance and it runs. Supersedes v1.0.
 
@@ -14,13 +14,18 @@
 | v2.6 | 27 | Physical dive (Guam/housing all T2). L2 generalized to PHYSICAL arbitrage; G7 tailwind-not-headwind. |
 | v2.7 | 28 | MODE-CASH C/A/F (all T2). Added L13 (counterparty-owned moat); G7 headwind = entity-count shrink. |
 | v2.8 | 29 | OPERATOR recalibration: MODE-CASH <90d→<300d; bandwidth 10-13→20-25 hr/wk. 4 ideas all T2 → relaxing capacity changed nothing; the constraint is incumbents + the validation gap. |
-| **v2.9** | **30** | **OPERATOR: add a non-SaaS axis. Added AXIS-G (physical/experiential product) + a PHYS-1..5 §3 sub-block + L14 (placed-unit moat = placement/brand, not the device; cheap consumable substitute caps WTP). Ran the de-smell-booth genre → 🟡 PARK-5 (honest NON-kill). Reorganized the ledger into `/ledger/`.** |
+| v2.9 | 30 | OPERATOR: add a non-SaaS axis. Added AXIS-G (physical/experiential product) + a PHYS-1..5 §3 sub-block + L14 (placed-unit moat = placement/brand, not the device; cheap consumable substitute caps WTP). Ran the de-smell-booth genre → 🟡 PARK-5 (honest NON-kill). Reorganized the ledger into `/ledger/`. |
+| **v3.0** | **31** | **OPERATOR: stress-test two CONSUMER ideas (faceless finance X account · 군대 self-improvement app). Both fell OUTSIDE every existing axis (A-G were all B2B-regulatory/data/physical) → added AXIS-H (consumer/audience/creator-economy — the attention economy) + the §3h CONS-1..5 sub-block (commodity-content · platform-dependency · audience-build CAC · per-user monetization realism · retention) + T9 (platform-dependency / rented-distribution kill-type) + L15 (a commodity capability everyone can rent — a frontier LLM, a no-code stack — is NOT a moat; when "the AI does it" IS the pitch, you've described infinite supply, not an edge; generalizes L8). Clarified MODE-CASH (lowered CEILING ≠ waived moat/commodity gate). Verdicts: faceless-finance-X → 🔴 K34 (first clean NON-T2 kill — T1/T9 commodity + rented platform); 군대 app → 🟡 PARK-6.** |
 
-> **CALIBRATION NOTE (v2.9):** the operator flagged that the gauntlet may kill too readily — and the record agrees in part:
-> **T2 has done ~100% of the killing across 33 kills.** "A named incumbent exists" is true of every real market, so §3's
+> **CALIBRATION NOTE (v2.9, extended v3.0):** the operator flagged that the gauntlet may kill too readily — and the record agreed in part:
+> **T2 had done ~100% of the killing across the first 33 kills.** "A named incumbent exists" is true of every real market, so §3's
 > incumbent-naming must answer the WIN-SEARCH question too — *can a sharper wedge take a profitable SLICE?* — before a kill.
 > A kill is honest only when win-conditions are ALSO absent (a structural wall, a cheap substitute, a value-capture mismatch),
-> not merely when a competitor can be named. PARK over KILL whenever a real but unvalidated angle survives (see PARK-5).
+> not merely when a competitor can be named. PARK over KILL whenever a real but unvalidated angle survives (see PARK-5/PARK-6).
+> **v3.0 counter-balance (so the calibration doesn't become "never kill"): a kill can ALSO be honest with NO incumbent named at all —**
+> when the good itself is **infinitely self-supplied** (commodity AI-generated content) or sits on **rented distribution you don't own**
+> (a platform that is also your competitor). K34 is that case: not T2, but T1+T9. Over-PARKing a zero-moat commodity is the opposite
+> failure to over-T2-killing — avoid both. PARK needs a *real* surviving angle, not merely "it's technically possible."
 
 ═══════════════════════════════════════════════════════════════
 ## 0. PRIME DIRECTIVE & STOP/COMMIT RULES (read first — fixes the "kill machine" flaw)
@@ -41,7 +46,11 @@ a buyer-validated BUILD PLAN. Killing is a means, not the product.
 Operator picks ONE mode per cycle. Gates/weights flex with it. Both are valid wins.
 - MODE-CASH: optimize time-to-revenue + margin + bandwidth-fit. Tolerate a weak moat. Ceiling gate
   LOWERED (any profitable business qualifies). Target: revenue in <300 days. (Serves goal #2.) *(operator-recalibrated
-  v2.8, cycle 29: <90d was too short — first revenue within <300 days.)*
+  v2.8, cycle 29: <90d was too short — first revenue within <300 days.)* **CLARIFICATION (v3.0): MODE-CASH lowers the
+  CEILING gate (G6) ONLY. It does NOT waive G2 (moat) down to ZERO, nor the T1 commodity check. "Tolerate a WEAK moat"
+  ≠ "tolerate NO moat in an infinitely-supplied commodity." A side-hustle whose output is commodity (everyone can
+  generate it) AND whose distribution is rented (a platform you don't own) is still a KILL (T1/T9), MODE-CASH or not —
+  a lower ceiling buys tolerance for a thin moat, never for the absence of one. See K34.*
 - MODE-MOAT: optimize defensibility + ceiling + data-byproduct. Tolerate slow + unproven. Ceiling gate
   RAISED ($30M+). Target: a venture. (Serves goal #3.)
 Default this season: run BOTH in parallel — one MODE-CASH idea and one MODE-MOAT idea per cycle, so the
@@ -79,7 +88,15 @@ AXIS-A regulation (new untooled obligation — KR *or any geography*; KR stays h
   AXIS-G physical/experiential product (v2.9: ATOMS, not bits — a hardware device, a vending/booth/kiosk, a consumable,
   or an in-person micro-experience, where the wedge is a PHYSICAL product or a placed unit and defensibility comes from
   placement/supply-chain/brand, NOT software. Run the PHYSICAL sub-block §3g alongside G0-G8. Archetype: a per-use
-  de-smell/refresh booth placed in nightlife/restaurant zones — the 포토이즘 of deodorizing).
+  de-smell/refresh booth placed in nightlife/restaurant zones — the 포토이즘 of deodorizing). ·
+AXIS-H consumer / audience / creator-economy (v3.0: the ATTENTION economy — a B2C app, a content/media brand, a
+  community, a newsletter, a marketplace, or a creator product, where the asset is AUDIENCE / RETENTION / BRAND and the
+  money comes from subscriptions, ads, affiliate/CPA, IAP, or sponsorship — NOT a regulated B2B obligation. Distinct
+  from SaaS (no enterprise buyer) and from AXIS-G (bits, not atoms). Run the §3h CONS sub-block alongside G0-G8. This
+  axis is held to a SPECIAL skepticism: consumer attention is the most-contested, lowest-barrier market on earth — the
+  default prior is INFINITE SUPPLY + RENTED DISTRIBUTION, so the wedge must name a real, hard-to-copy edge, never just
+  "we'll post good content / the AI writes it." Archetypes tested cycle 31: a faceless AI-written finance X account
+  (→ K34, killed) and a gamified 군대 self-improvement app (→ PARK-6)).
 OUTPUT = one sentence: "[BUYER] pays for [JOB] today via [SUBSTITUTE]; we do [WEDGE]; defensible because
 [MOAT SENTENCE — owned OR buildable]; fits [MODE]; first revenue in [TIME] within [BANDWIDTH-or-funded-capacity]."
 Can't write it → not ready.
@@ -147,6 +164,31 @@ economics than SaaS, so add five checks:**
     (스타일러-class) doing ~80% of the job? If so, the placed/per-use product survives ONLY if it sells a DISTINCT job
     (convenience at the moment of need) — and that WTP must be buyer-validated, not assumed.
 
+**§3h CONSUMER / ATTENTION SUB-BLOCK (added v3.0 — run for any AXIS-H idea, ALONGSIDE G0-G8. Attention obeys different
+economics than a regulated B2B obligation: the buyer is fragmented, the supply is near-infinite, and the distribution
+is usually RENTED. Add five checks):**
+  CONS-1 COMMODITY-CONTENT / INFINITE-SUPPLY (the attention-market T1): is the core output something thousands already
+    produce, or that a frontier LLM now lets anyone produce at zero cost? "Claude writes the daily market brief" is not
+    an edge — it is the definition of infinite supply (every competitor has the same model, per L15). The wedge must be
+    a HARD-TO-COPY edge (a distinctive persona/voice, proprietary data/analysis, a sharp underserved niche, a real
+    community, genuine early-mover timing), NOT "good content, consistently." If the edge is "the AI does it," STOP → T1. ·
+  CONS-2 PLATFORM-DEPENDENCY / WHOSE-DISTRIBUTION (→ T9): on whose rails does the audience live — X, App Store, Instagram,
+    YouTube, Naver? That platform sets the algorithm, owns the relationship, can deplatform/down-rank/change terms
+    overnight, AND is often a competitor (it wants the attention for itself). NAME the owned-distribution asset you accrue
+    (an email list, a phone number, an installed app you control) vs the rented reach. Pure rented distribution with no
+    owned asset = T9 (no-owned-distribution). An email list / installed base you control is the partial escape. ·
+  CONS-3 AUDIENCE-BUILD CAC (the unpaid window = a real cost, not "free"): a "$0 startup cost / 5 min a day" pitch hides
+    its true CAC in the MONTHS of zero-revenue posting needed before the algorithm rewards you — that founder time IS the
+    cost (ties to G8/A8). Model it: how many months of consistent output at what hours before the first dollar, and what
+    is the realistic survival rate of accounts that start cold with no edge? Most die in the unpaid window. ·
+  CONS-4 PER-USER MONETIZATION REALISM (followers ≠ revenue): convert the audience to money with REAL numbers — list
+    size × conversion × ACV, or DAU × ARPU, or followers × sponsor-CPM. A "10k followers → $10k/mo" leap needs the
+    arithmetic shown (10k followers rarely clears even 10% the implied newsletter/affiliate revenue). Check WHO actually
+    pays (advertiser/affiliate/IAP) and whether the value leaks to the platform or the affiliated broker (T8). ·
+  CONS-5 RETENTION / CHURN (the leaky bucket): for an app/community/sub, what is the D30 retention and the churn after the
+    novelty/streak mechanic fades? A captive but BROKE audience (e.g. conscripts) or a one-time-relevant cohort (graduates,
+    dischargees) caps LTV. State the retention assumption and the natural-expiry of the audience (does the user age out?).
+
 ANTI-GAMING CHECK (mandatory after any segment-narrowing): "Does the narrowed segment that saved G4
 still pass G6 (ceiling) ON ITS OWN?" If narrowing to dodge competitors breaks the ceiling, the idea is
 GAMED — mark it and either widen (and re-face competitors) or accept it as MODE-CASH/niche only.
@@ -155,7 +197,12 @@ KILL-TYPES: T1 commodity · T2 incumbent-owns-wedge · T3 capital/license/data w
     a cost, not a kill) · T6 capacity-unreachable (relaxed v2.4: bandwidth gap with NO fund/hire/park path; a gap WITH
     a path → PARK-till-capacity, not KILL) ·
   T7 catalyst-fragile (why-now rests on ONE policy that can be repealed/paused — added v2.3) ·
-  T8 value-capture-mismatch (real value flows to services/credits/hardware, NOT the software we'd sell — added v2.3).
+  T8 value-capture-mismatch (real value flows to services/credits/hardware, NOT the software we'd sell — added v2.3) ·
+  T9 platform-dependency / no-owned-distribution (added v3.0: the audience/reach is RENTED from a platform you don't
+    control — which sets the algorithm, owns the user relationship, can deplatform or down-rank you overnight, and is
+    often itself a competitor — with NO owned-distribution asset (email list / installed base / direct relationship)
+    accruing underneath. Distinct from T5 (no channel at all) and T2 (a named rival): here the channel EXISTS but you
+    merely rent it, so the platform captures the leverage. The escape is an OWNED asset built on top of the rented reach).
 
 ═══════════════════════════════════════════════════════════════
 ## 4. HARDEN (make survivors stronger; same loop, now adversarial)
@@ -262,6 +309,16 @@ L14 (added v2.9, cycle 30) IN A PLACED-UNIT / PHYSICAL-FORMAT BUSINESS THE MOAT 
   of the 의류관리기 market) already does ~80% of the function, the placed/per-use product survives only if it sells a DISTINCT
   job (convenience at the moment of need), and that WTP must be buyer-validated, not assumed. Monetization usually lives in a
   B2B2C leg (venue rev-share + brand sampling/sponsorship), not the consumer coin alone.
+L15 (added v3.0, cycle 31) A COMMODITY CAPABILITY EVERYONE CAN RENT IS NOT A MOAT — AND WHEN "THE AI DOES IT" IS THE PITCH,
+  YOU HAVE DESCRIBED INFINITE SUPPLY, NOT AN EDGE (generalizes L8 from hardware/build-skill to rented AI/no-code stacks).
+  A frontier LLM, a no-code builder, a stock-photo generator — anyone can rent the identical capability for ~$20/mo, so it
+  LOWERS the entry barrier for every competitor simultaneously; it is negative differentiation. Both cycle-31 ideas made
+  this error: the faceless finance account's headline advantage was "Claude writes everything" (→ K34, every rival has the
+  same Claude), and the 군대 app called "LLM-powered quest generation" its PRIMARY moat (→ PARK-6, every app has the same
+  LLM). The moat must be the thing the rented capability is POINTED AT and which compounds privately — a proprietary
+  dataset, an owned audience/distribution, a regulated liability entity, an exclusive placement, a brand — never the rented
+  tool itself. Litmus test: if a competitor can replicate your core value by buying the same subscription you did, the AI
+  is your COST, not your moat.
 (Each Law is provisional. If the META-LOOP finds a counter-example, it gets rewritten with a logged reason.)
 **REJECTED (v2.3, logged so it's never re-adopted): "conflicted incumbents won't build a tool that cannibalizes
 their revenue, so the space stays open." Web-falsified in cycle 24 — testing labs (Battelle, Eurofins) actively
@@ -275,18 +332,23 @@ MON pick MODE(s) + generate from rotating axis · TUE symmetric gate (kill+win s
 WED harden + bull/bear adversary · THU score + ledger + (every 8) META-LOOP audit · FRI VALIDATE: send 3-5
 buyer messages for any 🔬 idea. Decision date enforced. Build quota enforced.
 
-## CURRENT STATE (updated cycle 30 — Jun 2 2026 · OS v2.9 · full history in `/ledger/`)
+## CURRENT STATE (updated cycle 31 — Jun 2 2026 · OS v3.0 · full history in `/ledger/`)
 **The board:** the one defensible whitespace is the KR-FI accountability/소명 engine (LEAD-1 + its legs CASH-D1, MOAT-A1,
-  MOAT-D1, DATA-C1). 6 generate-cycles (24-29) + this cycle's booth = ~17 straight T2 kills, confirming: every wedge OTHER
-  than the narrow 책무구조도/관리의무-소명 niche already has a named incumbent.
+  MOAT-D1, DATA-C1). 6 generate-cycles (24-29) + the booth + this cycle's two consumer ideas = ~18 incumbent/commodity kills,
+  confirming: every wedge OTHER than the narrow 책무구조도/관리의무-소명 niche already has a named incumbent OR is an
+  infinitely-supplied consumer commodity.
 **Binding constraint:** VALIDATION, not idea supply — LEAD-1/CASH-D1 are 🔬 at **0/3 buyer signals**. Capacity is NOT the
-  constraint (v2.8 proved relaxing both cash knobs changed nothing).
-**Cycle 30 (this cycle):** operator added a non-SaaS axis → **AXIS-G** + the §3g PHYS sub-block + L14. Ran the de-smell-booth
-  genre → **🟡 PARK-5** — an honest NON-kill: real format-whitespace + a proven placed-booth model (포토이즘), but the function
-  is owned by 스타일러/에어드레서 + Febreze-class sprays, clone-risk is high, and per-use WTP is unproven → a cheap validation
-  test, not a build. Ledger split into `/ledger/` (active-ideas · kill-log · cycles · playbook).
+  constraint (v2.8 proved relaxing both cash knobs changed nothing); idea-TYPE is not the constraint either (B2B-regulatory,
+  physical, AND consumer all now explored — the whitespace is still the singular KR-FI engine).
+**Cycle 31 (this cycle):** operator handed two CONSUMER ideas to stress-test → both fell outside every existing axis →
+  added **AXIS-H** (consumer/audience/creator-economy) + the **§3h CONS sub-block** + **T9** (platform-dependency) + **L15**
+  (rented commodity capability ≠ moat; "the AI does it" = infinite supply). Verdicts: **🔴 K34** faceless AI-finance-X account
+  (first clean NON-T2 kill — T1 commodity content + T9 rented platform + L15; a low-ceiling no-moat side-hustle, not a venture);
+  **🟡 PARK-6** 군대 self-improvement app (the fused product isn't shipped by one incumbent, but every moat leg fails today —
+  distribution owned by 군돌이 2.92M / 더캠프, mechanic owned by 상태창/Habitica, gov data is PUBLIC open-API (L11/L13), 적금
+  owned by banks, B2B credential buyer speculative (T8), and the pay-raise why-now is FROZEN 2026-27 → validate, don't build).
 **Active:** 🔬 LEAD-1 (DUAL) · 🔬 CASH-D1 (fastest/hottest — 책무구조도 Jul-2 deadline) · ⚙️ MOAT-A1 (CISO persona; fresh
   망분리/AI-RMF accelerant) · ⚙️ MOAT-D1 (benchmark, folded) · ⚙️ DATA-C1 (future SKU). 🟡 PARK: TAAMS · David's algo ·
-  NuvoVet · music-credit (PARK-4) · de-smell booth (PARK-5). 🔴 33 kills — see `/ledger/kill-log.md`.
+  NuvoVet · music-credit (PARK-4) · de-smell booth (PARK-5) · 군대 self-dev app (PARK-6). 🔴 34 kills — see `/ledger/kill-log.md`.
 **NEXT ACTION (Prime Directive — anti-loop active, do NOT generate):** VALIDATE. Send 3-5 discovery messages via Ace's dad +
   Coxwave, led by the 책무구조도 Jul-2 deadline + the 망분리/AI-RMF accelerant. Ask what they DID. Decision date = 2026-07-02.
