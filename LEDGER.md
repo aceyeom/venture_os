@@ -15,7 +15,7 @@ This ledger is split into four files so a human can read it. Open the one you ne
 
 ## DASHBOARD
 
-**Mode:** CASH (operator-selected) · **Cycle:** 31 · **Decision date:** 2026-07-02 (mid-tier 책무구조도 statutory deadline — the buyer's clock is our clock)
+**Mode:** CASH (operator-selected) · **Cycle:** 32 · **Decision date:** 2026-07-02 (mid-tier 책무구조도 statutory deadline — the buyer's clock is our clock)
 **Anti-loop:** ACTIVE — do NOT generate; a 🔬 VALIDATE idea has un-sent buyer conversations.
 
 **🎯 The one defensible whitespace:** the **KR-FI accountability / 소명 engine** (LEAD-1 + its legs). 6 generate-cycles (24-29) + the cycle-30 booth + cycle-31's two consumer ideas = ~18 incumbent/commodity kills, confirming every wedge OTHER than the narrow 책무구조도/관리의무-소명 niche already has a named incumbent OR is an infinitely-supplied consumer commodity — and the board already holds the niche it can defend.
@@ -30,9 +30,12 @@ This ledger is split into four files so a human can read it. Open the one you ne
 | **MOAT-A1** 자율보안 소명-evidence layer | MOAT | ⚙️ HARDENING | CISO persona; fresh 망분리/AI-RMF accelerant folded in |
 | **MOAT-D1** FSS-exam benchmark | MOAT | ⚙️ HARDENING | Folded into LEAD-1 as its moat leg |
 | **DATA-C1** 민원·분쟁 → sanction benchmark | DUAL | ⚙️ HARDENING | Future SKU; weaker why-now. Do NOT build |
-| **PARK-1..6** | — | 🟡 PARK | TAAMS · David's algo · NuvoVet · music-credit · de-smell booth (AXIS-G) · 군대 self-dev app (AXIS-H) |
+| **PARK-1..7** | — | 🟡 PARK | TAAMS · David's algo · NuvoVet · music-credit · de-smell booth (AXIS-G) · 군대 self-dev app (AXIS-H) · **bicultural next-gen club (AXIS-B, cycle 32 — cheapest to validate)** |
 
-### This cycle (31)
+### This cycle (32)
+Operator handed the **SIS/SFS international-student network** (AXIS-B, network-led) to mine for services. Framed by L7 (network = SEED/CHANNEL, not a moat) and the board's own precedent (K25 Guam, K26 intl-student housing both died "KR network = SEED≠MOAT"). Gated 6 ideas → **3 kills + 1 survivor**: every *service sold INTO* the cohort is T2 + L7 — **K35** boutique admissions (Crimson Gangnam + countless counselors), **K36** cross-border family-office concierge (banks/김앤장/Big4/Wealthy&Wise + T3 license), **K37** elite talent placement (recruiters own it). The one survivor is **PARK-7** — make the **closed network ITSELF the product** (curated bicultural-next-gen community/club, monetized B2B2C brand-access + events, optional license-gated capital layer later): the rare L7 exception where exclusivity = network effect and the roster IS the moat. **Key finding:** PARK-7 is the **first idea on the board whose binding constraint (buyer contact) is already solved** — the founders own the seed audience → it's the cheapest live VALIDATE available (run one paid invite-only event + get one brand to commit to pay-for-access). No framework gap → no version bump.
+
+### Prior cycle (31)
 Operator handed two **consumer** ideas to stress-test (faceless AI-finance X account · gamified 군대 self-improvement app) and asked to fix the framework if too rigid/non-comprehensive. The gap was real: both fell **outside every existing axis** (A-G were all B2B-regulatory/data/physical). → added **AXIS-H** (consumer/audience/creator-economy) + the **§3h CONS-1..5 sub-block** + **T9** (platform-dependency/rented-distribution) + **L15** (a rented commodity capability — a frontier LLM — is not a moat; "the AI does it" = infinite supply). Verdicts: **🔴 K34** the faceless AI-finance account — the **first clean NON-T2 kill** (T1 commodity content self-supplied by AI + T9 rented platform + value leaking to the broker; a $10k/mo side-hustle with no moat, not a venture); **🟡 PARK-6** the 군대 app — the fused product isn't shipped by one incumbent, but distribution is owned by **군돌이 (2.92M)**/더캠프, the RPG mechanic by 상태창/Habitica, the gov data is a **public open-API**, the 적금 by banks, the B2B credential-buyer is speculative (T8), and the pay-raise why-now is **frozen 2026-27** → validate, don't build.
 
 ### ▶️ NEXT ACTION (Prime Directive)
